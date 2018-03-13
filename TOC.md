@@ -19,7 +19,7 @@ Activate your fully featured version.
 # [Getting Started](getting-started)
 This article will show some of the common use cases and usual steps when using the application for the first time.
 ## [](index.md)
-# [Get to know Syskit Security Manager](get-to-know-security-manager.md)
+# [Get to know SysKit Security Manager](get-to-know-security-manager.md)
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features. 
 # [How To](how-to.md)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
