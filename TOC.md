@@ -11,6 +11,8 @@ Make sure that your environment and the account used for the application meet Sy
 The installation guide provides instructions on how to install SysKit Security Manager or update it to the latest version.
 # [Activation](activation.md)
 Activate your fully featured version.
+# [Getting Started](getting-started.md)
+This article will show some of the common use cases and usual steps when using the application for the first time.
 # [How To](how-to.md)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
 # [FAQ](faq.md)
