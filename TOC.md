@@ -3,7 +3,7 @@ title: Table of Contents
 private: true
 ---
 
-# [Product Updates](product-updates.md)
+# [Product Updates](product-updates)
 Check out the new SysKit Security Manager version delights. See the changes in the latest version and upgrade. 
 ## [SysKit Security Manager - Release Note](syskit-security-manager-1-release-note.md)
 # [Requirements](requirements)
