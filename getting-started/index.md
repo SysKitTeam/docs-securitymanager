@@ -13,7 +13,7 @@ You can also use your credentials to connect to Office 365 Groups.
 
 Afterwards, on the __Site Collections__ screen, you can see the site structure and explore and manage the permissions of the site collections you connected. On the __Office 365 Groups__ screen, you can see an overview of all connected Office 365 Groups: their settings, owners and members.
 
-For detailed information on user permission requirements, see this article.
+For detailed information on user permission requirements, see [this article](#internal/requirements/user-permissions-requirements).
 
 ## Site Collections
 The moment you connect to a new site collection, you can explore and manage SharePoint permissions from SysKit Security Manager. SysKit Security Manager works with both SharePoint Online and On-Premise site collections. If you connect to Office 365 Groups, you can see Office 365 Groups site collections. 
