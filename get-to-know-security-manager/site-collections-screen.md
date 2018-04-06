@@ -24,7 +24,7 @@ All management actions are contextually related to selected objects, which means
 
 * __Grant Permissions__ – Allows you to assign permissions to a user or a group on a selected SharePoint securable object with unique permissions.
 * __Create Group__ – Creates a new SharePoint group on the selected SharePoint object with unique permissions.
-* __Go to Group__ – Opens associated Office 365 group for given Office 365 site collection.
+* __Go to Group__ – Opens associated Office 365 Group for given Office 365 site collection.
 * __Edit Group Settings__ – Configures SharePoint group settings: name, owner, membership.
 * __Edit Permissions__ – Modifies assigned permission levels for a selected principal.
 * __Remove Permissions__ – Removes all previously granted permissions from a selected user. User will still exist on this site collection but will no longer have any assigned permissions on this SharePoint object.
