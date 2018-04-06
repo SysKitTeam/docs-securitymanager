@@ -25,10 +25,12 @@ Activate your fully featured version.
 
 # [Getting Started](getting-started)
 This article will show some of the common use cases and usual steps when using the application for the first time.
-## [](index.md)
+## [SysKit Security Manager Getting Started](index.md)
+
 # [Get to know SysKit Security Manager](get-to-know-security-manager)
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features.
-## [SysKit Security Manager Getting Started](index.md)
+## [Site Collections Screen](site-collections-screen.md)
+## [Office 365 Groups Screen](office-365-groups-screen.md)
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
