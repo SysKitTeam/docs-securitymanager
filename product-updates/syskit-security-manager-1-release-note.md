@@ -43,7 +43,7 @@ If your site collection is enabled for sharing with external users or sharing by
 Review the list of people requesting access and manage access requests.
 
 ## Office 365 Groups Management
-Get an overview of your connected Office 365 Groups add manage group settings, permissions and membership from a single interface.
+Get an overview of your connected Office 365 Groups and manage group settings, permissions and membership from a single interface.
 
 Read more about [Office 365 Groups](#internal/get-to-know-security-manager/office-365-groups).
 
