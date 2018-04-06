@@ -16,7 +16,7 @@ Product activation is a simple step that takes place during registration of your
 
 ### Who will be required to activate their products?
 
-Anyone who purchases Syskit Security Manager will be required to activate the product. If the product is ordered online from the SysKit website, the product activation code will be sent via email.
+Anyone who purchases Syskit Security Manager will be required to activate the product. To activate the product, use the email address associated with your account. More information can be found in the [customers portal](https://my.syskit.com).
 
 ### How soon must I activate my product?
 
@@ -25,10 +25,6 @@ It is recommended you activate your product within the 30 days of the trial peri
 ### What happens if I do not activate my product?
 
 If you do not activate your product within the 30-day trial period, it will stop working until you activate it.
-
-### If I do not have a product activation code to activate my software, how can I get a product activation code?
-
-If you cannot find your product activation code, you should send a support request to [support team](https://www.syskit.com/company/contact-us/).
 
 ### How do I activate my product?
 
