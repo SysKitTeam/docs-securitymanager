@@ -14,6 +14,6 @@ Right now, connecting to multiple site collections at once is not supported. But
 
 ## Why am I seeing all the external users on my root site collection?
 SysKit Security Manager shows all the external users that have accessed your site collection.
-When you share with someone a link to eg a Word document, that link will actually point to a document viewer located on the root site collection.
+When you share with someone a link to e.g. a Word document, that link will actually point to a document viewer located on the root site collection.
 So, when the user navigates to that provided link he will be added to the user list of the root site collection, even though the only content that he can view is located on another site collection.
 
