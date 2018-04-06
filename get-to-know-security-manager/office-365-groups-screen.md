@@ -12,7 +12,7 @@ Available management actions for Office 365 Groups are contextually related to t
 
 Note! Before you can start exploring Office 365 Groups management actions, SysKit Security Manager will ask you to provide SharePoint Online Global Administrator consent. If you do not accept or do not have the right privileges, a set of Office 365 Groups features will not be available.
 
-## Available actions 
+### Available actions 
 * __Connect__ – Discover and connect to Office 365 Groups and their site collections.
 * __Create Office 365 Group__ – Create new Office 365 Group in your tenant.
 * __Remove Group__ – Remove Office 365 Group from SysKit Security Manager.
