@@ -31,7 +31,7 @@ Good news! Managing SharePoint permissions just got easier with SysKit Security 
 Read more about [Site Collections](#internal/get-to-know-security-manager/site-collections-screen) screen possibilities and management options.
 
 ## Items with Unique Permissions 
-Detection of unique permissions at the item level and deep nested SharePoint structure can be challenging task.
+Detection of unique permissions at the item level and deep nested SharePoint structure can be a challenging task.
 This report helps you find out folders and files which have unique permissions. Drill to Report action enables you to list all permissions of the items with broken inheritance. 
 
 ## External Users & Anonymous Access Links 
