@@ -7,11 +7,12 @@ date: 05/04/2018
 
 The __Site Collections__ screen gives you an overview of your connected site collections (coloured red) as well as connected Office 365 Groups site collections (coloured blue). 
 
+## Permissions
 The __Permissions__ tab lets the site collection administrator explore SharePoint permissions in real time by simply navigating to the specific securable object. Use the tree on the left-hand side to navigate and expand to the desired SharePoint securable objects and view permissions details in the Permissions tab. 
 
 All management actions are contextually related to selected objects, which means users can __click on or hover over something to get a contextual menu__ that offers actions related to the selected item.
 
-## Available actions
+### Available actions
 * __Refresh__ – Reloads currently selected SharePoint object permission information or the entire permissions explorer tree.
 * __View in SharePoint__ – View and manage selected site content in your browser.
 * __Edit Site Collection__ – Edit connected Online or On-Premise site collection credentials.
@@ -36,10 +37,14 @@ All management actions are contextually related to selected objects, which means
 * __Delete User__ – Deletes the selected principal from the entire site collection. User or Active Directory/ Security group will no longer have any permissions assigned and will be deleted from the entire site collection.
 * __Delete Group__ – Deletes the selected SharePoint group from the entire site collection. This SharePoint group will no longer have any permissions assigned and will be deleted from the entire site collection.
 
+## External Users on Site Collection
 The __External Users on Site Collection__ tab shows all the external users that have accessed your site collection.
 
+## Access Requests
 The __Access Requests__ tab allows SharePoint site collection administrators to review and manage (approve or decline) access requests. If you approve the request, you can also specify the specific level of permission you’d like to assign to a user. 
 
+## Items with Unique Permissions
 The __Items with Unique Permissions__ lists all the broken inheritance objects in SharePoint. You can drill to the permissions report of the selected item to review its permissions.
 
+## Anonymous Links
 Use __Anonymous Links__ tab to find out which documents or folders are shared to anonymous users with anonymous guest link and check link types and expiration dates.
