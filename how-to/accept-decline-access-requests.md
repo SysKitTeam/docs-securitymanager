@@ -2,7 +2,7 @@
 title: Accept or decline access requests
 author: Petra Filipi 
 date: 05/04/2018 
-description: This section describes how to accept or decline access requests from SysKit Security Manager.
+description: This section describes how to accept or decline access requests using SysKit Security Manager.
 --- 
 
 1.	Navigate to the desired SharePoint Object in tree.
