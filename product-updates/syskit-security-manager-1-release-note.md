@@ -1,7 +1,7 @@
 ---
-title: SysKit Security Manager - SharePoint and Office 365 security reporting and management tool
+title: SysKit Security Manager - SharePoint and Office 365 security management tool
 author: Petra Filipi     
-date: 14/03/2018 
+date: 11/04/2018 
 description: This article describes what is this new SharePoint and Office 365 security reporting and management tool bringing in the first release.
 ---
 SysKit Security Manager is centralized __SharePoint and Office 365 security reporting and management tool__. It was created to help SharePoint site collection administrators with controlling the security in their SharePoint and Office 365 environment. Let's see what this version of the tool is bringing to the table.
@@ -54,6 +54,3 @@ Export any Security Manager report to Excel. Using Excel, you can easily filter,
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to contact us and send us your feedback and suggestions.
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
-
-
-
