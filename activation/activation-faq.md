@@ -28,7 +28,7 @@ If you do not activate your product within the 30-day trial period, it will stop
 
 ### How do I activate my product?
 
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](#internal/activation/online-offline-activation#Offline Activation).
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](#internal/activation/online-offline-activation).
 
 ### What does SysKit do with the information sent during the product activation process?
 
