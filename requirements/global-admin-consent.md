@@ -2,7 +2,7 @@
 title: Global Administrator Consent
 description: This article discusses why global administrator consent is needed for SysKit Security Manager
 author: Vinko Bedek
-date: 2018-04-09
+date: 09/04/2018
 ---
 
 ## Why does SysKit Security Manager need consent from a global administrator?
@@ -30,11 +30,11 @@ SysKit Security Manager requires the following delegated permissions:
 - Read directory data
 
 Granting delegated permissions to an application means that the application may act on behalf of a user. 
-This means that the effective permissions that the user has are still limited by his own permissions. ie. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so otherwise.
+This means that the effective permissions that the user has are still limited by his own permissions. ie. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so.
 
 ## Additional Info
 
-Click [here](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-applications-guiding-developers-requiring-user-assignment) to learn more on how to limit the consent given to specefic users if you choose to do so.
+Click [here](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-applications-guiding-developers-requiring-user-assignment) to learn more on how to limit the consent given to specific users if you choose to do so.
 
 If you at any time decide to revoke the given consent, you can do so by:
 
