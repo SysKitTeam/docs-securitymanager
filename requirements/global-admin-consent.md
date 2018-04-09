@@ -7,7 +7,7 @@ date: 2018-04-09
 
 ## Why does SysKit Security Manager need consent from a global administrator?
 
-To achieve some of its functionality regarding Office 365 groups, SysKit Security Manager is registered as an Azure Active Directory Application that uses the Microsoft Graph. 
+To achieve some of its functionality regarding Office 365 Groups, SysKit Security Manager is registered as an Azure Active Directory Application that uses the Microsoft Graph. 
 To use the Microsoft Graph the user running the application must consent to the permissions that the application requires. 
 
 When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown.
