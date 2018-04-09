@@ -38,9 +38,9 @@ Click [here](https://docs.microsoft.com/en-us/azure/active-directory/active-dire
 
 If you at any time decide to revoke the given consent, you can do so by:
 
-1. Go to https://portal.azure.com.
-2. Select **Azure Active Directory**.
-3. Select **Enterprise Applications**.
-4. Select **SysKit Security Manager**.
-5. Use the **delete** button.
+1. Go to [Microsoft Azure portal](https://portal.azure.com).
+2. Select __Azure Active Directory__.
+3. Select __Enterprise Applications__.
+4. Select __SysKit Security Manager__.
+5. Use the __Delete__ button.
 
