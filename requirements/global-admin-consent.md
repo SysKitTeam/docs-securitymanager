@@ -13,6 +13,13 @@ To use the Microsoft Graph the user running the application must consent to the 
 When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown.
 But, when the same action is performed with a non admin user the action will fail unless administrative consent has been given to the application on the organization level.
 This is because the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
+
+Functionalities that require consent from global administrator:
+- Create Office 365 group
+- Delete Office 365 group
+- Add owner/member to Office 365 group
+- Remove owner/member from Office 365 group
+
  
 ## What permissions does SysKit Security Manager require?
 
