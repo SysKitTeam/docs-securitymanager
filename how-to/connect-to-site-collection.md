@@ -2,7 +2,7 @@
 title: Connect to SharePoint Online or On-Premise site collection
 author: Petra Filipi 
 date: 05/04/2018 
-description: This section describes how to connect to SharePoint Online or On-Premise site collection form SysKit Security Manager.
+description: This section describes how to connect to SharePoint Online or On-Premise site collection from SysKit Security Manager.
 --- 
 
 1.	Click the __Connect to Site Collection__ button.
