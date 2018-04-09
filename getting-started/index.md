@@ -19,4 +19,4 @@ For detailed information on user permission requirements, see [this article](#in
 The moment you connect to a new site collection, you can explore and manage SharePoint permissions from SysKit Security Manager. SysKit Security Manager works with both SharePoint Online and On-Premise site collections. If you connect to Office 365 Groups, you can see Office 365 Groups site collections. 
 
 ## Office 365 Groups
-The Office 365 Groups screen gives you an overview of Office 365 Groups: their settings, owners and members. In order to manage Office 365 Groups from SysKit Security Manager, __Global Administrator consent__ is needed.
+The Office 365 Groups screen gives you an overview of Office 365 Groups: their settings, owners and members. In order to manage Office 365 Groups from SysKit Security Manager,  [Global Administrator Consent](#internal/requirements/global-admin-consent) is needed.
