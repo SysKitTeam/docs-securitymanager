@@ -11,6 +11,7 @@ Check out the new SysKit Security Manager version delights. See the changes in t
 Make sure that your environment and the account used for the application meet SysKit Security Manager requirements.
 ## [System Requirements](system-requirements.md)
 ## [User Permissions Requirements](user-permissions-requirements.md)
+## [Global Admin Consent](global-admin-consent.md)
 
 # [Installation](installation)
 The installation guide provides instructions on how to install SysKit Security Manager or update it to the latest version.
