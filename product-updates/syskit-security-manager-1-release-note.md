@@ -9,7 +9,7 @@ SysKit Security Manager is centralized __SharePoint and Office 365 security repo
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 __Product version:__ 1.0.0  
-__Build number:__  407   
+__Build number:__  429   
 __Release date:__ Apr 11, 2018  
 
 ## Site Collections Screen – Explore and manage SharePoint permissions (Online & On-Premise)
@@ -32,7 +32,7 @@ Read more about [Site Collections](#internal/get-to-know-security-manager/site-c
 
 ## Items with Unique Permissions 
 Detection of unique permissions at the item level and deep nested SharePoint structure can be a challenging task.
-This report helps you find out folders and files which have unique permissions. Drill to Report action enables you to list all permissions of the items with broken inheritance. 
+This report helps you find out folders and files which have unique permissions. __Drill to Report__ action enables you to list all permissions of the items with broken inheritance. 
 
 ## External Users & Anonymous Access Links 
 If your site collection is enabled for sharing with external users or sharing by using anonymous access links is allowed, these two reports can help you increase data security and compliance.
