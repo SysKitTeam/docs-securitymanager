@@ -8,4 +8,4 @@ To install __SysKit Security Manager__ and to successfully manage SharePoint per
 * __Local Administrator__ on the target installation computer
 * __Site Collection Administrator__ on the desired SharePoint Online or SharePoint On-Premises environment
 
-In order to fully utilize management options of SysKit Security Manager for Office 365 Groups you need to be given consent by a Global SharePoint Online Administrator.
+In order to fully utilize management options of SysKit Security Manager for Office 365 Groups you need to be given [consent by a Global SharePoint Online Administrator](#internal/requirements/global-admin-consent).
