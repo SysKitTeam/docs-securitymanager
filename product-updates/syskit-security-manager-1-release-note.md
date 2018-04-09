@@ -51,6 +51,6 @@ Read more about [Office 365 Groups](#internal/get-to-know-security-manager/offic
 Export any Security Manager report to Excel. Using Excel, you can easily filter, explore, and analyze your data. Share your report file with your boss or colleagues, or print it out. 
 
 ## Tell us what you think!
-Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to contact us and send us your feedback and suggestions.
+Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact us](https://www.syskit.com/company/contact-us/) and send us your feedback and suggestions.
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
