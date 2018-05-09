@@ -9,7 +9,7 @@ SysKit Security Manager is centralized __SharePoint and Office 365 security repo
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 __Product version:__ 1.0.0  
-__Build number:__  465   
+__Build number:__  570     
 __Release date:__ Apr 11, 2018  
 
 ## Site Collections Screen – Explore and manage SharePoint permissions (Online & On-Premise)
