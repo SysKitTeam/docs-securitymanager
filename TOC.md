@@ -32,6 +32,7 @@ This article will show some of the common use cases and usual steps when using t
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features.
 ## [Site Collections Screen](site-collections-screen.md)
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
+## [Snapshots Screen](snapshots-screen.md)
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
