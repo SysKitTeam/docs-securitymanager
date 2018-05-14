@@ -40,6 +40,7 @@ When you get stuck trying to make magic happen, these guides will tell you the s
 ## [Connect Office 365 Groups](connect-office-365-groups.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
 ## [Compare Permissions](compare-permissions.md)
+## [Take Manual Snapshots](manual-snapshots.md)
 
 # [FAQ](faq)
 These are some of the most common questions and answers about SysKit Security Manager. If you cannot find the answer to your problem, please contact us.
