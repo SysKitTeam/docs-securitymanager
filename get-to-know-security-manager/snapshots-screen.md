@@ -11,7 +11,7 @@ The __Load Duration__ column displays how long it took to take a snapshot of you
 
 The following actions are available:
 
-* __Take Snapshot__ - Take a manual snapshot of your environment.
-* __Open Snapshot__ - Open the currently selected snapshot.
-* __Delete Snapshot__ - Delete the currently selected snapshot.
+* __Take Snapshot__ – Take a manual snapshot of your environment.
+* __Open Snapshot__ – Open the currently selected snapshot.
+* __Delete Snapshot__ – Delete the currently selected snapshot.
 
