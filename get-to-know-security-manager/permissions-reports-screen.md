@@ -12,7 +12,7 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 
 * __Permissions Matrix__ – Shows all principals on a selected SharePoint object and which permission level each of them has.
 * __Permission Level Usage__ – Displays all the site collections where the selected permission level exists and if it is being used (assigned to any principal).
-* __Unique Permissions__ – 
+* __Unique Permissions__ – Shows SharePoint objects (sites, lists, items) with unique permissions, e.g. objects with broken permission inheritance.
 
 ## User Reports 
 
