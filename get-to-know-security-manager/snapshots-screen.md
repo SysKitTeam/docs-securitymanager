@@ -5,7 +5,7 @@ author: Petra Filipi
 date: 05/04/2018
 ---
 
-This screen will display all the snapshots of your enviroment created using SysKit Security Manager.
+This screen will display all the snapshots of your environment created using SysKit Security Manager.
 
 The __Load Duration__ column displays how long it took to take a snapshot of your environment.
 
