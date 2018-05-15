@@ -12,9 +12,9 @@ __Build number:__ 590
 __Release date:__ May 16, 2018  
 
 ## Features
-* __SharePoint Online and On-Premises Snapshots__ are now available in SysKit Security Manager! Apart from being able to manage SharePoint Online and On-Premise permissions, you can now take snapshot of all your site collections and Office 365 groups.
+* __SharePoint Online and On-Premises Snapshots__ are now available in SysKit Security Manager! In addition to being able to manage SharePoint Online and On-Premises permissions, you can now take snapshots of all your site collections and Office 365 groups.
 
-* Use the __Permissions Reports__ section to gather valuable information about structure, granted permissions, broken permissions inheritance, and more. Learn more about reports available in this version.
+* Use the __Permissions Reports__ screen to gather valuable information about structure, granted permissions, broken permissions inheritance , and more. Learn more about reports available in this version.
 
 * Compare SharePoint Online and On-Premises permissions for a selected securable object, as well as track permissions differences using the __Compare Wizard__. The following Compare options are available:
     * Compare permissions with a previous snapshot
@@ -23,6 +23,6 @@ __Release date:__ May 16, 2018
 ## Bug Fixes
 
 * Fixed error when trying to connect to a site collection via a non-authenticated proxy.
-* Fixed error when trying to explore permissions for Office 365 groups site collections which have a special character in their names.
+* Fixed error when trying to explore permissions for Office 365 groups site collections that have a special character in their names.
 
 
