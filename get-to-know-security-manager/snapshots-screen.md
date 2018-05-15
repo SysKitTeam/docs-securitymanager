@@ -2,7 +2,7 @@
 title: Snapshots Screen
 description: The Snapshots Screen allows SharePoint administrators to track changes in the SharePoint environment.
 author: Petra Filipi
-date: 05/04/2018
+date: 15/05/2018
 ---
 
 This screen will display all the snapshots of your environment created using SysKit Security Manager.
