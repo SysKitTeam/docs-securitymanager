@@ -8,7 +8,7 @@ SysKit Security Manager is centralized __SharePoint and Office 365 security repo
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 __Product version:__ 2.0.0  
-__Build number:__ 599     
+__Build number:__ 603     
 __Release date:__ May 16, 2018  
 
 ## Features
