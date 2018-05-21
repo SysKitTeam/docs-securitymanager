@@ -6,6 +6,7 @@ private: true
 # [Product Updates](product-updates)
 Check out the new SysKit Security Manager version delights. See the changes in the latest version and upgrade. 
 ## [SysKit Security Manager - SharePoint and Office 365 security management tool](security-manager-1-release-note.md)
+## [SysKit Security Manager 2.0.0](security-manager-2-release-note.md)
 
 # [Requirements](requirements)
 Make sure that your environment and the account used for the application meet SysKit Security Manager requirements.
@@ -32,12 +33,16 @@ This article will show some of the common use cases and usual steps when using t
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features.
 ## [Site Collections Screen](site-collections-screen.md)
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
+## [Snapshots Screen](snapshots-screen.md)
+## [Permissions Reports Screen](permissions-reports-screen.md)
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
 ## [Connect to SharePoint Online or On-Premise site collection](connect-to-site-collection.md)
 ## [Connect Office 365 Groups](connect-office-365-groups.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
+## [Compare Permissions](compare-permissions.md)
+## [Take Manual Snapshots](manual-snapshots.md)
 
 # [FAQ](faq)
 These are some of the most common questions and answers about SysKit Security Manager. If you cannot find the answer to your problem, please contact us.

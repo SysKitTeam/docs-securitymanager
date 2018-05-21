@@ -7,6 +7,8 @@ date: 05/04/2018
 
 The __Site Collections__ screen gives you an overview of your connected site collections (coloured red) as well as connected Office 365 Groups site collections (coloured blue). 
 
+Track permissions changes in your environment using the __Compare__ wizard.
+
 ## Permissions
 The __Permissions__ tab lets the site collection administrator explore SharePoint permissions in real time by simply navigating to the specific securable object. Use the tree on the left-hand side to navigate and expand to the desired SharePoint securable objects and view permissions details in the Permissions tab. 
 
