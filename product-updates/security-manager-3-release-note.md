@@ -28,5 +28,5 @@ __Release date:__ July 16, 2018
     * __Uniquely Secured List Items__ – Shows all list items with broken permissions inheritance.
 
 ## Bug Fixes
-* When attempting to connect to site collection using URL of a subsite, SysKit Security Manager displayed the following error: https://syskit.sharepoint.com/marketing/' is not a valid site collection or is not accessible.
+* When attempting to connect to site collection using URL of a subsite, SysKit Security Manager displayed the following error: "_https://syskit.sharepoint.com/marketing/' is not a valid site collection or is not accessible._"
 To avoid this error we improved validation of site collection links. Now you can connect to your site collection using subsite links or any URL that includes a valid URL of a site collection.
