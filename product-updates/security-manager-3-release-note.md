@@ -18,7 +18,7 @@ __Release date:__ July 16, 2018
 
 ## Features
 * __Automatic Discovery of Site Collections and Office 365 Groups for Global and Farm Administrators__ If you are a Global Admin in Office 365 or a Farm Admin in SharePoint On-Premise, you will be able to automatically discover and connect to all site collections and Office 365 Groups in the tenant.
-* __Ability to Import Site Collection List from File__ If youa are a Site Collection Admin you can connect to multiple site collections at one time by importing site collection URLs from a text file.  Site collection URLs from file must be newline separated. 
+* __Ability to Import Site Collection List from File__ If you are a Site Collection Admin or a Farm Admin you can connect to multiple site collections at one time by importing site collection URLs from a text file.  Site collection URLs in file must be newline separated. 
 * __Ability to Take Partial Snapshots__ – Take snapshot option makes a snapshot of your environment. Now you can choose which site collections will be included in snapshot. Decide either to auto discover and load new site collections and Office 365 groups or manage site collections and Office 365 groups for snapshot from existing connections.
 * __Security Audit Report__
     * __Users with Privileged Access__ – shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc.
