@@ -9,7 +9,7 @@ description: This article describes what's new and improved in the latest versio
 
 SysKit Security Manager is centralized __SharePoint and Office 365 security reporting and management tool__. It was created to help SharePoint global and site collection administrators with controlling the security in their SharePoint and Office 365 environment.
 
-Tool has gone through some changes since the last version. One of those changes is that entering password for SharePoint Online directly into SysKit Security Manager is no longer required. From now on we are using the default sign in experience.
+Tool has gone through some changes since the last version. One of those changes is that entering password for SharePoint Online directly into SysKit Security Manager is no longer required. From now on, we are using the default sign in experience.
 SysKit Security Manager requires [consent from a global administrator](internal/requirements/global-admin-consent). 
 If you are an existing user you will be prompted to sign in and give global admin consent for __additional permissions__ for your existing connections.
 
