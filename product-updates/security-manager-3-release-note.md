@@ -5,7 +5,9 @@ date: 02/07/2018
 description: This article describes what's new and improved in the latest version of SysKit Security Manager.
 ---
 
-SysKit Security Manager is centralized __SharePoint and Office 365 security reporting and management tool__. It was created to help SharePoint global and site collection administrators with controlling the security in their SharePoint and Office 365 environment. 
+SysKit Security Manager is centralized __SharePoint and Office 365 security reporting and management tool__. It was created to help SharePoint global and site collection administrators with controlling the security in their SharePoint and Office 365 environment.
+
+Tool has gone through some changes since the last version. One of those changes is that entering password for SharePoint Online directy into SysKit Security Manager is no longer required. From now on we are using the default sign in experience. 
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
@@ -23,8 +25,6 @@ __Release date:__ July 16, 2018
     * __Directly Assigned Permissions__ shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
     * __Lists with Uniquely Secured Items__ - shows lists and libraries that contain list items with broken permissions inheritance.
     * __Uniquely Secured List Items__ - shows all list items with broken permissions inheritance.
-
-
 
 ## Bug Fixes
 
