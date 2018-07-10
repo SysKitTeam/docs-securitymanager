@@ -5,8 +5,6 @@ date: 18/07/2018
 description: This article describes what's new and improved in the latest version of SysKit Security Manager.
 ---
 
-## We're excited to present SysKit Security Manager 3.0
-
 SysKit Security Manager is centralized __SharePoint and Office 365 security reporting and management tool__. It was created to help SharePoint global and site collection administrators with controlling the security in their SharePoint and Office 365 environment.
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
