@@ -15,7 +15,7 @@ __Release date:__ July 18, 2018
 
 
 ## Features
-* Tool has gone through some changes since the last version. One of those changes is that entering password for SharePoint Online directly into SysKit Security Manager is no longer required. From now on, we are using the default sign in experience.
+* Tool has gone through some changes since the last version. One of those changes is that entering password for SharePoint Online directly into SysKit Security Manager is no longer required. From now on, we are using the default sign-in experience.
 This also means that __SysKit Security Manager now has support for Multi-Factor Authentication__ (MFA).
 SysKit Security Manager requires [consent from a global administrator](internal/requirements/global-admin-consent). 
 If you are an existing user you will be prompted to sign in and give global admin consent for __additional permissions__ for your existing connections.
