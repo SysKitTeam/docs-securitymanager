@@ -10,3 +10,5 @@ description: This section describes how to connect to SharePoint Online or On-Pr
 3.	Enter __New Credentials__ or choose __Existing Credentials__.
 4.	Click __Test Connection__ to verify your credentials.
 5.	Click __Connect__.
+
+test
