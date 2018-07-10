@@ -15,7 +15,7 @@ The __Permissions__ tab lets the site collection administrator explore SharePoin
 All management actions are contextually related to selected objects, which means users can __click on or hover over something to get a contextual menu__ that offers actions related to the selected item.
 
 ### Available actions
-* __Remove Tenant/ Web Application Connection__ – Remove unwanted tenant and web application connections from SysKit Security Manager.
+* __Remove Tenant/ Web Application Connection__ – Remove unwanted tenant or web application connections from SysKit Security Manager.
 * __Refresh__ – Reloads currently selected SharePoint object permission information or the entire permissions explorer tree.
 * __View in SharePoint__ – View and manage selected site content in your browser.
 * __Edit Credentials__ – Edit connected On-Premises site collection credentials.
