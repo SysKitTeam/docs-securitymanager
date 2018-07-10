@@ -37,7 +37,9 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 ## [Permissions Reports Screen](permissions-reports-screen.md)
 
 # [How To](how-to)
-When you get stuck trying to make magic happen, these guides will tell you the secret. 
+When you get stuck trying to make magic happen, these guides will tell you the secret.
+## [Connect to Office 365](how-to/connect-to-office-365.md)
+## [AConnect to SharePoint On-Premises](how-to/connect-to-sharepoint-on-premises.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
 ## [Compare Permissions](compare-permissions.md)
 ## [Take Manual Snapshots](manual-snapshots.md)
