@@ -26,6 +26,11 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Anonymous Access Links__ –  A list of content in the tenant that has been shared with an anonymous guest link.
 * __External Users__ – Lists all external users in the tenant.
 
+## Security Audit
+
+* __Users with Privileged Access__ – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc.
+
+
 ## Cleanup
 
 * __Groups Without Permissions__ – Lists all SharePoint groups that haven’t been assigned any permissions. This includes groups with ”Limited Access” that remained after their permissions on a specific item in the site collection were removed.
@@ -35,7 +40,11 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Users Without Permissions__ – Lists all users that no longer have any permissions assigned, neither directly nor through any SharePoint groups. This also includes users with ”Limited Access” that have remained after their permissions on a specific item in the site collection were removed.
 * __Site Collections With Disabled Administrators__ – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory.
 
+## Health Checks
 
+* __Directly Assigned Permissions__ – Shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
+* __Lists with Uniquely Secured Items__ – Shows lists and libraries that contain list items with broken permissions inheritance.
+* __Uniquely Secured List Items__ – Shows all list items with broken permissions inheritance.
 
 
 
