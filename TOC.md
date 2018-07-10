@@ -38,8 +38,6 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
-## [Connect to SharePoint Online or On-Premise site collection](connect-to-site-collection.md)
-## [Connect Office 365 Groups](connect-office-365-groups.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
 ## [Compare Permissions](compare-permissions.md)
 ## [Take Manual Snapshots](manual-snapshots.md)
