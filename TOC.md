@@ -35,6 +35,7 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
 ## [Snapshots Screen](snapshots-screen.md)
 ## [Permissions Reports Screen](permissions-reports-screen.md)
+## [Credentials List Screen](credentials-screen.md)
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret.
