@@ -19,6 +19,3 @@ Choose __Office 365__ (Online) to start the connection wizard:
 
 ### Summary
 4. Here is an overview of all site collections and Office 365 groups that will be added. You can always edit these from the main navigation.
-
-
-* SysKit Security Manager requires a consent from a global administrator.
