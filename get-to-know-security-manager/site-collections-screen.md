@@ -18,7 +18,7 @@ All management actions are contextually related to selected objects, which means
 * __Remove Tenant/ Web Application Connection__ – Remove unwanted tenant or web application connections from SysKit Security Manager.
 * __Refresh__ – Reloads currently selected SharePoint object permission information or the entire permissions explorer tree.
 * __View in SharePoint__ – View and manage selected site content in your browser.
-* __Edit Credentials__ – Edit connected On-Premises site collection credentials.
+* __Edit Credentials__ – Edit connected On-Premise site collection credentials.
 * __Remove Connection__ – Remove connection for either an Online or On-Premise site collection.
 * __Site Collection Administrators__ – Manage site collection admins. Change primary and secondary site collection administrators or entire site collection administrators group.
 * __Break Inheritance__ – Copies the parent permissions and then stops the permissions inheritance for the selected object. Any changes made to a parent site will not apply to the selected site in the future and vice versa.
