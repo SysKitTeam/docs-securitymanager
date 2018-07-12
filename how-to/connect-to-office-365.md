@@ -7,15 +7,15 @@ description: This section describes how to connect to a single or multiple Share
 Choose __Office 365__ (Online) to start the connection wizard:
 
 ### Credentials
-1. You’ll be redirected to the Microsoft login page and asked to __sign in__ to your account.
+1. You’ll be redirected to the Microsoft login page and asked to __Sign in__ to your account.
     
 ### Site Collections
-2. If you are a __global Office 365 tenant administrator__ all site collections from your tenant will be __auto-discovered__ and you’ll be able to select site collections for which you want to add connections.
+2. If you are a __Global Office 365 Tenant Administrator__, all site collections from your tenant will be auto-discovered and you’ll be able to select site collections to which you want to add connections.
 
-    If you are a __site collection administrator__ you can connect to site collection by __entering its URL__ or you can __import a text file__ with site collection URLs, newline separated. Then click the Test Connection button and Next to proceed.
+    If you are a __Site Collection Administrator__, you can connect to a site collection by __entering its URL__ or you can __import a text file with the site collection URLs__, newline separated. Then click the __Test Connection__ button and __Next__ to proceed.
 
 ### Office 365 Groups
 3. All Office 365 groups from your tenant will be auto-discovered and you’ll be able to __select Office 365 groups__ you want to manage.
 
 ### Summary
-4. Here is an overview of all site collections and Office 365 groups that will be added. You can always edit these from the main navigation.
+4. Here is an overview of all the site collections and Office 365 groups that will be added. You can always edit these from the main navigation.
