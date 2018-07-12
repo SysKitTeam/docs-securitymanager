@@ -37,11 +37,12 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
 ## [Snapshots Screen](snapshots-screen.md)
 ## [Permissions Reports Screen](permissions-reports-screen.md)
+## [Credentials List Screen](credentials-screen.md)
 
 # [How To](how-to)
-When you get stuck trying to make magic happen, these guides will tell you the secret. 
-## [Connect to SharePoint Online or On-Premise site collection](connect-to-site-collection.md)
-## [Connect Office 365 Groups](connect-office-365-groups.md)
+When you get stuck trying to make magic happen, these guides will tell you the secret.
+## [Connect to Office 365](how-to/connect-to-office-365.md)
+## [Connect to SharePoint On-Premise](how-to/connect-to-sharepoint-on-premise.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
 ## [Compare Permissions](compare-permissions.md)
 ## [Take Manual Snapshots](manual-snapshots.md)
