@@ -10,7 +10,8 @@ This article lists some of the commonly asked questions.
 Yes, SysKit Security Manager works with both SharePoint Online and On-Premise site collections.
 
 ## Can I connect to multiple site collections at once? 
-Right now, connecting to multiple site collections at once is not supported. But it is something we want to add in future versions. If you want to connect to more than one site collection, you should repeat the connect process. 
+If you are a __Global Administrator__ in an Office 365 tenant or a __Farm Administrator__ in a SharePoint On-Premise environment, you will be able to automatically discover and connect to all site collections (including Office 365 Groups) in the tenant or farm.
+If you are a __Site Collection Administrator__, you will be able to add multiple connections manually by entering the site collection URLs or by importing a text file with the site collection URLs, newline separated.
 
 ## Why am I seeing all the external users on my root site collection?
 SysKit Security Manager shows all the external users that have accessed your site collection.
