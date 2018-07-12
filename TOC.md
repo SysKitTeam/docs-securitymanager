@@ -41,8 +41,8 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 
 # [How To](how-to)
 When you get stuck trying to make magic happen, these guides will tell you the secret.
-## [Connect to Office 365](how-to/connect-to-office-365.md)
-## [Connect to SharePoint On-Premise](how-to/connect-to-sharepoint-on-premise.md)
+## [Connect to Office 365](connect-to-office-365.md)
+## [Connect to SharePoint On-Premise](connect-to-sharepoint-on-premise.md)
 ## [Accept or Decline Access Requests](accept-decline-access-requests.md)
 ## [Compare Permissions](compare-permissions.md)
 ## [Take Manual Snapshots](manual-snapshots.md)
