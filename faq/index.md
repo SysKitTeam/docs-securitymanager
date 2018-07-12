@@ -18,3 +18,6 @@ SysKit Security Manager shows all the external users that have accessed your sit
 When you share with someone a link to e.g. a Word document, that link will actually point to a document viewer located on the root site collection.
 So, when the user navigates to that provided link he will be added to the user list of the root site collection, even though the only content that he can view is located on another site collection.
 
+## Where does SysKit Security Manager store its data?
+All of the SysKit Security Manager data is stored __per user__ in the Application Data __%APPDATA%__ directory. SysKit Security Manager uses __Microsoft SQL Server LocalDB__ and stores the database files in the __AppData\Local__ folder. To get a fresh start, you can delete the files in this folder. When started, SysKit Security Manager will then create the database files from scratch.
+You can also connect to this database by using the following instance name: __\SysKitSecurityManagerInstance__
