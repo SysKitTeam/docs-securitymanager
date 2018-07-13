@@ -16,7 +16,7 @@ date: 14/03/2018
 * 150MB of available hard disk space
 
 ## Database System
-* SysKit Security Manager Setup will install and configure a new instance of __SQL Server Express 2016 Service Pack 1 LocalDB__ named SSMInstance. 
+* SysKit Security Manager Setup will install and configure a new instance of __SQL Server Express 2016 Service Pack 1 LocalDB__ named SysKitSecurityManagerInstance. 
     * LocalDB instance can be located in the following directory:
 _%LOCALAPPDATA%\SysKit\Security Manager\Db_
 
