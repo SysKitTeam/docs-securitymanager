@@ -10,8 +10,8 @@ Choose SharePoint __On-Premise__ to start the connection wizard.
 Enter your login name and password. Then click the __Test Credentials__ button and __Next__ to proceed.
 
 ### Flow Selection
-If you are a __Farm Administrator__, you’ll be able to automatically discover all site collections in a selected farm.
-	* Enter __SharePoint Configuration Database__ details. Click __Test Connection__ button and then __Discover__.
+If you are a __Farm Administrator__, you’ll be able to automatically discover all site collections in a selected farm.  
+Enter __SharePoint Configuration Database__ details. Click __Test Connection__ button and then __Discover__.
 
 If you are a __Site Collection Administrator__, you can connect to site collections manually.
 
