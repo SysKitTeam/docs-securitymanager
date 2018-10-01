@@ -17,4 +17,4 @@ __Release date:__ August 28, 2018
 All of our reports now show the full path information to each object (Site Relative URL, Library Relative URL, etc.)
 
 ## Bug Fix
-Resolved an issue with auto discover of large number of site collections for Global Admins. Auto discovery step in the connection wizard failed without errors in log.
+Resolved an issue with auto discovery of large number of site collections for Global Admins. Auto discovery step in the connection wizard failed without errors in log.
