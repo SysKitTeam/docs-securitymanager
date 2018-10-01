@@ -14,14 +14,6 @@ When a global administrator uses SysKit Security Manager he will go through the 
 But, when the same action is performed with a non admin user the action will fail unless administrative consent has been given to the application on the organization level.
 This is because the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
 
-Functionalities that require consent from global administrator:
-* Managing SharePoint (i.e. permissions)
-* Create Office 365 Group
-* Delete Office 365 Group
-* Add owner/member to Office 365 Group
-* Remove owner/member from Office 365 Group
-
-
 ## What permissions does SysKit Security Manager require?
 
 SysKit Security Manager requires the following delegated permissions:
@@ -32,6 +24,9 @@ SysKit Security Manager requires the following delegated permissions:
 * Have full control of all site collections
 * Edit or delete items in all site collections
 * Access your data anytime
+* Read all usage reports
+* Access Azure Service Management as you
+  * This is used to retrieve tenants associated with the account using SysKit Security Manager
 
 Granting delegated permissions to an application means that the application may act on behalf of a user. 
 This means that the effective permissions that the user has are still limited by his own permissions. I.e. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so.
