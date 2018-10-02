@@ -24,15 +24,20 @@ __Group Reports__
 * __Group Members__ – shows all members of a selected SharePoint, Active Directory, or Security or Office 365 group.
 * __SharePoint Groups__ – shows all SharePoint groups and its members across the selected site collections.
 * __User Memberships__ – shows all the groups the selected principal is a member of.
+
 __Office 365 Groups Report__
 * __Office 365 Groups With Guests__ – shows all Office 365 groups that have guests or external users as owners or members.
+
 __Microsoft Teams Reports__
 * __Team Level Settings__ – shows Microsoft Teams settings by Team.
 * __Teams With Guests__ – shows all Microsoft Teams that have guests or external users as owners or members.
+
 __OneDrive Reports__
 * __Orphaned OneDrive__ – shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory.
 * __OneDrive With Guests__ – shows personal OneDrive accounts that have guests or external users with existing permissions.
+
 __Integrated Security__ – Now you can connect to your On-Premises environment using integrated credentials (the current Windows account credentials used for authentication). 
+
 __Settings Screen__ – Now you can modify options directly from the SysKit Security Manager interface.
 
 
