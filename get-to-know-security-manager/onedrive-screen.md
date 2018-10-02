@@ -1,5 +1,5 @@
 ---
-title: Office 365 Groups Screen
+title: OneDrive Screen
 description: Detailed overview of connected OneDrive accounts.
 author: Petra Filipi
 date: 02/10/2018
