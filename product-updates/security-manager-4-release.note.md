@@ -11,7 +11,7 @@ SysKit Security Manager is a centralized SharePoint and Office 365 security repo
 
 __Product version:__ 4.0.0  
 __Build number:__      
-__Release date:__ October 3, 2018  
+__Release date:__ October 4, 2018  
 
 ## Features
 __Discover and Connect to Microsoft Teams__ – SysKit Security Manager now offers support for Microsoft Teams. In the connection wizard you will be able to automatically find and [connect to all Microsoft Teams](#internal/how-to/connect-to-office-365) in your tenant. After you connect, you can explore all active and archived Teams in your tenant and their owners, members, guest users, and channels. You can also check the Global Settings report and control access to Teams in your organization. Available management actions are Clone, Update Team Settings, Add/Remove Owner, Add/Remove Member.
