@@ -39,6 +39,7 @@ Dive into a detailed overview of what Security Manager has to offer. Check out t
 ## [Site Collections Screen](site-collections-screen.md)
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
 ## [Microsoft Teams](microsoft-teams-screen.md)
+## [OneDrive](onedrive-screen.md)
 ## [Snapshots Screen](snapshots-screen.md)
 ## [Permissions Reports Screen](permissions-reports-screen.md)
 ## [Credentials List Screen](credentials-screen.md)
