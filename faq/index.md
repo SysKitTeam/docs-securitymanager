@@ -16,7 +16,7 @@ If you are a __Site Collection Administrator__, you will be able to add multiple
 ## Can I see OneDrive reports without making myself an administrator to user OneDrive accounts?
 If you are a Global Office 365 tenant administrator, you’ll have an option in the connection wizard to [connect to all OneDrive accounts](#internal/how-to/connect-to-office-365).
 
-The only way we can access user data and create OneDrive reports is if admin is site collection administrator to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. Please note that these reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
+The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. Please note that these reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
 
 At any time, you can disconnect all OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the Disconnect OneDrive action.
 
