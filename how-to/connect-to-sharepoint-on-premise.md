@@ -7,7 +7,7 @@ description: This section describes how to connect to a single or multiple Share
 Choose SharePoint __On-Premise__ to start the connection wizard.
 
 ### Credentials
-Enter your login name and password. Then click the __Test Credentials__ button and __Next__ to proceed.
+Enter your login name and password or use __Integrated Security__. Then click the __Test Credentials__ button and __Next__ to proceed.
 
 ### Flow Selection
 If you are a __Farm Administrator__, you’ll be able to automatically discover all site collections in a selected farm.  
