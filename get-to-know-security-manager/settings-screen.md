@@ -18,6 +18,9 @@ __SQL command timeout(s)__: 300 – modify the command timeout for the SQL comma
 Note: Modifying the report throttling limits can cause significant performance issues!
 
 __Site collection threshold__: 50 – modify the maximum number of site collections that will be used to generate data for throttled reports.
+
 __Principals threshold__: 100 – modify the maximum number of principals that will be used to generate data for throttled reports.
+
 __Application row count threshold__: 200,000 – modify the maximum number of rows in reports.
+
 __Export row count threshold__: 500,000 – modify the maximum number of rows in exported reports.
