@@ -13,12 +13,15 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Permissions Matrix__ – Shows all principals on a selected SharePoint object and which permission level each of them has.
 * __Permission Level Usage__ – Displays all the site collections where the selected permission level exists and if it is being used (assigned to any principal).
 * __Unique Permissions__ – Shows SharePoint objects (sites, lists, items) with unique permissions, e.g. objects with broken permission inheritance.
+ * __Access Requests__ - Lists  all access requests on the selected subsite. 
 
 ## User Reports 
 
 * __User Permissions Overview__ – A summary of principals' permissions on the tenant. Shows site collections in which users have permissions, permissions that the users have as an individual, and the permissions that were given through a group. 
 * __User Permissions Details__ – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. 
 * __Users with Privileged Access__ – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc.
+* __All Users__ – Shows all users from Azure Active Directory for SharePoint Online tenants or all users from connected site collections for on-premises web applications. 
+*  __Multi-Factor Authentication for Admins__ – Lists MFA information for site collection administrators. 
 
 ## Group Reports
 
@@ -32,6 +35,7 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Externally Shared Content Matrix__ – Shows externally shared content in the tenant hierarchy. Only the externally shared content is displayed.
 * __Anonymous Access Links__ –  A list of content in the tenant that has been shared with an anonymous guest link.
 * __External Users__ – Lists all external users in the tenant.
+* __External Sharing Settings__ – Lists sharing capabilities for site collections. 
 
 ## Cleanup
 
@@ -40,7 +44,9 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Groups Without Users__ – Lists all SharePoint groups without any members.
 * __Orphaned Users__ – Lists all tenant users that still have access to the tenant and are listed as site collection users, but have been disabled or deleted in Active Directory.
 * __Users Without Permissions__ – Lists all users that no longer have any permissions assigned, neither directly nor through any SharePoint groups. This also includes users with ”Limited Access” that have remained after their permissions on a specific item in the site collection were removed.
-* __Site Collections With Disabled Administrators__ – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory.
+* __Site Collections With Disabled Adminis__ – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory.
+* __Customized Default Permission Levels__ – A list of default permission levels that are modified on specific site collections.
+  *  __Identical SP Groups__ – SharePoint groups with identical users.
 
 ## Health Checks
 
@@ -48,16 +54,17 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Lists with Uniquely Secured Items__ – Shows lists and libraries that contain list items with broken permissions inheritance.
 * __Uniquely Secured List Items__ – Shows all list items with broken permissions inheritance.
 
+## Office 365 Groups Reports
+__Office 365 Groups With Guests__ – Shows all Office 365 gGroups that have guests or external users as owners or members.
+
 ## Microsoft Teams Reports
 
 * __Team Level Settings__ – Shows Microsoft Teams settings by Team.
 * __Teams With Guests__ – Shows all Microsoft Teams that have guests or external users as owners or members.
 
-## Office 365 Groups Reports
-__Office 365 Groups With Guests__ – Shows all Office 365 gGroups that have guests or external users as owners or members.
-
 ## OneDrive Reports
 * __Orphaned OneDrive__ – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory.
 * __OneDrive With Guests__ – Shows personal OneDrive accounts that have guests or external users with existing permissions.
+* __OneDrive Shared Items__ – Shows OneDrive items that have been shared.
 
 
