@@ -26,6 +26,8 @@ SysKit Security Manager requires the following delegated permissions:
     * Required for reading additional data from the Azure AD such as directory roles and memberships, ie. checking if the current user is a global admin
 * Have full control of all site collections
     * Required for managing SharePoint permissions and assigning site collection administrators
+* Read items in all site collections
+    * Required to get the SharePoint site url of Office 365 Groups by using the Graph API
 * Access your data anytime
     * Allows refresh token usage, prevents unwanted login prompts on application start
 * Read all usage reports
