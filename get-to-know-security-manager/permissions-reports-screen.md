@@ -26,7 +26,7 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __SharePoint Groups__ – Shows all SharePoint groups and its members across the selected site collections.
 * __User Memberships__ – Shows all the groups the selected principal is a member of.
 
-## Externally Shared
+## External Sharing
 
 * __Externally Shared Content__ – List of content in the tenant shared with external users, along with the external users it is shared with and the permissions they have on the content.
 * __Externally Shared Content Matrix__ – Shows externally shared content in the tenant hierarchy. Only the externally shared content is displayed.
