@@ -38,12 +38,13 @@ This article will show some of the common use cases and usual steps when using t
 
 # [Get to know SysKit Security Manager](get-to-know-security-manager)
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features.
+## [Overview Screen](overview-screen.md)
 ## [Site Collections Screen](site-collections-screen.md)
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
 ## [Microsoft Teams](microsoft-teams-screen.md)
 ## [OneDrive](onedrive-screen.md)
 ## [Snapshots Screen](snapshots-screen.md)
-## [Permissions Reports Screen](permissions-reports-screen.md)
+## [Security Reports Screen](permissions-reports-screen.md)
 ## [Credentials List Screen](credentials-screen.md)
 ## [Settings Screen](settings-screen.md)
 
