@@ -6,7 +6,32 @@ date: 14/05/2018
 ---
 The Permissions Reports screen contains a number of reports on SharePoint Permissions and Logical and Structural Reports.
 
-To start exploring available SysKit Security Manager reports, take snapshot of your environment.
+Most reports require a snapshot of your environment to view the data.
+
+
+
+
+## Filters
+Each report can be filtered with a combination of filters. The available filters will depend on the selected report. 
+All reports will have at least the Snapshot filter and the SharePoint Objects filter available. 
+
+* __Snapshot__ - The Snapshot Filter allows you to view the report for a specific snapshot that you have taken. The Snapshot Filter also contains the Live entry which can be used to genereate a report without creating a snapshot. Because of the complexity of some reports, not all of them support the live option.
+* __SharePoint Object__ - This filter is a complex filter that support picking objects from a Office 365 tenant on multiple levels. Depending on the report in question it will ask you to choose either a tenant or site collections from a tenant. The _Permissions Matrix_ and the _Externally Shared Content Matrix_ reports use a more advanced configuration of this filter and you are able to choose a specific securable object in the SharePoint hierarchy. Ie. to generate the _Permissions Matrix_ report for a specific list you would drag the Filter By slider to _Lists_ and select an object in each of the categories: Tenants, Sites, SubSites, Lists.
+* __Content Level__ - The Content Level Filter provides us with an option to chose which types of objects we want to include in the generated report. It is called _Content Level_ because the selection of the filter determines what is the lowest level for which the report will be generated. Ie. choosing _Subsites_ in the Permissions Matrix will result in a report that contains data down to the subsites level. Permission data for lists and list items will not be included. 
+* __Pricipals Filter__ - The Principals Filter is used to filter by principals. Principals include: 
+    - users
+    - security groups, Office 365 Groups
+    - SharePoint Groups
+    - special groups that represent _Sharing Links_
+        - People in organization with a view sharing link
+        - People in organization with an edit sharing link
+        - Anyone with an anonymous view sharing link
+        - Anyone with an anonymous edit sharing link
+        - Specific people with a sharing link
+* __Securable Objects__ - By default reports that show permissions are generated only for objects that have unique permissions or the directly selected objects in the SharePoint Objects filter. Any child objects will have their permissions shown only if the are uniquely secured. This is so to avoid an explosion of report data because each and every object above or equal to the _Content Level_ filter would be shown along with the permissions. In case you do wish to see each and every child object along with their permissions(which would be the same as the parent object by definition) you can use this filter to modify the report behavior.
+
+
+
 
 ## Permission Reports
 
