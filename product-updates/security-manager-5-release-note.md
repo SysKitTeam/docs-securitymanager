@@ -29,8 +29,11 @@ __Release date:__ December 4, 2018
 ## Improvements
 * We improved OneDrive connection step in the connection wizard. 
 * We added a notification to inform you when a new version of SysKit Security Manager is available to help users stay up to date with new features. 
-* Some existing reports now have a live version: Orphaned OneDrive, 
+* Some security reports now have a live version.
 * We added a column grouping option which lets you group the report data by one or more columns and examine it from a different point of view. 
 * We added the Snapshot Details report to help you troubleshoot load issues. 
-* UX Improvements to the Stop Sharing action. 
+* UX Improvements to the Stop Sharing OneDrive files action. 
 * Improved reports filtering options.
+
+## Bug Fix
+* Fixed a bug where the Office 365 Group or Team URL was not recognized correctly and this cuased problems in the connection wizard.
