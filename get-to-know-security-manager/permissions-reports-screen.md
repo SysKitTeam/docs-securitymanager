@@ -68,5 +68,5 @@ The drill functionality is available when you hover or select a row in a report 
 I.e. the Permissions Matrix report allows the following:
 - if a SharePoint object is selected - switching to live permissions on the SharePoint Explorer screen to allow permission management on the object in question 
 - if a user is selected 
-    - switching to User Permissions Details Report
+    - switching to the User Permissions Details Report
     - switching to live permissions on the SharePoint Explorer screen to allow permission management on the object where the user has permissions
