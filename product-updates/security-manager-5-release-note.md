@@ -28,7 +28,6 @@ __Release date:__ December 4, 2018
 ## Improvements
 * We improved a OneDrive connection step in the [connection wizard](#internal/how-to/connect-to-office-365). Granting administrator rights to OneDrive in the connection wizard using the option __Connect to all OneDrive accounts__ now correctly checks if the current user already has site collection administrator permissions through a SharePoint or a Security Group. When disconnecting OneDrive from Security Manager and choosing to remove all site collection administrator rights, only directly given permissions are removed.
 The connect wizard performance has been improved while checking and giving permissions OneDrive accounts, but the finishing step of the wizard can still take a while for large numbers of users with OneDrive.
- 
 * We added a notification feature to inform you when a new version of SysKit Security Manager is available, helping you stay up to date with new features. 
 * Some [security reports](#internal/get-to-know-security-manager/permissions-reports-screen) now have a live version.
 * We added a column grouping option, which lets you group the report data by one or more columns and examine it from a different point of view
