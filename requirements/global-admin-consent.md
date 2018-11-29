@@ -40,7 +40,8 @@ This means that the effective permissions that the user has are still limited by
 
 ## Additional Info
 
-Click [here](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-applications-guiding-developers-requiring-user-assignment) to learn more on how to limit the consent given to specific users if you choose to do so.
+- More details on how permissions and consent work in Office 365 can be found in the following [article](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent).  
+- Click [here](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-applications-guiding-developers-requiring-user-assignment) to learn more on how to limit the consent given to specific users if you choose to do so.
 
 If you at any time decide to revoke the given consent, you can do so by:
 
