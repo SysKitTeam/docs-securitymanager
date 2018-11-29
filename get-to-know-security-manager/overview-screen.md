@@ -38,7 +38,7 @@ All of the metrics with information regarding the reports they drill to.
 * __OneDrive Close to Quota Limit__ – Lists OneDrive overview information including storage usage.
 * __Orphaned OneDrive__ – List of OneDrive accounts whose owner is disabled or deleted in the Active Directory.
 * __Inactive OneDrive__ – List of OneDrive storages which were not accessed in over three months.
-* __Shared Items__ – List of OneDrive items that have been shared
+* __Shared Items__ – List of OneDrive items that have been shared.
 * __Externally Shared Items__ – List of all content that is shared with external users.
 #### Cleanup
 * __Users Without Permissions__ – List of users who have not been assigned to any SharePoint or Security group and to whom no permissions have been directly assigned.
