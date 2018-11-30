@@ -61,3 +61,12 @@ __Office 365 Groups With Guests__ – Shows all Office 365 gGroups that have gue
 * __OneDrive With Guests__ – Shows personal OneDrive accounts that have guests or external users with existing permissions.
 
 
+## Drill Functionality
+Most of the reports are interconnected between each other and with the rest of the application. You can drill from one to the other by using the drill functionality.  
+The drill functionality is available when you hover or select a row in a report and is denoted with a recognizable drill icon. Depending on the report different options to drill will be available. Different rows may also have different drill options and lead to different parts of the application.  
+
+I.e. the Permissions Matrix report allows the following:
+- if a SharePoint object is selected - switching to live permissions on the SharePoint Explorer screen to allow permission management on the object in question 
+- if a user is selected 
+    - switching to the User Permissions Details Report
+    - switching to live permissions on the SharePoint Explorer screen to allow permission management on the object where the user has permissions
