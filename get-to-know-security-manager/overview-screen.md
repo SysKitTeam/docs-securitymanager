@@ -5,21 +5,21 @@ author: Domagoj Hrestak
 date: 04/12/2018
 ---
 
-The __Overview__ screen is the starting screen of the SysKit Security Manager and features a dashboard of collected metrics and important information from your environment.
+The __Overview__ screen is the starting screen of the SysKit Security Manager. It features a dashboard of collected metrics and important information from your environment.
 
 ## Live Overview
-Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. Activities which are considered detrimental for environment health are highlighted in yellow, orange and red hues and are included in the final health score. To avoid long waiting and performance issues, information that is displayed with a camera icon is collected only when taking a snapshot.
+Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. Activities which are considered detrimental to environment health are highlighted in yellow, orange and red and are included in the final health score. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a snapshot.
 
 ## Snapshot Overview
-Upon taking a snapshot Security Manager collects all of the available dashboard values so you can track your tenant summary information and health through time, potentially discovering a growing issue in your environment activities.
+Upon taking a snapshot Security Manager collects all the available dashboard values. So you can track your tenant summary information and health through time, potentially discovering a growing issue in your environment activities.
 
-Environment health and potential issues are displayed via a score tile based on the size of your environment. Low score result means your environment is healthy and well-maintained.
+Environment health and potential issues are displayed via a score tile based on the size of your environment. A low score means your environment is healthy and well-maintained.
 
 ## Analyze Results
-Every collected metric will display a tooltip with more information when hovered over. Furthermore, every metric can be clicked on and the application will jump straight into a more detailed report view of the selected information, where you can analyze the results and fix any potential issues by using Security Manager drill actions for live permission management.
+Every collected metric will display a tooltip with more information when hovered over. Furthermore, every metric can be clicked on and the application will jump straight into a more detailed report view of the selected information. Here you can analyze the results and fix any potential issues by using Security Manager drill actions for live permission management.
 
 ## Overview Tiles in Detail
-All of the metrics with information regarding the reports they drill to.
+This shows all the metrics, with added information about the reports they drill to.
 ### External Sharing
 * __External Users__ – A list of all external users in the tenant.
 * __Anonymous Access Links__ – List of content that has been shared with an anonymous guest link.
