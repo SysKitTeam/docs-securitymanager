@@ -20,6 +20,7 @@ Every collected metric will display a tooltip with more information when hovered
 
 ## Overview Tiles in Detail
 This shows all the metrics, with added information about the reports they drill to.
+
 ### External Sharing
 * __External Users__ – A list of all external users in the tenant.
 * __Anonymous Access Links__ – List of content that has been shared with an anonymous guest link.
@@ -40,7 +41,7 @@ This shows all the metrics, with added information about the reports they drill 
 * __Inactive OneDrive__ – List of OneDrive storages which were not accessed in over three months.
 * __Shared Items__ – List of OneDrive items that have been shared.
 * __Externally Shared Items__ – List of all content that is shared with external users.
-#### Cleanup
+### Cleanup
 * __Users Without Permissions__ – List of users who have not been assigned to any SharePoint or Security group and to whom no permissions have been directly assigned.
 * __Groups Without Permissions__ – List of SharePoint groups that have not been assigned any permissions.
 * __Groups With Disabled Owner__ – List of SharePoint groups whose owners have been disabled in the Active Directory.
