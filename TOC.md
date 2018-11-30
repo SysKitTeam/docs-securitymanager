@@ -6,6 +6,8 @@ private: true
 # [Product Updates](product-updates)
 Check out the new SysKit Security Manager version delights. See the changes in the latest version and upgrade.
 
+
+## [SysKit Security Manager 5.0.0](security-manager-5-release-note.md)
 ## [SysKit Security Manager 4.0.0](security-manager-4-release-note.md)
 ## [SysKit Security Manager 3.2.0](security-manager-3-2-release-note.md)
 ## [SysKit Security Manager 3.0.0](security-manager-3-release-note.md)
@@ -36,12 +38,13 @@ This article will show some of the common use cases and usual steps when using t
 
 # [Get to know SysKit Security Manager](get-to-know-security-manager)
 Dive into a detailed overview of what Security Manager has to offer. Check out the available features.
+## [Overview Screen](overview-screen.md)
 ## [Site Collections Screen](site-collections-screen.md)
 ## [Office 365 Groups Screen](office-365-groups-screen.md)
 ## [Microsoft Teams](microsoft-teams-screen.md)
 ## [OneDrive](onedrive-screen.md)
 ## [Snapshots Screen](snapshots-screen.md)
-## [Permissions Reports Screen](permissions-reports-screen.md)
+## [Security Reports Screen](permissions-reports-screen.md)
 ## [Credentials List Screen](credentials-screen.md)
 ## [Settings Screen](settings-screen.md)
 
