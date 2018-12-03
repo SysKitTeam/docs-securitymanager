@@ -37,7 +37,7 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
 * __Permissions Matrix__ – Shows all principals on a selected SharePoint object and which permission level each of them has.
 * __Permission Level Usage__ – Displays all the site collections where the selected permission level exists and if it is being used (assigned to any principal).
 * __Unique Permissions__ – Shows SharePoint objects (sites, lists, items) with unique permissions, e.g. objects with broken permission inheritance.
- * __Access Requests__ - Lists  all access requests on the selected subsite. 
+* __Access Requests__ - Lists  all access requests on the selected subsite. 
 
 ## User Reports 
 
