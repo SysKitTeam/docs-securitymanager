@@ -10,9 +10,9 @@ To start exploring features and reports, navigate to Office 365 Groups and selec
 
 Available management actions for Office 365 Groups are contextually related to the selected object, which means users can __click on or hover over something to get a contextual menu__ that offers actions related to the selected item.
 
-Note! Before you can start exploring Office 365 Groups management actions, SysKit Security Manager will ask you to provide [SharePoint Online Global Administrator consent](#internal/requirements/global-admin-consent). If you do not accept or do not have the right privileges, a set of Office 365 Groups features will not be available.
 
 ### Available actions 
+* __Remove a connection to a tenant__ – Remove connections to all associated site collections and Office 365 groups from SysKit Security Manager.
 * __Connect__ – Discover and connect to Office 365 Groups and their site collections.
 * __Create Office 365 Group__ – Create new Office 365 Group in your tenant.
 * __Remove Group__ – Remove Office 365 Group from SysKit Security Manager.

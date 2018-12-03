@@ -15,11 +15,12 @@ The __Permissions__ tab lets the site collection administrator explore SharePoin
 All management actions are contextually related to selected objects, which means users can __click on or hover over something to get a contextual menu__ that offers actions related to the selected item.
 
 ### Available actions
+* __Remove Tenant/ Web Application Connection__ – Remove unwanted tenant or web application connections from SysKit Security Manager.
 * __Refresh__ – Reloads currently selected SharePoint object permission information or the entire permissions explorer tree.
 * __View in SharePoint__ – View and manage selected site content in your browser.
-* __Edit Site Collection__ – Edit connected Online or On-Premise site collection credentials.
-* __Remove Site Collection__ – Remove connection for either an Online or On-Premise site collection.
-* __Site Collection Administrator__ – Manage site collection admins. Change primary and secondary site collection administrators or entire site collection administrators group.
+* __Edit Credentials__ – Edit connected On-Premise site collection credentials.
+* __Remove Connection__ – Remove connection for either an Online or On-Premise site collection.
+* __Site Collection Administrators__ – Manage site collection admins. Change primary and secondary site collection administrators or entire site collection administrators group.
 * __Break Inheritance__ – Copies the parent permissions and then stops the permissions inheritance for the selected object. Any changes made to a parent site will not apply to the selected site in the future and vice versa.
 * __Restore Inheritance__ – Deletes all unique permissions and the selected securable object continues to inherit permissions from the parent site.
     * If you choose to restore the permission inheritance on a folder, you can choose an additional option to restore permission inheritance for all subitems as well.
@@ -31,10 +32,10 @@ All management actions are contextually related to selected objects, which means
 * __Edit Group Settings__ – Configures SharePoint group settings: name, owner, membership.
 * __Edit Permissions__ – Modifies assigned permission levels for a selected principal.
 * __Remove Permissions__ – Removes all previously granted permissions from a selected user. User will still exist on this site collection but will no longer have any assigned permissions on this SharePoint object.
-* __Move to Group__ – Removes directly assigned permissions from the selected user and adds him to a SharePoint group. Selected user will now inherit permissions through this group membership.
+* __Move to SharePoint Group__ – Removes directly assigned permissions from the selected user and adds him to a SharePoint group. Selected user will now inherit permissions through this group membership.
 * __Clone Permissions__ – Source principal’s permissions will not be changed in any way. Destination principals will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source principal.
 * __Transfer Permissions__ – Source principal’s permissions will lose all previously directly assigned permissions and group memberships. Destination principals will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source principal.
-* __Copy to Group__ – Allows you to directly add selected principals to the existing SharePoint groups.
+* __Add to SharePoint Group__ – Allows you to directly add selected principal to the existing SharePoint groups.
 * __Remove User from Groups__ – Removes the selected user from the selected SharePoint group. User will lose all permissions gained through this group membership.
 * __Delete User__ – Deletes the selected principal from the entire site collection. User or Active Directory/ Security group will no longer have any permissions assigned and will be deleted from the entire site collection.
 * __Delete Group__ – Deletes the selected SharePoint group from the entire site collection. This SharePoint group will no longer have any permissions assigned and will be deleted from the entire site collection.

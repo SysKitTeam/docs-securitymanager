@@ -18,6 +18,13 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 
 * __User Permissions Overview__ – A summary of principals' permissions on the tenant. Shows site collections in which users have permissions, permissions that the users have as an individual, and the permissions that were given through a group. 
 * __User Permissions Details__ – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. 
+* __Users with Privileged Access__ – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc.
+
+## Group Reports
+
+* __Group Members__ – Shows all members of a selected SharePoint, Active Directory, or Security or Office 365 group.
+* __SharePoint Groups__ – Shows all SharePoint groups and its members across the selected site collections.
+* __User Memberships__ – Shows all the groups the selected principal is a member of.
 
 ## Externally Shared
 
@@ -35,7 +42,22 @@ To start exploring available SysKit Security Manager reports, take snapshot of y
 * __Users Without Permissions__ – Lists all users that no longer have any permissions assigned, neither directly nor through any SharePoint groups. This also includes users with ”Limited Access” that have remained after their permissions on a specific item in the site collection were removed.
 * __Site Collections With Disabled Administrators__ – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory.
 
+## Health Checks
 
+* __Directly Assigned Permissions__ – Shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
+* __Lists with Uniquely Secured Items__ – Shows lists and libraries that contain list items with broken permissions inheritance.
+* __Uniquely Secured List Items__ – Shows all list items with broken permissions inheritance.
 
+## Microsoft Teams Reports
+
+* __Team Level Settings__ – Shows Microsoft Teams settings by Team.
+* __Teams With Guests__ – Shows all Microsoft Teams that have guests or external users as owners or members.
+
+## Office 365 Groups Reports
+__Office 365 Groups With Guests__ – Shows all Office 365 gGroups that have guests or external users as owners or members.
+
+## OneDrive Reports
+* __Orphaned OneDrive__ – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory.
+* __OneDrive With Guests__ – Shows personal OneDrive accounts that have guests or external users with existing permissions.
 
 
