@@ -26,15 +26,15 @@ Every collected metric will display a tooltip with more information when hovered
 ## Overview Tiles in Detail
 Here you can find a list of all the tile categories and what kind of information they represent. For detailed information about the reports they describe head over to the [__Security Reports__](#internal/get-to-know-security-manager/permissions-reports-screen) section.
 
-Underneath the score tile you can find a list of general environment information. When a tile value is displayed as a fraction, the first number represents how many objects of the described type are connected in Security Manager and the second number is the total number of objects in your environment. This information is only present in the live overview.
+Underneath the score tile you can find a list of general environment information. When a tile value is displayed as a fraction, the first number represents how many objects of the described type are connected in the Security Manager and the second number is the total number of objects in your environment. This information is only present in the live overview.
 
-* __External Sharing__ – Information about the number of external users and sharing capabilities of your site collections.
+* __External Sharing__ – Information about the number of external users and the sharing capabilities of your site collections.
 
-* __Items With Unique Permissions__ – SharePoint items with unique permissions.
+* __Items With Unique Permissions__ – Total numbers of SharePoint items with unique permissions.
 
 * __Security__ – Site Collection Administrators information and default permission levels that have been modified.
 
-* __OneDrive__ – Find out more about your users OneDrive activities, including storage use, inactivity periods, externally shared items and more.
+* __OneDrive__ – Find out more about your users OneDrive activities including storage use, inactivity periods, externally shared items and more.
 
 * __Cleanup__ – Information which directly influences your score calculation. Such as orphaned users, groups without users, identical SharePoint groups and disabled owners for site collections.
 
