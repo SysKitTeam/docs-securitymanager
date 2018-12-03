@@ -79,7 +79,7 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
 * __Uniquely Secured List Items__ – Shows all list items with broken permissions inheritance.
 
 ## Office 365 Groups Reports
-__Office 365 Groups With Guests__ – Shows all Office 365 gGroups that have guests or external users as owners or members.
+__Office 365 Groups With Guests__ – Shows all Office 365 Groups that have guests or external users as owners or members.
 
 ## Microsoft Teams Reports
 
