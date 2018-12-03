@@ -8,7 +8,6 @@ date: 04/12/2018
 The __Overview__ screen is the starting screen of the SysKit Security Manager. It features a dashboard of collected metrics and important information from your environment.
 
 
-
 ## Types of View
 __Live Overview__ - Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a snapshot. 
 
