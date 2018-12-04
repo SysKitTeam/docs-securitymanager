@@ -6,6 +6,8 @@ date: 14/03/2018
 ---
 To install SysKit Security Manager, you need to have __Local Administrator__ privileges on the target installation computer.
 
+Once installed SysKit Security Manager can be used with a non privileged user account.
+
 To successfully manage SharePoint permissions, Office 365 Groups, and more, you need to have one of the following privileges on the desired Office 365 or SharePoint On-Premises environment:
 * __Office 365 Global Administrator__
 * __Farm Administrator__

@@ -6,16 +6,17 @@ date: 14/05/2018
 ---
 The Security Reports screen contains a number of reports on SharePoint Permissions and Logical and Structural Reports.
 
-Most reports require a snapshot of your environment to view the data.
-
+There are two kinds of reports regarding the availability of data:
+* those that can be viewed without creating a [snapshot](#internal/get-to-know-security-manager/basics.md#snapshot) of your environment
+* those that can be viewed only when a [snapshot](#internal/get-to-know-security-manager/basics.md#snapshot) of your environment has been created
 
 
 ## Filters
-Each report can be filtered with a combination of filters. The available filters will depend on the selected report. 
+Before you can view the report data you will need to configure the report filters. The available filters will depend on the selected report. 
 All reports will have at least the Snapshot filter and the SharePoint Objects filter available. 
 
-* __Snapshot__ - The Snapshot Filter allows you to view the report for a specific snapshot that you have taken. It also contains the Live entry, which can be used to generate a report without creating a snapshot. Because of the complexity of some reports, not all of them support the Live option.
-* __SharePoint Objects__ - This is a complex filter that supports the picking of objects from an Office 365 tenant on multiple levels. Depending on the report in question it will ask you to choose either a tenant or site collections from a tenant. The __Permissions Matrix__ and the __Externally Shared Content Matrix__ reports use a more advanced configuration of this filter and you can choose a specific securable object in the SharePoint hierarchy.  So, to generate the __Permissions Matrix__ report for a specific list, you would drag the Filter By slider to _Lists_ and select an object in each of the categories: Tenants, Sites, Subsites, Lists.
+* __Snapshot__ - The Snapshot Filter allows you to view the report for a specific snapshot that you have taken.  It also contains the Live entry, which can be used to generate a report without creating a snapshot. Because of the complexity of some reports, not all of them support the Live option.
+* __SharePoint Objects__ - This is a complex filter that supports the picking of objects from an Office 365 tenant or SharePoint On-Premises on multiple levels. Depending on the report in question it will ask you to choose either a tenant/On-Premise web application or site collections from a tenant. All of the connected site collections will be shown in this filter including Office 365 Groups, Teams and OneDrive site collections. The __Permissions Matrix__ and the __Externally Shared Content Matrix__ reports use a more advanced configuration of this filter and you can choose a specific securable object in the SharePoint hierarchy.  So, to generate the __Permissions Matrix__ report for a specific list, you would drag the Filter By slider to _Lists_ and select an object in each of the categories: Tenants, Sites, Subsites, Lists.
 * __Content Level__ - The Content Level filter lets us choose which types of objects we want to include in the generated report. It is called __Content Level__ because the selection of the filter determines the lowest level for which the report will be generated.  For example, choosing __Subsites__ in the __Permissions Matrix__ will result in a report that contains data down to the subsites level. Permission data for lists and list items will not be included. 
 * __Principals__ - The Principals filter is used to filter by principals. Principals include: 
     - users
