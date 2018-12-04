@@ -55,7 +55,14 @@ Permissions for multiple objects can be viewed at the same time. This report sho
 * __User Permissions Details__ – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. This report can show every object in your environment to which a specified user or users have access to. This includes all SharePoint objects, Groups and Teams objects and OneDrive files.  
 * __Users with Privileged Access__ – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc. Supports live and snapshot data.
 * __All Users__ – Shows all users from Azure Active Directory for SharePoint Online tenants or all users from connected site collections for on-premises web applications. Supports live and snapshot data.
-*  __Multi-Factor Authentication for Admins__ – Lists MFA information for site collection administrators. 
+*  __Multi-Factor Authentication for Admins__ – This report shows which site collection admins have multi-factor authentication enabled. [Possible MFA states are](https://social.msdn.microsoft.com/Forums/azure/en-US/46d1e71e-f98a-4e97-94f8-11621c3385d8/mfa-status-enabled-enforced?forum=windowsazureactiveauthentication):
+    * __Disabled__ - This is the default state for a new user not enrolled in multi-factor authentication.
+    * __Enabled__ - The user has been enrolled in multi-factor authentication, but has not completed the registration process. They will be prompted to complete the process the next time they sign in.
+    * __Enforced__ - The user may or may not have completed registration. If they have completed the registration process then they are using multi-factor authentication. Otherwise, the user will be prompted to completer the process at next sign-in.
+    In non-browser apps (such as Outlook etc.) will not work until app passwords are created and entered into the non-browser apps.
+In order to use this report the following prerequisites need to be satisfied:
+* Powershell version 3.0. or newer
+* Latest MSOnline powershell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
 
 ## Group Reports
 
