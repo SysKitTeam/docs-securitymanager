@@ -62,8 +62,8 @@ Permissions for multiple objects can be viewed at the same time. This report sho
     In non-browser apps (such as Outlook etc.) will not work until app passwords are created and entered into the non-browser apps.
     
     In order to use this report the following prerequisites need to be satisfied:
-        * Powershell version 3.0. or newer
-        * Latest MSOnline powershell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
+    * Powershell version 3.0. or newer
+    * Latest MSOnline powershell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
 
 ## Group Reports
 
