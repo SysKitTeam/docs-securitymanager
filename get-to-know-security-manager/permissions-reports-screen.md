@@ -47,7 +47,7 @@ For example the __Permissions Matrix__ report allows the following:
 Permissions for multiple objects can be viewed at the same time. This report shows permissions for every kind of objects ranging from tenant to list item. Permissions for Groups, Teams and OneDrive objects can be viewed as well.
 * __Permission Level Usage__ – Displays all the site collections where the selected permission level exists and if it is being used (assigned to any principal).
 * __Unique Permissions__ – Shows SharePoint objects (sites, lists, items) with unique permissions, e.g. objects with broken permission inheritance.
-* __Access Requests__ - Lists  all access requests on the selected subsite. 
+* __Access Requests__ - Lists  all access requests across your subsites. 
 
 ## User Reports 
 
