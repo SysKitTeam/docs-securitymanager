@@ -30,8 +30,16 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
         - Specific people with a sharing link
 * __Securable Objects__ - By default, reports that show permissions are generated only for objects that have unique permissions or the directly selected objects in the SharePoint Objects filter. Any child objects will have their permissions shown only if they are uniquely secured. This is so as to avoid an explosion of report data because each and every object above or equal to the _Content Level_ filter would be shown along with the associated permissions. If you do wish to see each and every child object along with their permissions (which would be the same as the parent object by definition) you can use this filter to modify the report behavior.
 
+## Drill Functionality
+Most of the reports are interconnected between each other and with the rest of the application. You can drill from one to the other by using the drill functionality.  
+The drill functionality is available when you hover or select a row in a snapshot report and is denoted with a recognizable drill icon. Depending on the report different options to drill will be available. Different rows may also have different drill options and lead to different parts of the application.  
 
-
+For example the __Permissions Matrix__ report allows the following:
+- if a SharePoint object is selected - switching to live permissions on the __SharePoint Explorer__ screen to allow permission management on the object in question 
+- if a user is selected 
+    - switching to the __User Permissions Details__ Report
+    - switching to live permissions on the __SharePoint Explorer__ screen to allow permission management on the object where the user has permissions
+    
 
 ## Permission Reports
 
@@ -92,14 +100,3 @@ __Office 365 Groups With Guests__ – Shows all Office 365 Groups that have gues
 * __Orphaned OneDrive__ – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory. Supports live and snapshot data.
 * __OneDrive With Guests__ – Shows personal OneDrive accounts that have guests or external users with existing permissions.
 * __OneDrive Shared Items__ – Shows OneDrive items that have been shared. Report can show shared items across multiple OneDrive storages at the same time. For detailed information about permissions on specific shared files this report has built-in drill functionality to Permissions Matrix report.
-
-
-## Drill Functionality
-Most of the reports are interconnected between each other and with the rest of the application. You can drill from one to the other by using the drill functionality.  
-The drill functionality is available when you hover or select a row in a snapshot report and is denoted with a recognizable drill icon. Depending on the report different options to drill will be available. Different rows may also have different drill options and lead to different parts of the application.  
-
-For example the __Permissions Matrix__ report allows the following:
-- if a SharePoint object is selected - switching to live permissions on the __SharePoint Explorer__ screen to allow permission management on the object in question 
-- if a user is selected 
-    - switching to the __User Permissions Details__ Report
-    - switching to live permissions on the __SharePoint Explorer__ screen to allow permission management on the object where the user has permissions
