@@ -80,7 +80,7 @@ Permissions for multiple objects can be viewed at the same time. This report sho
 * __Users Without Permissions__ – Lists all users that no longer have any permissions assigned, neither directly nor through any SharePoint groups. This also includes users with ”Limited Access” that have remained after their permissions on a specific item in the site collection were removed.
 * __Site Collections With Disabled Adminis__ – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory. Supports live and snapshot data.
 * __Customized Default Permission Levels__ – A list of default permission levels that are modified on specific site collections. Supports live and snapshot data.
-  *  __Identical SP Groups__ – SharePoint groups with identical users. Supports live and snapshot data.
+*  __Identical SP Groups__ – SharePoint groups with identical users. Supports live and snapshot data.
 
 ## Health Checks
 
