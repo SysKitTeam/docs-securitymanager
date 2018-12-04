@@ -19,7 +19,7 @@ __Release date:__ December 4, 2018
 * Together with the Security Overview we added some new permission and [security reports](#internal/get-to-know-security-manager/permissions-reports-screen):
     * __Access Requests__ - Lists  all access requests on the selected subsite. 
     * __All Users__ – Shows all users from Azure Active Directory for SharePoint Online tenants or all users from connected site collections for on-premises web applications. 
-    * __Multi-Factor Authentication for Admins__ – Lists MFA information for site collection administrators. 
+    * __Multi-Factor Authentication for Admins__ – This report shows which site collection admins have multi-factor authentication enabled. It is recommended that all users with privileged access have Multi-Factor Authentication enabled. 
     * __External Sharing Settings__ – Lists sharing capabilities for site collections. 
     * __Customized Default Permission Levels__ – A list of default permission levels that are modified on specific site collections. 
     * __Identical SharePoint Groups__ – SharePoint groups with identical users. 
