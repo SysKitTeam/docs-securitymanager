@@ -10,11 +10,11 @@ The __Overview__ screen is the starting screen of the SysKit Security Manager. I
 
 ## Types of View
 
-__Live Overview__ - Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a [snapshot](#internal/get-to-know-security-manager/basics.md#snapshot). 
+* __Live Overview__ - Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a [snapshot](#internal/get-to-know-security-manager/basics#snapshot). 
 
 Clicking on the refresh button in the upper-right part of the overview will refresh it with the latest information and recalculate your score.
 
-__Snapshot Overview__ - Upon taking a snapshot Security Manager collects all the available dashboard values. So you can track your tenant summary information and health through time, potentially discovering a growing issue in your environment activities.
+* __Snapshot Overview__ - Upon taking a snapshot Security Manager collects all the available dashboard values. So you can track your tenant summary information and health through time, potentially discovering a growing issue in your environment activities.
 
 ## Score
 Environment health and potential issues are displayed via a score tile based on the size of your environment. A low score means your environment is healthy and well-maintained.
