@@ -17,7 +17,7 @@ __Release date:__ December 4, 2018
 ## Features
 * The new [__Security Overview__](#internal/get-to-know-security-manager/overview-screen) is available! Now you can get even better visibility into your environment, both On-Prem and Online. SysKit Security Manager looks at your settings and activities and documents them through a set of security reports and health checks developed by SysKit. The final score is based on the size of your Office 365 tenant/web application and the sum of all the potential issues found. After the score is recalculated, the reports used for the calculation will be highlighted in color, and you'll be able to drill down into reports that offer more details. 
 * Together with the Security Overview we added some new permission and [security reports](#internal/get-to-know-security-manager/permissions-reports-screen):
-    * __Access Requests__ - Lists  all access requests on the selected subsite. 
+    * __Access Requests__ - Lists  all access requests across all your subsites. 
     * __All Users__ – Shows all users from Azure Active Directory for SharePoint Online tenants or all users from connected site collections for on-premises web applications. 
     * __Multi-Factor Authentication for Admins__ – This report shows which site collection admins have multi-factor authentication enabled. It is recommended that all users with privileged access have Multi-Factor Authentication enabled. 
     * __External Sharing Settings__ – Lists sharing capabilities for site collections. 
