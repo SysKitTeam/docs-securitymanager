@@ -35,6 +35,7 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
 ## Permission Reports
 
 * __Permissions Matrix__ – Shows all principals on a selected SharePoint object and which permission level each of them has.
+Permissions for multiple objects can be viewed at the same time. This report shows permissions for every kind of objects ranging from tenant to list item. Permissions for Groups, Teams and OneDrive objects can be viewed as well.
 * __Permission Level Usage__ – Displays all the site collections where the selected permission level exists and if it is being used (assigned to any principal).
 * __Unique Permissions__ – Shows SharePoint objects (sites, lists, items) with unique permissions, e.g. objects with broken permission inheritance.
 * __Access Requests__ - Lists  all access requests on the selected subsite. 
@@ -42,7 +43,7 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
 ## User Reports 
 
 * __User Permissions Overview__ – A summary of principals' permissions on the tenant. Shows site collections in which users have permissions, permissions that the users have as an individual, and the permissions that were given through a group. 
-* __User Permissions Details__ – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. 
+* __User Permissions Details__ – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. This report can show every object in your environment to which a specified user or users have access to. This includes all SharePoint objects, Groups and Teams objects and OneDrive files.  
 * __Users with Privileged Access__ – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc. Supports live and snapshot data.
 * __All Users__ – Shows all users from Azure Active Directory for SharePoint Online tenants or all users from connected site collections for on-premises web applications. Supports live and snapshot data.
 *  __Multi-Factor Authentication for Admins__ – Lists MFA information for site collection administrators. 
@@ -56,7 +57,7 @@ All reports will have at least the Snapshot filter and the SharePoint Objects fi
 ## External Sharing
 
 * __Externally Shared Content__ – List of content in the tenant shared with external users, along with the external users it is shared with and the permissions they have on the content.
-* __Externally Shared Content Matrix__ – Shows externally shared content in the tenant hierarchy. Only the externally shared content is displayed.
+* __Externally Shared Content Matrix__ – Shows externally shared content in the tenant hierarchy. Only the externally shared content is displayed. This report identifies who has access to your files outside of your organization including the permissions they have on your files. This includes all SharePoint objects, Groups and Teams objects and OneDrive files. 
 * __Anonymous Access Links__ –  A list of content in the tenant that has been shared with an anonymous guest link.
 * __External Users__ – Lists all external users in the tenant. Supports live and snapshot data.
 * __External Sharing Settings__ – Lists sharing capabilities for site collections. Supports live and snapshot data.
@@ -83,13 +84,13 @@ __Office 365 Groups With Guests__ – Shows all Office 365 Groups that have gues
 
 ## Microsoft Teams Reports
 
-* __Team Level Settings__ – Shows Microsoft Teams settings by Team.
+* __Team Level Settings__ – Shows Microsoft Teams settings by Team. Team settings are showed for all Microsoft Teams on a selected tenant.
 * __Teams With Guests__ – Shows all Microsoft Teams that have guests or external users as owners or members.
 
 ## OneDrive Reports
 * __Orphaned OneDrive__ – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory. Supports live and snapshot data.
 * __OneDrive With Guests__ – Shows personal OneDrive accounts that have guests or external users with existing permissions.
-* __OneDrive Shared Items__ – Shows OneDrive items that have been shared.
+* __OneDrive Shared Items__ – Shows OneDrive items that have been shared. Report can show shared items across multiple OneDrive storages at the same time. For detailed information about permissions on specific shared files this report has built-in drill functionality to Permissions Matrix report.
 
 
 ## Drill Functionality
