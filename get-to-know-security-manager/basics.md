@@ -2,7 +2,7 @@
 title: Snapshot
 description: This article describes the concept of a snapshot
 author: Vinko Bedek
-date: 12/03/2018
+date: 03/12/2018
 ---
 
 ## Conecting to an Environment
