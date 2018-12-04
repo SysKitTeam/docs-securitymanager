@@ -57,7 +57,7 @@ Permissions for multiple objects can be viewed at the same time. This report sho
 ## External Sharing
 
 * __Externally Shared Content__ – List of content in the tenant shared with external users, along with the external users it is shared with and the permissions they have on the content.
-* __Externally Shared Content Matrix__ – SShows externally shared content in the tenant hierarchy. Only the externally shared content is displayed. This report identifies who has access to your files outside of your organization including the permissions they have on your files. This includes all SharePoint objects, Groups and Teams objects and OneDrive files. 
+* __Externally Shared Content Matrix__ – Shows externally shared content in the tenant hierarchy. Only the externally shared content is displayed. This report identifies who has access to your files outside of your organization including the permissions they have on your files. This includes all SharePoint objects, Groups and Teams objects and OneDrive files. 
 * __Anonymous Access Links__ –  A list of content in the tenant that has been shared with an anonymous guest link.
 * __External Users__ – Lists all external users in the tenant. Supports live and snapshot data.
 * __External Sharing Settings__ – Lists sharing capabilities for site collections. Supports live and snapshot data.
