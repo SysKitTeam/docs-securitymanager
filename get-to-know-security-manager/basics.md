@@ -14,8 +14,10 @@ Once connected additional environments can be added by using the Connect button.
 
 ## Snapshot
 After connecting your environment to SysKit Security Manager you will undoubtedly come across areas of the application where a snapshot is required.  
-A snapshot is nothing more than the collection of all the data needed for SysKit Security Manager to generate reports in a specific point in time. Gathering the data in a single process enables us to provide more complex and faster reports, and to avoid collecting the same data multiple times when jumping from report to report. 
+A snapshot is nothing more than the collection of all the data needed for SysKit Security Manager to generate reports in a specific point in time. Gathering the data in a single process enables us to provide more complex and faster reports, and to avoid collecting the same data multiple times when jumping from report to report.  
+
+Once you have a snapshot created you can view all of the reports available. Creating snapshots will also allow generating permission differences between two points in time.
 
 ### Creating a Snapshot
-A snapshot can be created from most of SysKit Security Manager. The most prominent location is on the overview screen after connecting to your environment. The Take Snaphot button will always be denoted with a photo camera icon. 
+A snapshot can be created from most of SysKit Security Manager. The most prominent location is on the overview screen after connecting to your environment. The Take Snaphot button will always be denoted with a photo camera icon.
 
