@@ -11,8 +11,8 @@ This major upgrade brings security overview capabilities to your environment and
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 __Product version:__ 5.0.0  
-__Build number:__      
-__Release date:__ December 4, 2018  
+__Build number:__ 1186     
+__Release date:__ December 5, 2018  
 
 ## Features
 * The new [__Security Overview__](#internal/get-to-know-security-manager/overview-screen) is available! Now you can get even better visibility into your environment, both On-Prem and Online. SysKit Security Manager looks at your settings and activities and documents them through a set of security reports and health checks developed by SysKit. The final score is based on the size of your Office 365 tenant/web application and the sum of all the potential issues found. After the score is recalculated, the reports used for the calculation will be highlighted in color, and you'll be able to drill down into reports that offer more details. 
