@@ -21,6 +21,8 @@ All Office 365 groups and teams from your tenant will be auto-discovered and you
 ### OneDrive
 If you are a Global Office 365 tenant administrator, you’ll have an option to __Connect to all OneDrive accounts__. The user running SysKit Security Manager will be granted site collection administrator privileges on all detected personal OneDrive accounts.
 
+* Granting administrator rights to OneDrive in the connection wizard using the option Connect to all OneDrive accounts checks if the current user already has site collection administrator permissions through a SharePoint or a Security Group. When disconnecting OneDrive from Security Manager and choosing to remove all site collection administrator rights, only directly given permissions are removed
+
 The only way we can access user data and create OneDrive reports is if admin is site collection administrator to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. Please note that these reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
 
 At any time, you can disconnect all OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the Disconnect OneDrive action.
