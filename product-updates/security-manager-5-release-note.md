@@ -11,7 +11,7 @@ This major upgrade brings security overview capabilities to your environment and
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 __Product version:__ 5.0.0  
-__Build number:__ 1186     
+__Build number:__ 1187     
 __Release date:__ December 5, 2018  
 
 ## Features
