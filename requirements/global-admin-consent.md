@@ -45,7 +45,7 @@ This means that the effective permissions that the user has are still limited by
 
 If you at any time decide to revoke the given consent, you can do so by:
 
-1. Go to [Microsoft Azure portal](https://portal.azure.com){:target="_blank"}.
+1. Go to [Microsoft Azure portal](https://portal.azure.com).
 2. Select __Azure Active Directory__.
 3. Select __Enterprise Applications__.
 4. Select __SysKit Security Manager__.
