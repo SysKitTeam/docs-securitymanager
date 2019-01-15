@@ -1,2 +1,2 @@
-# product-updates
+# Product Updates
 

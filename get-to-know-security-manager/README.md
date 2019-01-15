@@ -1,2 +1,2 @@
-# get-to-know-security-manager
+# Get to know SysKit Security Manager
 
