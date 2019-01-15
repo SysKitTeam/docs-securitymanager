@@ -27,7 +27,9 @@ Because of this, when first connecting to an Office 365 tenant the user will be 
 For more details on how permissions and consent work in Office 365 you can read the following [article](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent). Be warned, it gets a bit technical.  
 The key takeaway from the article is the concept of effective permissions:
 
-> The effective permissions of an app will be the least privileged intersection of the delegated permissions the app has been granted \(via consent\) and the privileges of the currently signed-in user. Your app can never have more privileges than the signed-in user.
+{% hint style="warning" %}
+The effective permissions of an app will be the least privileged intersection of the delegated permissions the app has been granted \(via consent\) and the privileges of the currently signed-in user. Your app can never have more privileges than the signed-in user.
+{% endhint %}
 
 ### Global Administrator Consent Considerations
 
