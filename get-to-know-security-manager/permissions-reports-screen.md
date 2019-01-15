@@ -14,8 +14,8 @@ The Security Reports screen contains a number of reports on SharePoint Permissio
 
 There are two kinds of reports regarding the availability of data:
 
-* those that can be viewed without creating a [snapshot](permissions-reports-screen.md#internal/get-to-know-security-manager/basics#snapshot) of your environment
-* those that can be viewed only when a [snapshot](permissions-reports-screen.md#internal/get-to-know-security-manager/basics#snapshot) of your environment has been created
+* those that can be viewed without creating a [snapshot](../get-to-know-security-manager/basics.md#snapshot) of your environment
+* those that can be viewed only when a [snapshot](../get-to-know-security-manager/basics.md#snapshot) of your environment has been created
 
 ## Filters
 

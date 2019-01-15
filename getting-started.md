@@ -16,7 +16,7 @@ You can also use your credentials to connect to Office 365 Groups.
 
 Afterwards, on the **Site Collections** screen, you can see the site structure and explore and manage the permissions of the site collections you connected. On the **Office 365 Groups** screen, you can see an overview of all connected Office 365 Groups: their settings, owners and members.
 
-For detailed information on user permission requirements, [see this article.](requirements/user-permissions-requirements.md)
+For detailed information on user permission requirements, [see this article.](../requirements/user-permissions-requirements.md)
 
 ## Site Collections
 

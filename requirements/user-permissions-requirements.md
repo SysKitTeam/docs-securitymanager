@@ -39,7 +39,7 @@ Unfortunately the procedure for using SysKit Security Manager with a normal user
 
 Once established that the account is a non global administrator account a window will be shown with a generated URL to give to the global administrator. The consent process can then be initiated by the global administrator.
 
-Global administrators considering giving organization wide consent can learn more [here](user-permissions-requirements.md#internal/requirements/global-admin-consent).
+Global administrators considering giving organization wide consent can learn more [here](../requirements/global-admin-consent.md).
 
 ## SharePoint On-Premises Considerations
 

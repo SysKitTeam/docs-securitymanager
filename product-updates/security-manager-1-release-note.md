@@ -35,7 +35,7 @@ Good news! Managing SharePoint permissions just got easier with SysKit Security 
 * **Delete User**
 * **Delete Group**
 
-Read more about [Site Collections](security-manager-1-release-note.md#internal/get-to-know-security-manager/site-collections-screen) screen possibilities and management options.
+Read more about [Site Collections](../get-to-know-security-manager/site-collections-screen.md) screen possibilities and management options.
 
 ## Items with Unique Permissions
 
@@ -56,7 +56,7 @@ Review the list of people requesting access and manage access requests.
 
 Get an overview of your connected Office 365 Groups and manage group settings, permissions and membership from a single interface.
 
-Read more about [Office 365 Groups](security-manager-1-release-note.md#internal/get-to-know-security-manager/office-365-groups-screen).
+Read more about [Office 365 Groups](../get-to-know-security-manager/office-365-groups-screen.md).
 
 ## Export reports to Excel
 

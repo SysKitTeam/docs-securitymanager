@@ -19,7 +19,7 @@ SysKit Security Manager is centralized **SharePoint and Office 365 security repo
 ## Features
 
 * **SharePoint Online and On-Premises Snapshots** are now available in SysKit Security Manager! In addition to being able to manage SharePoint Online and On-Premises permissions, you can now take snapshots of all your site collections and Office 365 groups. This is required in order to use the more advanced **Permission Reports.**
-* Use the **Permissions Reports** screen to gather valuable information about structure, granted permissions, broken permissions inheritance, and more. We broke them down into four categories. For detailed information on every report see [this article](security-manager-2-release-note.md#internal/get-to-know-security-manager/permissions-reports-screen).
+* Use the **Permissions Reports** screen to gather valuable information about structure, granted permissions, broken permissions inheritance, and more. We broke them down into four categories. For detailed information on every report see [this article](../get-to-know-security-manager/permissions-reports-screen.md).
   * **Permissions reports:**
 
     Auditing SharePoint permissions can be a complex and time-consuming task. SysKit Security Manager allows administrators to drill down and view all permissions, explore permissions history, and create site and user specific reports.
@@ -35,7 +35,7 @@ SysKit Security Manager is centralized **SharePoint and Office 365 security repo
 
   * **Cleanup:**
 
-    It is a known thing that SharePoint gets cluttered. Users get disabled, permissions are removed, SharePoint groups lose their members and so on. When cases like this happen, it is recommended to manage and take care \(**cleanup**\) of such groups and users, and in order to do it more easily you can use [our Cleanup reports](security-manager-2-release-note.md#internal/get-to-know-security-manager/permissions-reports-screen#cleanup)
+    It is a known thing that SharePoint gets cluttered. Users get disabled, permissions are removed, SharePoint groups lose their members and so on. When cases like this happen, it is recommended to manage and take care \(**cleanup**\) of such groups and users, and in order to do it more easily you can use [our Cleanup reports](../get-to-know-security-manager/permissions-reports-screen.md#cleanup)
 * **Compare** SharePoint Online and On-Premises permissions for a selected securable object, as well as track permissions differences using the **Compare Wizard**. The following Compare options are available:
   * Compare permissions with a previous snapshot
   * Compare permissions with a parent
