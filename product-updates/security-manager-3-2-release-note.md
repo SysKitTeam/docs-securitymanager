@@ -7,7 +7,7 @@ description: >-
   Manager 3.2.0
 ---
 
-# security-manager-3-2-release-note
+# SysKit Security Manager 3.2.0
 
 This is a service release containing a bug fix and a minor improvement.
 

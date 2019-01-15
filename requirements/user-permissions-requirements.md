@@ -7,7 +7,7 @@ author: Petra Filipi
 date: 14/03/2018
 ---
 
-# user-permissions-requirements
+# User Permissions Requirements
 
 To install SysKit Security Manager, you need to have **Local Administrator** privileges on the target installation computer.
 

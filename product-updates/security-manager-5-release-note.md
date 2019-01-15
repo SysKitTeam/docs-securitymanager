@@ -7,7 +7,7 @@ description: >-
   Manager.
 ---
 
-# security-manager-5-release-note
+# SysKit Security Manager 5.0.0
 
 We are glad to announce that we released the new version of SysKit Security Manager today. This major upgrade brings security overview capabilities to your environment and a lot of new and improved security reports.
 

@@ -7,7 +7,7 @@ author: Petra Filipi
 date: 14/03/2018
 ---
 
-# system-requirements
+# System Requirements
 
 ## Software
 

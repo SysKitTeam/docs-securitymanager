@@ -7,7 +7,7 @@ author: Petra Filipi
 date: 14/03/2018
 ---
 
-# installation-guide
+# Install SysKit Security Manager
 
 This article provides instructions on how to install **SysKit Security Manager**.
 

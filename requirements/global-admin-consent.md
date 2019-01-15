@@ -7,7 +7,7 @@ author: Vinko Bedek
 date: 09/04/2018
 ---
 
-# global-admin-consent
+# Global Admin Consent
 
 ## Why does SysKit Security Manager need consent from a global administrator?
 

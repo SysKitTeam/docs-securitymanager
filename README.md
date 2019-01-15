@@ -2,7 +2,7 @@
 private: true
 ---
 
-# README
+# SysKit Security Manager
 
 SysKit Security Manager is centralized SharePoint and Office 365 security reporting and management solution. It was created to help SharePoint site collection administrators with controlling the security in their SharePoint and Office 365 environment. Know who has access to what and increase data security with our user-friendly tool.
 

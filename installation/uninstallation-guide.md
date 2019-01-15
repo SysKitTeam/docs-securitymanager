@@ -5,7 +5,7 @@ date: 14/03/2018
 description: This article explains how to uninstall SysKit Security Manager.
 ---
 
-# uninstallation-guide
+# Uninstall SysKit Security Manager
 
 We are sorry to hear you are leaving the SysKit family, but here are the steps how to uninstall the **SysKit Security Manager**.
 

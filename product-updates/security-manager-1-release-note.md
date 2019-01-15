@@ -7,7 +7,7 @@ description: >-
   reporting and management tool bringing in the first release.
 ---
 
-# security-manager-1-release-note
+# SysKit Security Manager 1.0.0
 
 SysKit Security Manager is centralized **SharePoint and Office 365 security reporting and management tool**. It was created to help SharePoint site collection administrators with controlling the security in their SharePoint and Office 365 environment. Let's see what this version of the tool is bringing to the table.
 
