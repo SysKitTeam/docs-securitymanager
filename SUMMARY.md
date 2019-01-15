@@ -7,7 +7,7 @@
   * [SysKit Security Manager 3.2.0](product-updates/security-manager-3-2-release-note.md)
   * [SysKit Security Manager 3.0.0](product-updates/security-manager-3-release-note.md)
   * [SysKit Security Manager 2.0.0](product-updates/security-manager-2-release-note.md)
-  * [SysKit Security Manager 1.0.0](product-updates/security-manager-1-release-note.md)
+  * [SysKit Security Manager - SharePoint and Office 365 security management tool](product-updates/security-manager-1-release-note.md)
 * [Requirements](requirements/README.md)
   * [System Requirements](requirements/system-requirements.md)
   * [User Permissions Requirements](requirements/user-permissions-requirements.md)
