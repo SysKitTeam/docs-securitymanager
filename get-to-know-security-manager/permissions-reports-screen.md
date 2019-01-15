@@ -8,7 +8,7 @@ author: Petra Filipi
 date: 14/05/2018
 ---
 
-# Reports Screen
+# Security Reports Screen
 
 The Security Reports screen contains a number of reports on SharePoint Permissions and Logical and Structural Reports.
 
