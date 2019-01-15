@@ -1,8 +1,10 @@
-# Compare Permissions
+---
+description: >-
+  This section describes how to use SysKit Security Manager to compare
+  SharePoint permissions between any two selected SharePoint objects.
+---
 
-title: Compare SharePoint Permissions author: Petra Filipi date: 14/05/2018
-
-## description: This section describes how to use SysKit Security Manager to compare SharePoint permissions between any two selected SharePoint objects.
+# Compare Permissions and Track Changes
 
 ## Compare Wizard
 

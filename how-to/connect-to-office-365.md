@@ -1,8 +1,11 @@
+---
+description: >-
+  This section describes how to connect to a single or multiple SharePoint
+  Online site collections, Office 365 groups, teams and OneDrive accounts from
+  SysKit Security Manager.
+---
+
 # Connect to Office 365
-
-title: Connect to Office 365 author: Petra Filipi date: 10/07/2018
-
-## description: This section describes how to connect to a single or multiple SharePoint Online site collections, Office 365 groups, teams and OneDrive accounts from SysKit Security Manager.
 
 Choose **Office 365** \(Online\) to start the connection wizard:
 
