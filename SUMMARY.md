@@ -21,7 +21,7 @@
   * [Activation FAQ](activation/activation-faq.md)
 * [Quick Start Guide](getting-started.md)
 * [Get to know SysKit Security Manager](get-to-know-security-manager/README.md)
-  * [Basics](get-to-know-security-manager/basics.md)
+  * [Snapshot](get-to-know-security-manager/basics.md)
   * [Overview Screen](get-to-know-security-manager/overview-screen.md)
   * [Site Collections Screen](get-to-know-security-manager/site-collections-screen.md)
   * [Office 365 Groups](get-to-know-security-manager/office-365-groups-screen.md)
