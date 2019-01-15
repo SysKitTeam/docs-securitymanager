@@ -5,7 +5,7 @@ author: Petra Filipi
 date: 05/04/2018
 ---
 
-# office-365-groups-screen
+# Office 365 Groups
 
 The Office 365 Groups screen gives you a general overview of your connected Office 365 Groups, as well as the report for each group in particular.
 

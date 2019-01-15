@@ -1,4 +1,4 @@
-# manual-snapshots
+# Take Manual Snapshots
 
 title: Take Manual Snapshots author: Petra Filipi date: 14/05/2018
 

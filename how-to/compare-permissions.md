@@ -1,4 +1,4 @@
-# compare-permissions
+# Compare Permissions
 
 title: Compare SharePoint Permissions author: Petra Filipi date: 14/05/2018
 

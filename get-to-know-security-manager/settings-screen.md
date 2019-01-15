@@ -5,7 +5,7 @@ author: Petra Filipi
 date: 02/10/2018
 ---
 
-# settings-screen
+# Settings Screen
 
 To customize SysKit Security Manager settings, click the **Settings** button located in the left navigation.
 

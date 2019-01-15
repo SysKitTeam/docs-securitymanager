@@ -1,4 +1,4 @@
-# connect-to-sharepoint-on-premise
+# Connect to SharePoint On-Premise
 
 title: Connect to SharePoint On-Premise Site Collections author: Petra Filipi date: 10/07/2018
 

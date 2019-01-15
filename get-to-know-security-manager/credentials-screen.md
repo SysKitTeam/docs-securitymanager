@@ -7,7 +7,7 @@ author: Petra Filipi
 date: 05/04/2018
 ---
 
-# credentials-screen
+# Credentials List Screen
 
 The **Credentials List** screen lets you manage credentials used for your On-Premise connections and shows you all connected site collections and Office 365 groups. In this article you will see how to edit and remove credentials for SharePoint On-Premise, or sign in to your Office 365 account again from SysKit Security Manager.
 

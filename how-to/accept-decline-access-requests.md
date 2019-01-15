@@ -1,4 +1,4 @@
-# accept-decline-access-requests
+# Manage Access Requests
 
 title: Accept or decline access requests author: Petra Filipi date: 05/04/2018
 

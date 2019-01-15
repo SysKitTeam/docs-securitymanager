@@ -1,4 +1,4 @@
-# connect-to-office-365
+# Connect to Office 365
 
 title: Connect to Office 365 author: Petra Filipi date: 10/07/2018
 

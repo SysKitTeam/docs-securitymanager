@@ -36,7 +36,7 @@ We are glad to announce that we released the new version of SysKit Security Mana
 
   The connection wizard performance has been improved while checking and giving permissions to OneDrive accounts, but the finishing step of the wizard can still take a while for large numbers of users with OneDrive.
 
-* We added a notification feature to inform you when a new version of SysKit Security Manager is available, helping you stay up to date with new features. 
+* We added a notification feature to inform you when a new version of SysKit Security Manager is available, helping you stay up to date with new features.
 * Some [security reports](../get-to-know-security-manager/permissions-reports-screen.md) now have a live version.
 * We added a column grouping option, which lets you group the report data by one or more columns and examine it from a different point of view
 * We added the Snapshot Details report to help you troubleshoot load issues.

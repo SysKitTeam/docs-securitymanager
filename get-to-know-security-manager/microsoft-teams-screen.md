@@ -5,7 +5,7 @@ author: Petra Filipi
 date: 02/10/2018
 ---
 
-# microsoft-teams-screen
+# Microsoft Teams
 
 The Microsoft Teams screen gives you a general overview of your connected Microsoft Teams, as well as a report for each team. To start exploring features and reports, navigate to the Microsoft Teams screen and select your tenant.
 

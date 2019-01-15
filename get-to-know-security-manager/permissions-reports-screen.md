@@ -8,14 +8,14 @@ author: Petra Filipi
 date: 14/05/2018
 ---
 
-# permissions-reports-screen
+# Reports Screen
 
 The Security Reports screen contains a number of reports on SharePoint Permissions and Logical and Structural Reports.
 
 There are two kinds of reports regarding the availability of data:
 
-* those that can be viewed without creating a [snapshot](../get-to-know-security-manager/basics.md#snapshot) of your environment
-* those that can be viewed only when a [snapshot](../get-to-know-security-manager/basics.md#snapshot) of your environment has been created
+* those that can be viewed without creating a [snapshot](basics.md#snapshot) of your environment
+* those that can be viewed only when a [snapshot](basics.md#snapshot) of your environment has been created
 
 ## Filters
 

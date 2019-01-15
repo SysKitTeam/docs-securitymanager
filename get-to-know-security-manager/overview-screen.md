@@ -7,13 +7,13 @@ author: Domagoj Hrestak
 date: 04/12/2018
 ---
 
-# overview-screen
+# Overview Screen
 
 The **Overview** screen is the starting screen of the SysKit Security Manager. It features a dashboard of collected metrics and important information from your environment.
 
 ## Types of View
 
-* **Live Overview** - Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a [snapshot](../get-to-know-security-manager/basics.md#snapshot). Clicking on the **Refresh** button in the upper-right part of the overview will refresh it with the latest information and recalculate your score.
+* **Live Overview** - Immediately upon connecting to a new tenant or an environment, Security Manager collects a number of important metrics and information regarding your Office 365 tenant or On-Prem environment and displays them in real time. To avoid long waiting times and performance issues, information that is displayed with a camera icon is collected only when taking a [snapshot](basics.md#snapshot). Clicking on the **Refresh** button in the upper-right part of the overview will refresh it with the latest information and recalculate your score.
 * **Snapshot Overview** - Upon taking a snapshot Security Manager collects all the available dashboard values. So you can track your tenant summary information and health through time, potentially discovering a growing issue in your environment activities.
 
 ## Score
@@ -28,7 +28,7 @@ Every collected metric will display a tooltip with more information when hovered
 
 ## Overview Tiles in Detail
 
-Here you can find a list of all the tile categories and what kind of information they represent. For detailed information about the reports they describe head over to the [**Security Reports**](../get-to-know-security-manager/permissions-reports-screen.md) section.
+Here you can find a list of all the tile categories and what kind of information they represent. For detailed information about the reports they describe head over to the [**Security Reports**](permissions-reports-screen.md) section.
 
 Underneath the score tile you can find a list of general environment information. When a tile value is displayed as a fraction, the first number represents how many objects of the described type are connected in the Security Manager and the second number is the total number of objects in your environment. This information is only present in the live overview.
 

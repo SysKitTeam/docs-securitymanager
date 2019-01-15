@@ -5,7 +5,7 @@ author: Vinko Bedek
 date: 03/12/2018
 ---
 
-# basics
+# Basics
 
 ## Conecting to an Environment
 
