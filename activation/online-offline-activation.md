@@ -45,5 +45,7 @@ Customers that have no internet access on their machines will need to activate S
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
-See [Activation FAQ](activation-faq.md) to learn more about SysKit Security Manager activation.
+See **Activation FAQ** to learn more about SysKit Security Manager activation.
+
+{% page-ref page="activation-faq.md" %}
 
