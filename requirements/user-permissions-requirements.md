@@ -28,6 +28,7 @@ For more details on how permissions and consent work in Office 365 you can read 
 The key takeaway from the article is the concept of effective permissions:
 
 {% hint style="warning" %}
+**Please note!**  
 The effective permissions of an app will be the least privileged intersection of the delegated permissions the app has been granted \(via consent\) and the privileges of the currently signed-in user. Your app can never have more privileges than the signed-in user.
 {% endhint %}
 
