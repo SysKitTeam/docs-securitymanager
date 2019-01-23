@@ -66,7 +66,8 @@ To reset your password, please go to the [following link](https://my.syskit.com/
 4. If for some reason you are still unable to retrieve the new password, please [contact us](https://www.syskit.com/company/contact-us/) for further assistance.
 
 {% hint style="warning" %}
-**Please note:** sometimes these notifications can end up in your junk folder, so please check there if you don’t see our email within a few minutes. To avoid these situations, please add our email address to your **Safe Senders List**.
+**Please note!**   
+These notifications can sometimes end up in your junk folder, so please check there if you don’t see our email within a few minutes. To avoid these situations, please add our email address to your **Safe Senders List**.
 {% endhint %}
 
   
