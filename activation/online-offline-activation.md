@@ -17,7 +17,8 @@ In order to activate your copy of the SysKit Security Manager **online**, please
 2. Fill in all the required fields by using the **email account** and **password**.
 
 {% hint style="warning" %}
-Please note! You need to change the temporary password that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
+**Please note!**   
+You need to change the temporary password that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
 {% endhint %}
 
 3. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
@@ -40,7 +41,8 @@ Customers that have no internet access on their machines will need to activate S
 4. Click the **Activate** button to start the email account validation process. It only takes 2-5 seconds to perform the activation and it is a one-time-only procedure. If the validation of your email address is successful, an info dialog will appear thanking you for the activation.
 
 {% hint style="warning" %}
-Please note! You need to change the temporary password that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
+**Please note!**   
+You need to change the temporary password that you received during your online purchase. These passwords are provided as initial passwords and are not meant for use.
 
 The license file \(.lic\) is only valid for the user account and server where the License Details \(.dlic\) file was generated in step 2.
 {% endhint %}
