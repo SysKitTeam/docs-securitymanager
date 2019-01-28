@@ -18,7 +18,7 @@ Product activation is a simple step that takes place during registration of your
 
 ## Who will be required to activate their products?
 
-Anyone who purchases Syskit Security Manager will be required to activate the product. To activate the product, use the email address associated with your account. More information can be found in the [customers portal](https://my.syskit.com).
+Anyone who purchases SysKit Security Manager will be required to activate the product. To activate the product, use the email address associated with your account. More information can be found in the [customers portal](https://my.syskit.com).
 
 ## How soon must I activate my product?
 
