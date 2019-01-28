@@ -16,7 +16,7 @@ If you are a **Global Administrator** in an Office 365 tenant or a **Farm Admini
 
 If you are a Global Office 365 tenant administrator, you’ll have an option in the connection wizard to [connect to all OneDrive accounts.](how-to/connect-to-office-365.md#onedrive)
 
-The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. 
+The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
 
 {% hint style="info" %}
 Please note that these reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.

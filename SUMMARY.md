@@ -26,7 +26,7 @@
   * [Site Collections Screen](get-to-know-security-manager/site-collections-screen.md)
   * [Office 365 Groups](get-to-know-security-manager/office-365-groups-screen.md)
   * [Microsoft Teams](get-to-know-security-manager/microsoft-teams-screen.md)
-  * [Onedrive](get-to-know-security-manager/onedrive-screen.md)
+  * [OneDrive](get-to-know-security-manager/onedrive-screen.md)
   * [Snapshots Screen](get-to-know-security-manager/snapshots-screen.md)
   * [Security Reports Screen](get-to-know-security-manager/permissions-reports-screen.md)
   * [Credentials List Screen](get-to-know-security-manager/credentials-screen.md)
