@@ -1,15 +1,21 @@
 ---
 title: Install SysKit Security Manager
-description: This section describes how to configure, that is install, SysKit Security Manager.
+description: >-
+  This section describes how to configure, that is install, SysKit Security
+  Manager.
 author: Petra Filipi
 date: 14/03/2018
 ---
-This article provides instructions on how to install __SysKit Security Manager__. 
+
+# Install SysKit Security Manager
+
+This article provides instructions on how to install **SysKit Security Manager**.
 
 1. [Download](https://www.syskit.com/products/security-manager/download) application.
-1. Unpack and run __SysKitSecurityManagerSetup.exe__. The wizard will guide you through the installation steps, click __Next >__ to proceed. 
-1. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next__ > to proceed.
-1. Choose the installation folder e.g. __C:\Program Files\SysKit\Security Manager.__ Click __Next__ > to proceed.
-1. The installation wizard will unpack your files and you will be able to run the application from: __Start__ > __All Programs__ > __SysKit Security Manager__. 
+2. Unpack and run **SysKitSecurityManagerSetup.exe**. The wizard will guide you through the installation steps, click **Next &gt;** to proceed. 
+3. Click **I Accept the terms of the license agreement** to accept the license and then click **Next** &gt; to proceed.
+4. Choose the installation folder e.g. **C:\Program Files\SysKit\Security Manager.** Click **Next** &gt; to proceed.
+5. The installation wizard will unpack your files and you will be able to run the application from: **Start** &gt; **All Programs** &gt; **SysKit Security Manager**. 
 
-And that is it. The application is installed.  
+And that is it. The application is installed.
+

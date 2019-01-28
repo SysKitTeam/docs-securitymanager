@@ -1,23 +1,31 @@
 ---
 title: System Requirements
-description: This article discusses the hardware and software requirements that are necessary in order to install the SysKit Security Manager.
+description: >-
+  This article discusses the hardware and software requirements that are
+  necessary in order to install the SysKit Security Manager.
 author: Petra Filipi
 date: 14/03/2018
 ---
 
+# System Requirements
+
 ## Software
-* Microsoft Windows 7 (with Service Pack 1), Windows 8, Windows 8.1, Windows 10 or later are supported (64-bit only)
+
+* Microsoft Windows 7 \(with Service Pack 1\), Windows 8, Windows 8.1, Windows 10 or later are supported \(64-bit only\)
 * Microsoft .NET Framework 4.5 or higher
 
 ## Hardware
+
 * An Intel or AMD 64-bit CPU that's SSE2 capable
-* 512MB of RAM (1GB recommended)
+* 512MB of RAM \(1GB recommended\)
 * 1366x768 or higher resolution video card
 * 150MB of available hard disk space
 
 ## Database System
-* SysKit Security Manager Setup will install and configure a new instance of __SQL Server 2012 Express LocalDB__ named SysKitSecurityManagerInstance. 
-    * LocalDB instance can be located in the following directory:
-_%LOCALAPPDATA%\SysKit\Security Manager\Db_
 
+* SysKit Security Manager Setup will install and configure a new instance of **SQL Server 2012 Express LocalDB** named SysKitSecurityManagerInstance.
+  * LocalDB instance can be located in the following directory:
+
+    _%LOCALAPPDATA%\SysKit\Security Manager\Db_
 * By default, access to the instance of LocalDB is limited to its owner.
+
