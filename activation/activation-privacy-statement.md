@@ -1,6 +1,9 @@
 ---
 title: Activation Privacy Statement
-description: Read important info about the activation process.
+description: >-
+  Read important info about the activation process. You need to activate your
+  SysKit Security Manager so we may verify if your product was purchased
+  legally.
 author: Petra Filipi
 date: 14/03/2018
 ---

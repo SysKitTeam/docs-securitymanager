@@ -1,9 +1,3 @@
----
-description: >-
-  This section describes how to connect to a single or multiple SharePoint
-  On-Premise site collections from SysKit Security Manager.
----
-
 # Connect to SharePoint On-Premise Site Collections
 
 Choose SharePoint **On-Premise** to start the connection wizard.

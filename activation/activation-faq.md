@@ -1,7 +1,3 @@
----
-description: This article outlines activation FAQs.
----
-
 # Activation FAQ
 
 ### Is the trial version in any kind limited?

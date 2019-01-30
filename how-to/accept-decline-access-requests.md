@@ -1,9 +1,3 @@
----
-description: >-
-  This section describes how to accept or decline access requests using SysKit
-  Security Manager.
----
-
 # Manage Access Requests
 
 1. Navigate to the desired SharePoint Object in Site Collection tree.
