@@ -11,6 +11,8 @@ The OneDrive screen gives you a general overview of your connected personal OneD
 
 ## Available actions
 
-* **Disconnect OneDrive** – This action will remove permissions in Office 365 and connections in SysKit Security Manager so you will no longer be the owner of any OneDrive in the selected tenant.
+* **Remove Access** – This action will remove permissions which were granted in the [connection wizard](../how-to/connect-to-office-365.md#onedrive). 
 * **Stop Sharing** – Remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
+
+
 
