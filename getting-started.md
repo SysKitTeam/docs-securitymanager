@@ -10,13 +10,13 @@ In this article we will take you through some of the common use cases and usual 
 
 ## Let's get started
 
-After successfully activating the application, or starting the trial, you will be able to connect to SharePoint Online or On-Premise site collection using your SharePoint admin credentials.
+After successfully activating the application, or starting the trial, you will be able to [connect to SharePoint Online or On-Premise](get-to-know-security-manager/basics.md) site collection using your SharePoint admin credentials. 
 
-You can also use your credentials to connect to Office 365 Groups.
+You can also use your credentials to connect to Office 365 Groups. 
 
 Afterwards, on the **Site Collections** screen, you can see the site structure and explore and manage the permissions of the site collections you connected. On the **Office 365 Groups** screen, you can see an overview of all connected Office 365 Groups: their settings, owners and members.
 
-For detailed information on user permission requirements, [see this article.](requirements/user-permissions-requirements.md)
+For detailed information on user permission requirements, [see this article.](user-permissions-requirements.md)
 
 ## Site Collections
 
@@ -33,4 +33,8 @@ The Microsoft Teams screen gives you an overview of Microsoft Teams: their setti
 ## OneDrive
 
 The OneDrive screen gives you a general overview of your connected personal OneDrive accounts, as well as a report for each OneDrive account.
+
+### Taking a snapshot
+
+After connecting to your environment, the app will perform the autodiscover of your environment. After you pick which Site Collections, Groups, Teams and/or OneDrives you want to manage, the initial snapshot will be triggered. For more about snapshots, [see this article.](basics.md#snapshot)
 
