@@ -19,6 +19,7 @@
   * [Online and Offline Activation](activation/online-offline-activation.md)
   * [Activation Privacy Statement](activation/activation-privacy-statement.md)
   * [Activation FAQ](activation/activation-faq.md)
+* [Configuration](configuration.md)
 * [Quick Start Guide](getting-started.md)
 * [Get to know SysKit Security Manager](get-to-know-security-manager/README.md)
   * [Snapshot](get-to-know-security-manager/basics.md)

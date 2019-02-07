@@ -36,11 +36,15 @@ The effective permissions of an app will be the least privileged intersection of
 
 If the account used to connect to the Office 365 tenant is a global administrator, consent can be given directly from SysKit Security Manager.
 
+![Global Administrator Consent ](../.gitbook/assets/global-admin-consent.png)
+
 ### Site Collection Administrator Consent Considerations
 
 Unfortunately the procedure for using SysKit Security Manager with a normal user account is a bit more involved and will require the global administrator to intervene and give consent on behalf of the users in the organization. While there are permissions that the user itself can consent to, SysKit Security Manager require some for which only a global administrator can consent.
 
 Once established that the account is a non global administrator account a window will be shown with a generated URL to give to the global administrator. The consent process can then be initiated by the global administrator.
+
+![Office 365 Global Admin Consent Needed ](../.gitbook/assets/office-365-global-admin-consent-needed.png)
 
 Global administrators considering giving organization wide consent can learn more [here](global-admin-consent.md).
 
