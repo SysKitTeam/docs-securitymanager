@@ -22,7 +22,7 @@ Please note! This should be a SysKit Security Manager-dedicated database; please
 
 After providing the information, click the **Test Connection** button to ensure that the settings are correct.  
 
-3. On the **Service Configuration** wizard page type the service account details. The service account needs to have the \[following privileges\]\(link\) to be able to run the service, create snapshots and other associated jobs. After type the account details, click the **Validate Account** button to ensure that account has all requirements.  
+3. On the **Service Configuration** wizard page type the service account details. The service account needs to have the \[following privileges\]\(link\) to be able to run the service, create snapshots and other associated jobs. After typing the account details, click the **Validate Account** button to ensure that account has all requirements.  
 
 4. On the **Security Settings** wizard page you can add user who can access SysKit Security Manager. Install account is by default on the list. All users with access will be able to see all the data in the application.  
 
