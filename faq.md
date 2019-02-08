@@ -22,7 +22,7 @@ The only way we can access user data and create OneDrive reports is if admin is 
 Please note! These reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
-At any time, you can disconnect wanted OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the [Remove Access action](get-to-know-security-manager/onedrive-screen.md).
+At any time, you can disconnect wanted OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the [Remove Access action](get-to-know-security-manager/onedrive-screen.md). This action will remove permissions which were granted in the [connection wizard](how-to/connect-to-office-365.md#onedrive).
 
 ## Why am I seeing all the external users on my root site collection?
 
