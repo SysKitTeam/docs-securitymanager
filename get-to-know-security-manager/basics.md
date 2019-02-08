@@ -9,7 +9,7 @@ date: 03/12/2018
 
 ## Connecting to an Environment
 
-The application can only be used once connected to an environment. After the first startup you will be asked to connect to either an Office 365 or your SharePoint On-Premise environments. In the Connect wizard depending on the permissions of the current user you will be able to choose the site collections, Office 365 Groups & Teams that you want to connect to. Ordinary site collection administators will not be able to select from a list of site collections but will need to input them manually.  
+The application can only be used once connected to an environment. After the first startup you will be asked to connect to either an Office 365 or your SharePoint On-Premise environments. In the [Connect wizard ](../how-to/connect-to-office-365.md)depending on the permissions of the current user you will be able to choose the site collections, Office 365 Groups & Teams that you want to connect to. Ordinary site collection administators will not be able to select from a list of site collections but will need to input them manually.  
 There are special considerations to be taken into account when working with a non global administrator account. Learn more in the [user permission requirements](../requirements/user-permissions-requirements.md) article.
 
 Once connected additional environments can be added by using the Connect button. Connecting to the same environment is also supported when wishing to add additional connected objects. Just select the name of the tenant or On-Premise web application from the Connect button dropdown.
