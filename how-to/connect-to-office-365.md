@@ -26,7 +26,7 @@ All Office 365 groups and teams from your tenant will be auto-discovered and you
 
 ## OneDrive
 
-From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will  get an option to **Connect to wanted OneDrive accounts**. 
+From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will  get an option to **Connect to selected OneDrive accounts**. 
 
 The user running SysKit Security Manager will be granted site collection administrator rights on personal OneDrive accounts selected in the OneDrive step of the Connection Wizard .  
 
