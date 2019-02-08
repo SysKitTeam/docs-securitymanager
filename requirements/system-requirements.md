@@ -20,12 +20,3 @@ date: 14/03/2018
 * 512MB of RAM \(1GB recommended\)
 * 1366x768 or higher resolution video card
 * 150MB of available hard disk space
-
-## Database System
-
-* SysKit Security Manager Setup will install and configure a new instance of **SQL Server 2012 Express LocalDB** named SysKitSecurityManagerInstance.
-  * LocalDB instance can be located in the following directory:
-
-    _%LOCALAPPDATA%\SysKit\Security Manager\Db_
-* By default, access to the instance of LocalDB is limited to its owner.
-

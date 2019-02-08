@@ -1,8 +1,8 @@
 ---
 description: >-
   This section describes how to connect to a single or multiple SharePoint
-  Online site collections, Office 365 Groups, Microsoft Teams and OneDrive
-  accounts from SysKit Security Manager.
+  Online site collections, Office 365 groups, teams and OneDrive accounts from
+  SysKit Security Manager.
 ---
 
 # Connect to Office 365
@@ -26,7 +26,7 @@ All Office 365 groups and teams from your tenant will be auto-discovered and you
 
 ## OneDrive
 
-From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will  get an option to **Connect to wanted OneDrive accounts**. 
+From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will  get an option to **Connect to selected OneDrive accounts**. 
 
 The user running SysKit Security Manager will be granted site collection administrator rights on personal OneDrive accounts selected in the OneDrive step of the Connection Wizard .  
 
@@ -36,8 +36,8 @@ Security Manager checks if the current user already has site collection administ
 
 The only way we can access user data and create OneDrive reports is if admin is granted site collection administrator rights to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
 
-{% hint style="info" %}
-Please note that these reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
+{% hint style="warning" %}
+Please note! These reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
 At any time, you can remove access from all connected OneDrive accounts which will also remove administrator rights for all connected OneDrive accounts on the selected tenant using the **Remove Access** action. This action will only remove owner permissions which were granted in the Connection Wizard. You can also remove access to OneDrive accounts one by one. 

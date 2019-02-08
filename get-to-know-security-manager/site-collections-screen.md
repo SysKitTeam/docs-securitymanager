@@ -5,6 +5,7 @@ author: Petra Filipi
 date: 05/04/2018
 ---
 
+
 # SharePoint Explorer
 
 The **SharePoint Explorer** screen gives you an overview of your connected site collections \(coloured red\) as well as connected Office 365 Groups site collections \(coloured blue\).
