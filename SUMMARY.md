@@ -24,7 +24,7 @@
 * [Get to know SysKit Security Manager](get-to-know-security-manager/README.md)
   * [Snapshot](get-to-know-security-manager/basics.md)
   * [Overview Screen](get-to-know-security-manager/overview-screen.md)
-  * [Site Collections Screen](get-to-know-security-manager/site-collections-screen.md)
+  * [SharePoint Explorer Screen](get-to-know-security-manager/site-collections-screen.md)
   * [Office 365 Groups](get-to-know-security-manager/office-365-groups-screen.md)
   * [Microsoft Teams](get-to-know-security-manager/microsoft-teams-screen.md)
   * [OneDrive](get-to-know-security-manager/onedrive-screen.md)
