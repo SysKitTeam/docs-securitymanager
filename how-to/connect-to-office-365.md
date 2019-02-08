@@ -36,8 +36,8 @@ Security Manager checks if the current user already has site collection administ
 
 The only way we can access user data and create OneDrive reports is if admin is granted site collection administrator rights to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
 
-{% hint style="info" %}
-Please note that these reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
+{% hint style="warning" %}
+Please note! These reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
 At any time, you can remove access from all connected OneDrive accounts which will also remove administrator rights for all connected OneDrive accounts on the selected tenant using the **Remove Access** action. This action will only remove owner permissions which were granted in the Connection Wizard. You can also remove access to OneDrive accounts one by one. 
