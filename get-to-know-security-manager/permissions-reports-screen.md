@@ -17,7 +17,7 @@ There are two kinds of reports regarding the availability of data:
 * those that can be viewed without creating a [snapshot](basics.md#snapshot) of your environment
 * those that can be viewed only when a [snapshot](basics.md#snapshot) of your environment has been created
 
-For detailed instructions on how to use Drill functionality and Filters, [see this article.](../how-to/use-drill-and-filters.md)
+For detailed instructions on how to use Drill functionality and Filters, [see this article.](../how-to/use-filters-drill-and-column-chooser.md)
 
 ## Permission Reports
 
