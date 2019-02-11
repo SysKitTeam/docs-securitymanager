@@ -24,5 +24,3 @@ The following actions are available:
 * **Delete Snapshot** – Delete the currently selected snapshot.
 * **Snapshot Schedule** - Take a snapshot automatically, at the time you specified.
 
-
-
