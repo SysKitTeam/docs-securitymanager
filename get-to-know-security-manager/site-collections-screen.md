@@ -9,7 +9,7 @@ date: 05/04/2018
 
 The **SharePoint Explorer** screen gives you an overview of your connected site collections \(coloured red\) as well as connected Office 365 Groups site collections \(coloured blue\).
 
-Track permissions changes in your environment using the **Compare** wizard.
+Track permissions changes in your environment using the [Compare wizard](../how-to/compare-permissions.md#compare-wizard).
 
 ## Permissions
 

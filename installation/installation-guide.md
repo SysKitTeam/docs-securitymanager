@@ -1,15 +1,13 @@
 ---
 title: Install SysKit Security Manager
-description: >-
-  This section describes how to configure, that is install, SysKit Security
-  Manager.
+description: This article provides instructions on how to install SysKit Security Manager.
 author: Petra Filipi
 date: 14/03/2018
 ---
 
 # Install SysKit Security Manager
 
-This article provides instructions on how to install **SysKit Security Manager**.
+## Installation Steps
 
 1. [Download](https://www.syskit.com/products/security-manager/download) application.
 2. Unpack and run **SysKitSecurityManagerSetup.exe**. The wizard will guide you through the installation steps, click **Next &gt;** to proceed. 

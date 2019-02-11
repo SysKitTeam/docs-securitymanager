@@ -22,7 +22,7 @@
 * [Configuration](configuration.md)
 * [Quick Start Guide](getting-started.md)
 * [Get to know SysKit Security Manager](get-to-know-security-manager/README.md)
-  * [Snapshot](get-to-know-security-manager/basics.md)
+  * [Basics](get-to-know-security-manager/basics.md)
   * [Overview Screen](get-to-know-security-manager/overview-screen.md)
   * [SharePoint Explorer Screen](get-to-know-security-manager/site-collections-screen.md)
   * [Office 365 Groups](get-to-know-security-manager/office-365-groups-screen.md)
@@ -38,6 +38,7 @@
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
-  * [Send Scheduled Reports](how-to/scheduled-reports.md)
+  * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
+  * [Use Filters, Drill and Column Chooser](how-to/use-filters-drill-and-column-chooser.md)
 * [FAQ](faq.md)
 
