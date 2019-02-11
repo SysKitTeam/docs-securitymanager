@@ -10,6 +10,11 @@ In this article we will take you through some of the common use cases and usual 
 
 ## Getting Started
 
+
+After successfully activating the application, or starting the trial, you will be able to [connect to SharePoint Online or On-Premise](get-to-know-security-manager/basics.md) site collection using your SharePoint admin credentials. 
+
+You can also use your credentials to connect to Office 365 Groups. 
+
 After successfully activating the application, or starting the trial, you will be able to connect to Office 365 \(SharePoint Online, Office 365 Groups, Microsoft Teams, OneDrive\)  or On-Premise site collections using your credentials.
 
 To successfully manage SharePoint permissions, Office 365 Groups, Microsoft Teams, OneDrive and more, you need to have one of the following privileges on the desired Office 365 or SharePoint On-Premises environment:
@@ -22,9 +27,10 @@ To successfully manage SharePoint permissions, Office 365 Groups, Microsoft Team
 Please note! **You don't have to be an Office 365 Global Administrator** in order to use SysKit Security Manager, but in order for a regular user to use Security Manager, the administrator must first sign in and consent to permission on behalf of the organisation. This is because the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need [global administrator consent](requirements/global-admin-consent.md).
 {% endhint %}
 
+
 Afterwards, on the **Site Collections** screen, you can see the site structure and explore and manage the permissions of the site collections you connected. On the **Office 365 Groups** screen, you can see an overview of all connected Office 365 Groups: their settings, owners and members.
 
-For detailed information on user permission requirements, [see this article.](requirements/user-permissions-requirements.md)
+For detailed information on user permission requirements, [see this article.](user-permissions-requirements.md)
 
 ## SharePoint Explorer
 
@@ -41,4 +47,8 @@ The Microsoft Teams screen gives you an overview of Microsoft Teams: their setti
 ## OneDrive
 
 The OneDrive screen gives you a general overview of your connected personal OneDrive accounts, as well as a report for each OneDrive account.
+
+### Taking a snapshot
+
+After connecting to your environment, the app will perform the autodiscover of your environment. After you pick which Site Collections, Groups, Teams and/or OneDrives you want to manage, the initial snapshot will be triggered. For more about snapshots, [see this article.](basics.md#snapshot)
 

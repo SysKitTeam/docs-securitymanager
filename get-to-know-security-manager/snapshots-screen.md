@@ -22,4 +22,7 @@ The following actions are available:
 * **Take Snapshot** – Take a manual snapshot of your environment.
 * **Open Snapshot** – Open the currently selected snapshot.
 * **Delete Snapshot** – Delete the currently selected snapshot.
+* **Snapshot Schedule** - Take a snapshot automatically, at the time you specified.
+
+
 

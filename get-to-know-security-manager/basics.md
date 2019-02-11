@@ -25,3 +25,10 @@ Once you have a snapshot created you can view all of the reports available. Crea
 
 A snapshot can be created from most of SysKit Security Manager. The most prominent location is on the overview screen after connecting to your environment. The Take Snaphot button will always be denoted with a photo camera icon.
 
+## Types of Snapshots
+
+There are two types of Snapshots: 
+* **Custom** snapshot - gives you the ability to manage site collections for snapshots. This option will not load new site collections, only existing ones. 
+* **Automatic Discovery** - allows you to create a full snapshot of your environment. SysKit Security Manager will automatically detect and load from new site collections in SharePoint.
+
+
