@@ -85,5 +85,9 @@ User running SysKit Security Manager will need to be granted the **db\_datareade
 * **db\_owner** privileges on the created SysKit Security Manager dedicated database
 * **log on as Service** rights configured
 
-  If the service account is outside your domain the account name must be typed in the down-level logon name format: _"domain\accountname"_
+{% hint style="info" %}
+If the service account is outside your domain the account name must be typed in the down-level logon name format: _**domain\accountname**_
+{% endhint %}
+
+
 
