@@ -37,5 +37,6 @@
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
+  * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
 * [FAQ](faq.md)
 
