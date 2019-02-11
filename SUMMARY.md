@@ -38,6 +38,6 @@
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
   * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
-  * [Use Drill and Filters](how-to/use-drill-and-filters.md)
+  * [Use Filters, Drill and Column Chooser](how-to/use-filters-drill-column-chooser.md)
 * [FAQ](faq.md)
 
