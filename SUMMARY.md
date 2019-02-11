@@ -29,6 +29,7 @@
   * [Microsoft Teams](get-to-know-security-manager/microsoft-teams-screen.md)
   * [OneDrive](get-to-know-security-manager/onedrive-screen.md)
   * [Snapshots Screen](get-to-know-security-manager/snapshots-screen.md)
+  * [Scheduled Reports Screen](get-to-know-security-manager/scheduled-reports-screen.md)
   * [Security Reports Screen](get-to-know-security-manager/permissions-reports-screen.md)
   * [Settings Screen](get-to-know-security-manager/settings-screen.md)
 * [How To](how-to/README.md)
@@ -37,5 +38,6 @@
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
+  * [Send Scheduled Reports](how-to/scheduled-reports.md)
 * [FAQ](faq.md)
 
