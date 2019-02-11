@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this article we will take you through some of the common use cases and
-  usual steps when using the application for the first time.
+  Described some of the common use cases when starting the application for the
+  first time.
 ---
 
 # Quick Start Guide

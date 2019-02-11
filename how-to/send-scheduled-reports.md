@@ -2,20 +2,22 @@
 
 ## Scheduled Reports
 
-This article explains how to use **Scheduled Reports** to schedule sending SysKit Security Manager reports to the desired email addresses or for upload to a SharePoint document library. In order to use this feature, you have to turn it on in the Settings menu. There you can also change prefered time of day to send reports and email settings.
+This article explains how to use **Scheduled Reports** to schedule sending SysKit Security Manager reports to the **desired email addresses** or for **upload to a SharePoint document library**. In order to use this feature, you have to turn it on in the[ Settings](../get-to-know-security-manager/settings-screen.md#schedule-options) menu. There you can also change prefered time of day to send reports and email settings.
 
-If you installed the application [default way](https://github.com/SysKitTeam/docs-securitymanager/tree/cd180641fac76f1491a6656eb2e6385227f5fafd/how-to/Link%20to%20installation%20guide/README.md), then the Report Sets will be sent if the application is turned on or minimized in the tray. If you turn on the application within 24 hours what the reports should have been sent, the scheduled reports will be sent then.
+{% hint style="info" %}
+If you installed the application [default way](https://github.com/SysKitTeam/docs-securitymanager/tree/cd180641fac76f1491a6656eb2e6385227f5fafd/how-to/Link%20to%20installation%20guide/README.md), then the Report Sets will be sent if the application is turned on or [minimized in the tray](../get-to-know-security-manager/settings-screen.md#general-settings). If you turn on the application within 24 hours what the reports should have been sent, the scheduled reports will be sent then.
+{% endhint %}
 
-On the **Scheduled Reports Screen** you can see all created report sets, their destination, when was the last run time, frequency and scheduling date. Also you can create new Report Sets and access [schedule options](../get-to-know-security-manager/settings-screen.md#schedule-options). If you hover over one of the Report Sets on the right corner you get 3 additional options – Edit button, Delete button and Send now.
+On the **Scheduled Reports Screen** you can see all created report sets, their destination, when was the last run time, frequency and scheduling date. Also you can create new Report Sets and access [schedule options](../get-to-know-security-manager/settings-screen.md#schedule-options). If you hover over one of the Report Sets on the right corner you get 3 additional options – Edit, Delete and Send now.
 
-### Create new Report Set
+### Create a new Report Set
 
 This section describes how to create scheduled **Report Sets** in SysKit Security Manager. Data you receive from these reports is gathered from the **latest loaded snapshot** information.
 
 There are two ways to create new Report Set:
 
-* On the Scheduled reports Screen 
-* On the Security Reports Screen, or more precisely on each individual report screen there is a button to schedule report of that specific report and you can choose to create new report or to add to existing one. This way step 4. and 5. are skipped because report is already selected. 
+* On the [Scheduled Reports](../get-to-know-security-manager/scheduled-reports-screen.md) screen 
+* On the [Security Reports](../get-to-know-security-manager/permissions-reports-screen.md) screen, or more precisely on each individual report screen there is a button to schedule report of that specific report and you can choose to **create a new report set** or to **add to existing** one. This way step 4. and 5. are skipped because report is already selected. 
 
 If you wish to use **Scheduled reports** feature, please make sure you configured the [Scheduled Settings](send-scheduled-reports.md#internal/get-to-know-security-manager/settings-screen/#scheduled) properly.
 

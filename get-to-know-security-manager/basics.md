@@ -1,8 +1,6 @@
 ---
 title: Snapshot
-description: >-
-  In this article you'll learn the basics before you start working with SysKit
-  Security Manager.
+description: This article describes the concept of a snapshot
 author: Vinko Bedek
 date: 03/12/2018
 ---
