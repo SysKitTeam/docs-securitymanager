@@ -1,9 +1,3 @@
----
-description: >-
-  How to use filters, drill functionality and column chooser option on security
-  reports.
----
-
 # Use Filters, Drill and Column Chooser
 
 ## Filters
