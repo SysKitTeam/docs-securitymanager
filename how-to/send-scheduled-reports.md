@@ -18,7 +18,6 @@ If you wish to use **Scheduled reports** feature, please make sure you configure
 2. Choose delivery options:
    * **Email** –   Required fields are **Send To and Body**. Provide the email address to which you wish to send the subscription. You can enter more recipients – just separate the email addresses with semicolons. Type in the subject and body text. 
 
-```text
 On default is set on Exchange Online which means that Report Set will be sent via Exchange Online on behalf of current user.  In scheduled settings you can set up __Outgoing Email server__. That way email will be sent through existing email server using the supplied information.   
 
 __Please note!__ – If you don't set up outgoing email server, reports for the on prem SharePoint can't be sent via e-mail.  
@@ -27,16 +26,11 @@ __Please note!__ – If you don't set up outgoing email server, reports for the 
 
 * __SharePoint Library__ 
 
-
-
 You can select both delivery methods. Report Sets will be sent to the email addresses you provided and uploaded to the SharePoint document library. 
-```
 
 1. Choose Report from available **Security Reports**. 
 
-```text
 For certain reports, you will have to adjust filters to complete the report configuration. The filters will define the data displayed in the report. Click __Add__ to add the selected report to the subscription. 
-```
 
 1. You can add more reports by repeating previous steps or delete added reports. 
 2. Click **Finish** to create Report Set and exit.  
