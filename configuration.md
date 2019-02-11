@@ -25,9 +25,5 @@ After providing the information, click the **Test Connection** button to ensure 
 2. On the **Security Settings** wizard page you can add user who can access SysKit Security Manager. Install account is by default on the list. All users with access will be able to see all the data in the application.
 3. Click **Next** to complete the Configuration Wizard and apply the changes.
 
-After providing the information, click the **Test Connection** button to ensure that the settings are correct.
 
-1. On the **Service Configuration** wizard page type the service account details. The service account needs to have the \[following privileges\]\(link\) to be able to run the service, create snapshots and other associated jobs. After typing the account details, click the **Validate Account** button to ensure that account has all requirements.
-2. On the **Security Settings** wizard page you can add user who can access SysKit Security Manager. Install account is by default on the list. All users with access will be able to see all the data in the application.
-3. Click **Next** to complete the Configuration Wizard and apply the changes.
 
