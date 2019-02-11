@@ -79,7 +79,7 @@ User running SysKit Security Manager will need to be granted the **db\_datareade
 
 ### Service Account Permissions
 
-**Service Configuration** wizard page requires appropriate service account details. The service account needs to have the following privileges to be able to run the service, create snapshots and other associated jobs:
+**Service Configuration** wizard page requires appropriate [service account](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/service-accounts) details. The service account needs to have the following privileges to be able to run the service, create snapshots and other associated jobs:
 
 * **local administrator** privileges on this computer with UAC control disabled so we can verify your credentials
 * **db\_owner** privileges on the created SysKit Security Manager dedicated database
