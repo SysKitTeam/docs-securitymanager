@@ -5,7 +5,7 @@ author: Vinko Bedek
 date: 03/12/2018
 ---
 
-# Snapshot
+# Basics
 
 ## Connecting to an Environment
 

@@ -14,7 +14,7 @@ After successfully activating the application, or starting the trial, you will b
 
 After successfully [activating](activation/) the application, or starting the trial, you will be able to [connect to Office 365 ](how-to/connect-to-office-365.md)\([SharePoint Online](how-to/connect-to-office-365.md#site-collections), [Office 365 Groups](how-to/connect-to-office-365.md#office-365-groups-and-teams), [Microsoft Teams](how-to/connect-to-office-365.md#office-365-groups-and-teams), [OneDrive](how-to/connect-to-office-365.md#onedrive)\) or [On-Premise](how-to/connect-to-sharepoint-on-premise.md) site collections using your credentials. After you pick which Site Collections, Groups, Teams and OneDrive accounts you want to manage, the initial snapshot will be triggered. For more details about snapshots, [see this article.](https://github.com/SysKitTeam/docs-securitymanager/tree/4881261de3f4b23178a29ad38c5dcf1c343d8964/basics.md#snapshot)
 
-To successfully manage SharePoint permissions, Office 365 Groups, Microsoft Teams, OneDrive and more, you need to have one of the following privileges on the desired Office 365 or SharePoint On-Premises environment:
+To successfully manage SharePoint permissions, Office 365 Groups, Microsoft Teams, OneDrive and more, you need to have **one of the following privileges** on the desired Office 365 or SharePoint On-Premises environment:
 
 * **Office 365 Global Administrator**
 * **Farm Administrator**
