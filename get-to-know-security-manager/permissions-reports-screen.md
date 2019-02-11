@@ -17,7 +17,7 @@ There are two kinds of reports regarding the availability of data:
 * those that can be viewed without creating a [snapshot](basics.md#snapshot) of your environment
 * those that can be viewed only when a [snapshot](basics.md#snapshot) of your environment has been created
 
-For detailed instructions on how to use Drill functionality and Filters, [see this article.](https://github.com/SysKitTeam/docs-securitymanager/tree/4881261de3f4b23178a29ad38c5dcf1c343d8964/get-to-know-security-manager/use-drills-and-filters.md)
+For detailed instructions on how to use Drill functionality and Filters, [see this article.](../how-to/use-drill-and-filters.md)
 
 ## Permission Reports
 

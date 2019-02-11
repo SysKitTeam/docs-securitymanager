@@ -1,7 +1,3 @@
----
-description: This article describes what are and how to use Schedule Reports.
----
-
 # Send Scheduled Reports
 
 ## Scheduled Reports
