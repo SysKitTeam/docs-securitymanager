@@ -20,3 +20,4 @@ date: 14/03/2018
 * 512MB of RAM \(1GB recommended\)
 * 1366x768 or higher resolution video card
 * 150MB of available hard disk space
+

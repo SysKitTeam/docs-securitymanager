@@ -30,7 +30,6 @@
   * [OneDrive](get-to-know-security-manager/onedrive-screen.md)
   * [Snapshots Screen](get-to-know-security-manager/snapshots-screen.md)
   * [Security Reports Screen](get-to-know-security-manager/permissions-reports-screen.md)
-  * [Credentials List Screen](get-to-know-security-manager/credentials-screen.md)
   * [Settings Screen](get-to-know-security-manager/settings-screen.md)
 * [How To](how-to/README.md)
   * [Connect to Office 365](how-to/connect-to-office-365.md)
