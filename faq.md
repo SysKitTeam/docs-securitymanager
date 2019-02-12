@@ -19,7 +19,9 @@ If you are a Global Office 365 tenant administrator, you’ll have an option in 
 The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
 
 {% hint style="warning" %}
-Please note! These reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
+**Please note!** 
+
+These reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
 At any time, you can remove administrator rights for all OneDrive accounts on the selected tenant using the [Remove Access action](get-to-know-security-manager/onedrive-screen.md). This action will remove permissions which were granted in the [connection wizard](how-to/connect-to-office-365.md#onedrive).
