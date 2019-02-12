@@ -1,13 +1,13 @@
 ---
 title: OneDrive Screen
-description: Detailed overview of connected OneDrive accounts.
+description: >-
+  The OneDrive screen gives you a general overview of your connected personal
+  OneDrive accounts, as well as a report for each OneDrive account.
 author: Petra Filipi
 date: 02/10/2018
 ---
 
 # OneDrive
-
-The OneDrive screen gives you a general overview of your connected personal OneDrive accounts, as well as a report for each OneDrive account.
 
 ## Available actions
 

@@ -1,13 +1,15 @@
 ---
 title: Microsoft Teams Screen
-description: Detailed overview of connected Microsoft Teams.
+description: >-
+  The Microsoft Teams screen gives you a general overview of your connected
+  Microsoft Teams, as well as a report for each team.
 author: Petra Filipi
 date: 02/10/2018
 ---
 
 # Microsoft Teams
 
-The Microsoft Teams screen gives you a general overview of your connected Microsoft Teams, as well as a report for each team. To start exploring features and reports, navigate to the Microsoft Teams screen and select your tenant.
+To start exploring features and reports, navigate to the Microsoft Teams screen and select your tenant.
 
 Available management actions for Microsoft Teams are contextually related to the selected object, which means users can click on or hover over something to get a contextual menu that offers actions related to the selected item.
 

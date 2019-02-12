@@ -1,13 +1,13 @@
 ---
 title: Office 365 Groups Screen
-description: Detailed overview of connected Office 365 Groups.
+description: >-
+  The Office 365 Groups screen gives you a general overview of your connected
+  Office 365 Groups, as well as the report for each group in particular.
 author: Petra Filipi
 date: 05/04/2018
 ---
 
 # Office 365 Groups
-
-The Office 365 Groups screen gives you a general overview of your connected Office 365 Groups, as well as the report for each group in particular.
 
 To start exploring features and reports, navigate to Office 365 Groups and select your tenant.
 
