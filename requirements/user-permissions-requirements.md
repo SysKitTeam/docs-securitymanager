@@ -42,7 +42,7 @@ If the account used to connect to the Office 365 tenant is a global administrato
 
 #### Site Collection Administrator Consent Considerations
 
-Unfortunately the procedure for using SysKit Security Manager with a normal user account is a bit more involved and will require the global administrator to intervene and give consent on behalf of the users in the organization. While there are permissions that the user itself can consent to, SysKit Security Manager require some for which only a global administrator can consent.
+The procedure for using SysKit Security Manager with a normal user account is a bit more involved and will require the global administrator to intervene and [give consent ](global-admin-consent.md)on behalf of the users in the organization. While there are permissions that the user itself can consent to, SysKit Security Manager require some for which only a global administrator can consent.
 
 Once established that the account is a non global administrator account a window will be shown with a generated URL to give to the global administrator. The consent process can then be initiated by the global administrator.
 
