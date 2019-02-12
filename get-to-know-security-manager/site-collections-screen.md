@@ -1,6 +1,8 @@
 ---
 title: Site Collections Screen
-description: Detailed overview of connected site collections.
+description: >-
+  The SharePoint Explorer screen gives you an overview of your connected site
+  collections.
 author: Petra Filipi
 date: 05/04/2018
 ---

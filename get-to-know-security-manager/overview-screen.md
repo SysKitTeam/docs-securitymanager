@@ -1,8 +1,6 @@
 ---
 title: Overview Screen
-description: >-
-  In the Overview screen you can see at a glance if there are any potential
-  issues in your environment.
+description: On the Overview Screen you can see general overview of your environment.
 author: Domagoj Hrestak
 date: 04/12/2018
 ---
