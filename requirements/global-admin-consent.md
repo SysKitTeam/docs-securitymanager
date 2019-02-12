@@ -1,6 +1,8 @@
 ---
 title: Global Administrator Consent
-description: This article provides detailed information on the global admin consent.
+description: >-
+  This article provides detailed information on the global admin consent in
+  SysKit Security Manager.
 author: Vinko Bedek
 date: 09/04/2018
 ---
