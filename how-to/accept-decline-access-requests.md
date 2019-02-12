@@ -1,6 +1,6 @@
 ---
 description: >-
-  This article describes how to accept or decline access requests from SysKit
+  This section describes how to accept or decline access requests using SysKit
   Security Manager.
 ---
 

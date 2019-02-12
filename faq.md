@@ -1,7 +1,5 @@
 ---
-description: >-
-  This article gives answers to frequently asked questions about SysKit Security
-  Manager.
+description: This article lists some of the commonly asked questions.
 ---
 
 # FAQ

@@ -1,7 +1,7 @@
 ---
 description: >-
-  This article describes how to compare SharePoint objects using the Compare
-  Wizard in SysKit Security Manager.
+  This section describes how to use SysKit Security Manager to compare
+  SharePoint permissions between any two selected SharePoint objects.
 ---
 
 # Compare Permissions and Track Changes

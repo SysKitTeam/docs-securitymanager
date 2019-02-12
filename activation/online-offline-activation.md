@@ -1,6 +1,8 @@
 ---
 title: Online and Offline Activation
-description: This article explains how to activate SysKit Security Manager.
+description: >-
+  This article outlines the steps needed to perform online or offline product
+  activation.
 author: Petra Filipi
 date: 14/03/2018
 ---

@@ -1,10 +1,3 @@
----
-description: >-
-  This article explains how to use Scheduled Reports to schedule sending SysKit
-  Security Manager reports to the desired email addresses or for upload to a
-  SharePoint document library.
----
-
 # Send Scheduled Reports
 
 ## Scheduled Reports

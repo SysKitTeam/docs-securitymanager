@@ -1,5 +1,7 @@
 ---
-description: This article explains how to configure SysKit Security Manager.
+description: >-
+  This article explains how to configure the SysKit Security Manager database
+  and service before the first usage.
 ---
 
 # Configuration

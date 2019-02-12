@@ -1,5 +1,5 @@
 ---
-description: This article lists activation FAQ for SysKit Security Manager.
+description: This article outlines activation FAQs.
 ---
 
 # Activation FAQ

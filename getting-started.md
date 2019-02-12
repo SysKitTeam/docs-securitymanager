@@ -1,5 +1,7 @@
 ---
-description: In this article you'll learn how to start using SysKit Security Manager.
+description: >-
+  Described some of the common use cases when starting the application for the
+  first time.
 ---
 
 # Quick Start Guide

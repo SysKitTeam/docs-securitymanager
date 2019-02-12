@@ -1,9 +1,3 @@
----
-description: >-
-  This article describes how to use Filters, Drill and Column Chooser on your
-  reports.
----
-
 # Use Filters, Drill and Column Chooser
 
 ## Filters
