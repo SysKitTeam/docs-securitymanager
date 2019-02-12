@@ -16,6 +16,8 @@ We are sorry to hear you are leaving the SysKit family, but here are the steps h
 5. Your **SysKit SysKit Security Manager** application has been successfully removed! 
 
 {% hint style="warning" %}
-Please note! SysKit Security Manager database will not be removed automatically from your SQL Server. Nor will LocalDB files be removed from the disk. 
+**Please note!** 
+
+SysKit Security Manager database will not be removed automatically from your SQL Server. Nor will LocalDB files be removed from the disk. 
 {% endhint %}
 
