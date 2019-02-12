@@ -1,8 +1,8 @@
 ---
 title: Snapshot
 description: >-
-  This article will help you learn basics before you start to use SysKit
-  Security Manager.
+  This article will help you learn basics before you start using SysKit Security
+  Manager.
 author: Vinko Bedek
 date: 03/12/2018
 ---
