@@ -1,6 +1,6 @@
 ---
 title: Microsoft Teams Screen
-description: >
+description: >-
   The Microsoft Teams screen gives you a general overview of your connected
   Teams.
 author: Petra Filipi
