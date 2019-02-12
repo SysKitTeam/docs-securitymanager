@@ -1,7 +1,5 @@
 ---
-description: >-
-  This article explains how to configure the SysKit Security Manager database
-  and service before the first usage.
+description: This article explains how to configure SysKit Security Manager.
 ---
 
 # Configuration
@@ -11,9 +9,7 @@ description: >-
 1. On the **Database** wizard page select whether to create a new database or use the existing one. If this is your first time setting up the application choose the **Create new database**. 
 
 {% hint style="warning" %}
-**Please note!** 
-
-This should be a SysKit Security Manager-dedicated database; please do not provide SharePoint Database here.
+**Please note!** This should be a SysKit Security Manager-dedicated database; please do not provide SharePoint Database here.
 {% endhint %}
 
 1. On the **Database Configuration** wizard page specify the **SQL Server**, **Database Name** and authentication. It is possible to overwrite the existing database under the same name.
