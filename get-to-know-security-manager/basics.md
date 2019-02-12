@@ -2,6 +2,7 @@
 title: Snapshot
 author: Vinko Bedek
 date: 03/12/2018
+description: This article describes the concept of a snapshot.
 ---
 
 # Basics
