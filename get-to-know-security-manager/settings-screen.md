@@ -63,7 +63,8 @@ Here you'll see your product and database version.
 ### **Report Throttling**
 
 {% hint style="warning" %}
-**Please note!** Modifying the report throttling limits can cause significant performance issues!
+**Please note!**  
+ Modifying the report throttling limits can cause significant performance issues!
 {% endhint %}
 
 **Site collection threshold**: 50 – modify the maximum number of site collections that will be used to generate data for throttled reports.
