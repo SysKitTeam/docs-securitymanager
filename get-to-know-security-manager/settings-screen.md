@@ -1,6 +1,8 @@
 ---
 title: Settings Screen
-description: On the Settings screen you can customize settings of the SysKit Security Manager.
+description: >-
+  On the Settings screen you can customize settings of the SysKit Security
+  Manager.
 author: Petra Filipi
 date: 02/10/2018
 ---
@@ -62,7 +64,7 @@ Here you'll see your product and database version.
 
 {% hint style="warning" %}
 **Please note!**  
- Modifying the report throttling limits can cause significant performance issues!
+Modifying the report throttling limits can cause significant performance issues!
 {% endhint %}
 
 **Site collection threshold**: 50 – modify the maximum number of site collections that will be used to generate data for throttled reports.
