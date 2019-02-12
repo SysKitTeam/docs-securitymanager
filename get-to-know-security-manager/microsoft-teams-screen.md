@@ -1,11 +1,5 @@
 ---
-title: Microsoft Teams Screen
-
 description: The Microsoft Teams screen gives you a general overview of your connected Teams.
-
-author: Petra Filipi
-
-date: 02/10/2018
 ---
 
 # Microsoft Teams
