@@ -1,6 +1,6 @@
 ---
 title: Snapshot
-description: Test Description
+description: This article describes the concept of a snapshot.
 author: Vinko Bedek
 date: 03/12/2018
 ---
