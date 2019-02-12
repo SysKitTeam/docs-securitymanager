@@ -1,6 +1,6 @@
 ---
 title: Settings Screen
-description: >-
+description: >
   On the Settings screen you can customize settings of the SysKit Security
   Manager.
 author: Petra Filipi
