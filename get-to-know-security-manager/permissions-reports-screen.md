@@ -1,8 +1,7 @@
 ---
 title: Security Reports Screen
 description: >-
-  This article describes how SysKit Security Manager permissions reports can
-  help administrators track permissions and easily manage the SharePoint
+  On the Security Reports screen you can see various security reports for your
   environment.
 author: Petra Filipi
 date: 14/05/2018
