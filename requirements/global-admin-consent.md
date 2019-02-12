@@ -1,8 +1,6 @@
 ---
 title: Global Administrator Consent
-description: >-
-  This article discusses why global administrator consent is needed for SysKit
-  Security Manager
+description: This article provides detailed information on the global admin consent.
 author: Vinko Bedek
 date: 09/04/2018
 ---
