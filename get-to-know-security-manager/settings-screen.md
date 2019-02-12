@@ -88,6 +88,17 @@ You can also set up your email settings by choosing one of the options:
 
 ### **Snapshot Schedule**
 
+Here you can enable snapshot schedule, so SysKit Security Manager will automatically take snapshots of your environment at the time and date you specify. Only one schedule can be active at a time.
+
+You can choose from two types of schedules:
+* **Entire Environment** - creates a full snapshot of your environment. New site collections, Office 365 Groups, Teams and OneDrive accounts will automatically be detected and loaded.
+* **Custom** - choose which individual site collections, Office 365 Groups, Teams and OneDrive accounts will be in the snapshot. This option will not run the discovery process on your environment. This is a default schedule type.
+
+#### **Date & Time** 
+
+By default, the report is scheduled on 8 AM, weekly, recurring on Monday. However you can adjust it to the time you prefer. You can choose how frequent will the snapshot be performed and depending on the frequency you have selected (weekly or monthly), you will also be able to choose on which day will the snapshot be recurring.
+
+
 \*\*\*\*
 
 
