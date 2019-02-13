@@ -1,3 +1,10 @@
+---
+title: Schedule Reports 
+description: This article describes what are and how to use Schedule Reports. 
+author: Tea Bašić 
+date: 11/02/2019 
+--- 
+
 # Send Scheduled Reports
 
 ## Scheduled Reports

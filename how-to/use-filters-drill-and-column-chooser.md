@@ -1,3 +1,8 @@
+---
+title: Drill Functionality and Filters on reports
+description: How to use Drill Functionality and Filters on reports.
+---
+
 # Use Filters, Drill and Column Chooser
 
 ## Filters
