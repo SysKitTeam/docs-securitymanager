@@ -2,7 +2,7 @@
 title: Snapshots Screen
 description: >
   The Snapshots Screen allows SharePoint administrators to track changes in the
-  SharePoint environment.
+  SharePoint environment. 
 author: Petra Filipi
 date: 15/05/2018
 ---
