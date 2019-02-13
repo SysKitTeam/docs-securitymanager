@@ -1,5 +1,5 @@
 ---
-description: This article outlines activation FAQs.
+description: This article outlines activation FAQs. 
 ---
 
 # Activation FAQ

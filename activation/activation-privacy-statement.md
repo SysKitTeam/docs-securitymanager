@@ -1,6 +1,6 @@
 ---
 title: Activation Privacy Statement
-description: Read important info about the activation process.
+description: Read important info about the activation process. 
 author: Petra Filipi
 date: 14/03/2018
 ---
