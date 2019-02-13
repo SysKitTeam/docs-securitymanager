@@ -1,5 +1,5 @@
 ---
-description: >
+description: >-
   This section describes how to connect to a single or multiple SharePoint
   On-Premise site collections from SysKit Security Manager.
 ---

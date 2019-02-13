@@ -1,6 +1,6 @@
 ---
 title: System Requirements
-description: >
+description: >-
   This article discusses the hardware and software requirements that are
   necessary in order to install the SysKit Security Manager.
 author: Petra Filipi

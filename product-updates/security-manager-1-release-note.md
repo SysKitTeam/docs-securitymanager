@@ -2,7 +2,7 @@
 title: SysKit Security Manager - SharePoint and Office 365 security management tool
 author: Petra Filipi
 date: 11/04/2018
-description: >
+description: >-
   This article describes what is this new SharePoint and Office 365 security
   reporting and management tool bringing in the first release.
 ---

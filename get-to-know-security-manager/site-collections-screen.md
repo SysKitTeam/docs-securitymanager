@@ -1,7 +1,6 @@
 ---
 title: Site Collections Screen
-description: >
-  Detailed overview of connected site collections.
+description: Detailed overview of connected site collections.
 author: Petra Filipi
 date: 05/04/2018
 ---

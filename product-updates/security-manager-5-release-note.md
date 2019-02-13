@@ -2,7 +2,7 @@
 title: SysKit Security Manager 5.0.0 - Release Note
 author: Petra Baresic
 date: 04/12/2018
-description: >
+description: >-
   This article describes what's new in the latest version of SysKit Security
   Manager.
 ---

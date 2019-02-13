@@ -2,7 +2,7 @@
 title: SysKit Security Manager 3.2.0 - Release Note
 author: Petra Filipi
 date: 28/08/2018
-description: >
+description: >-
   This article describes a bug fix and improvement delivered in SysKit Security
   Manager 3.2.0
 ---
