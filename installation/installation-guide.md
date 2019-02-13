@@ -1,6 +1,6 @@
 ---
 title: Install SysKit Security Manager
-description: >-
+description: >
   This section describes how to configure, that is install, SysKit Security
   Manager.
 author: Petra Filipi
