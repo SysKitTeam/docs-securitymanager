@@ -1,6 +1,6 @@
 ---
 title: Office 365 Groups Screen
-description: |
+description: >
   Detailed overview of connected Office 365 Groups.
 author: Petra Filipi
 date: 05/04/2018
