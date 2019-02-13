@@ -1,6 +1,6 @@
 ---
 title: OneDrive Screen
-description: |
+description: >
   Detailed overview of connected OneDrive accounts.
 author: Petra Filipi
 date: 02/10/2018
