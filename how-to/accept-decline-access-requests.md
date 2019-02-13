@@ -1,5 +1,5 @@
 ---
-description: >-
+description: >
   This section describes how to accept or decline access requests using SysKit
   Security Manager.
 ---

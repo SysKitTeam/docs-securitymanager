@@ -1,5 +1,5 @@
 ---
-description: >-
+description: >
   This section describes how to use SysKit Security Manager to compare
   SharePoint permissions between any two selected SharePoint objects.
 ---

@@ -1,5 +1,5 @@
 ---
-description: 'How to use filters, drill and column chooser on security reports.'
+description: How to use filters, drill and column chooser on security reports.
 ---
 
 # Use Drill and Filters

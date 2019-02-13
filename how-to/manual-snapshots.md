@@ -1,5 +1,5 @@
 ---
-description: >-
+description: >
   This section describes how to take a manual snapshot  of SharePoint Online or
   On-Premise site collections.
 ---
