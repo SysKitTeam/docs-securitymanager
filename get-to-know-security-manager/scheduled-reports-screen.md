@@ -1,8 +1,8 @@
 ---
 title: Scheduled reports Screen
-description: >
+description: >-
   On scheduled reports screen you can see all your reports set, set up new ones
-  or edit old ones. 
+  or edit old ones.
 author: Tea Basic
 date: 11/02/2019
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview Screen
-description: >
+description: >-
   In the Overview screen you can see at a glance if there are any potential 
   issues in your environment.
 author: Domagoj Hrestak
