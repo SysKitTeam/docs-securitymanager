@@ -40,21 +40,21 @@ The **Credentials List** shows you all connected site collections, Office 365 Gr
 
    **Sign-in to your Office 365 account again**
 
-5. Select the Office 365 credential from the list and click the Sign in to your Office 365 account again button.
+5. Select the Office 365 credential from the list and click the **Sign in to your Office 365 account again** button.
 6. You’ll be redirected to the Microsoft login page and asked to sign in to your account. 
 
 **Delete Credentials**
 
-1. Select the credential from the list and click the Delete Credentials button. 
-2. If there are no connections for the selected credential click Delete Credential to confirm. 
+1. Select the credential from the list and click the **Delete Credentials** button. 
+2. If there are no connections for the selected credential click **Delete Credential** to confirm. 
 
 ### **About Product**
 
 Here you'll see your product and database version.
 
-**Advanced** –
+**Advanced** – If you have the [advanced](../installation/) type of installation, here you can see your service account details, database type, server, database name and if the integrated security is enabled.
 
-**Participate in Customer Improvement Program** –
+**Participate in Customer Improvement Program** –   Here you can choose to participate in the _Customer_ Experience Improvement Program, or unsubscribe from the program at any time.
 
 **License Info** – Here you can figure out how many days are left in trial or subscription, and also [Activate](../activation/) or Deactivate the license.
 
