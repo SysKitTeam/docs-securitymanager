@@ -1,7 +1,7 @@
 ---
-description: >-
-  This article describes what are and how to use Schedule Reports.
+description: This article describes what are and how to use Schedule Reports.
 ---
+
 # Send Scheduled Reports
 
 ## Send Scheduled Reports
@@ -34,7 +34,8 @@ If you wish to use **Scheduled reports** feature, make sure you configured the [
    * On default is set on **Exchange Online** which means that Report Set will be sent via Exchange Online on behalf of current user. In [scheduled settings](../get-to-know-security-manager/settings-screen.md#schedule-options) you can set up **Outgoing Email server**. That way email will be sent through existing email server using the supplied information.
 
 {% hint style="warning" %}
-**Please note!** If you don't set up outgoing email server, reports for the On-Prem SharePoint can't be sent via e-mail.
+**Please note!**   
+If you don't set up outgoing email server, reports for the On-Prem SharePoint can't be sent via e-mail.
 {% endhint %}
 
 * **SharePoint Library** 

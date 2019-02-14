@@ -20,5 +20,5 @@ Available actions on Scheduled Report screen are:
 * Edit or Delete existing Report Set
 * Send Now chosen Report Set
 
-You can read more [here](scheduled-reports-screen.md#internal/how-to/scheduled-reports) on how to use Scheduled Reports feature.
+You can read more [here](../how-to/send-scheduled-reports.md#send-scheduled-reports) on how to use Scheduled Reports feature.
 
