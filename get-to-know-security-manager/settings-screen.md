@@ -17,13 +17,10 @@ To customize SysKit Security Manager settings, click the **Settings** button loc
 
 On the **Settings** screen the available settings and their default values are:
 
-**Enable Verbose Logging**: unchecked – use this option only for diagnostics purposes or when asked by the support team.
-
-**On close, keep the application running**: checked – SysKit Security Manager will close to the system tray.
-
-**Transport Layer Security protocol**: Default – modify the Transport Layer Security protocol option.
-
-**SQL command timeout\(s\)**: 300 – modify the command timeout for the SQL command.
+**Enable Verbose Logging**: unchecked – use this option only for diagnostics purposes or when asked by the support team.  
+**Start SysKit Security Manager on Windows start**  unchecked – use this option if you want to start SysKit Security Manager on Windows start. This option is only available in the default type of installation.  
+**On close, keep the application running**: checked – SysKit Security Manager will close to the system tray.  
+**Transport Layer Security protocol**: Default – modify the Transport Layer Security protocol option.**SQL command timeout\(s\)**: 300 – modify the command timeout for the SQL command.
 
 ### Credentials List
 
@@ -50,12 +47,10 @@ The **Credentials List** shows you all connected site collections, Office 365 Gr
 
 ### **About Product**
 
-Here you'll see your product and database version.
+Here you'll see your **product and database version**.
 
-**Advanced** – If you have the [advanced](../installation/) type of installation, here you can see your service account details, database type, server, database name and if the integrated security is enabled.
-
-**Participate in Customer Improvement Program** –   Here you can choose to participate in the _Customer_ Experience Improvement Program, or unsubscribe from the program at any time.
-
+**Advanced** – If you have the [advanced](../installation/) type of installation, here you can see your service account details, database type, server, database name and if the integrated security is enabled.  
+**Participate in Customer Improvement Program** –   Here you can choose to participate in the _Customer_ Experience Improvement Program, or unsubscribe from the program at any time.  
 **License Info** – Here you can figure out how many days are left in trial or subscription, and also [Activate](../activation/) or Deactivate the license.
 
 ## **Reporting**
@@ -67,12 +62,9 @@ Here you'll see your product and database version.
 Modifying the report throttling limits can cause significant performance issues!
 {% endhint %}
 
-**Site collection threshold**: 50 – modify the maximum number of site collections that will be used to generate data for throttled reports.
-
-**Principals threshold**: 100 – modify the maximum number of principals that will be used to generate data for throttled reports.
-
-**Application row count threshold**: 200,000 – modify the maximum number of rows in reports.
-
+**Site collection threshold**: 50 – modify the maximum number of site collections that will be used to generate data for throttled reports.  
+**Principals threshold**: 100 – modify the maximum number of principals that will be used to generate data for throttled reports.  
+**Application row count threshold**: 200,000 – modify the maximum number of rows in reports.  
 **Export row count threshold**: 500,000 – modify the maximum number of rows in exported reports.
 
 ### **Schedule Options**
@@ -81,8 +73,7 @@ Here you can enable **Report Schedule** option and customize the time of the day
 
 You can also set up your email settings by choosing one of the options:
 
-**Exchange Online \(My Account\)** – This is the default option for Office 365 administrators. Email containing scheduled reports will be sent via Exchange Online on behalf of the current user.
-
+**Exchange Online \(My Account\)** – This is the default option for Office 365 administrators. Email containing scheduled reports will be sent via Exchange Online on behalf of the current user.  
 **Outgoing Email Server** – You can set up existing email server information. Email containing scheduled reports will be sent using the supplied information.
 
 ## **Snapshot**
