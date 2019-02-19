@@ -19,7 +19,8 @@ This major upgrade of SysKit Security Manager brings automation to the table! Sc
 
 ## Features
 
-* **Scheduled Reports** – you can now schedule and send security reports. This feature allows you to select one or more reports to be sent to you at any time and frequency you want – daily, weekly, monthly or after a scheduled snapshot. Alongside the email, the report can be saved to a SharePoint library as well. A new screen, [Scheduled Reports](../get-to-know-security-manager/scheduled-reports-screen.md), was added on the main navigation. You can also add a new report into an existing report set. A schedule option is also available from any report on the Security Reports screen. This will add currently selected reports to a new report or into an existing one, depending on your choice.
+* **Scheduled Reports** – you can now schedule and send security reports. This feature allows you to select one or more reports to be sent to you at any time and frequency you want – daily, weekly, monthly or after a scheduled snapshot. Alongside the email, the report can be saved to a SharePoint library as well. 
+  * A new screen, [Scheduled Reports](../get-to-know-security-manager/scheduled-reports-screen.md), was added on the main navigation. You can add a new report into an existing report set. A schedule option is also available from any report on the Security Reports screen. This will add currently selected reports to a new report or into an existing one, depending on your choice.
 * [Scheduled Snapshots](../installation/installation-guide.md) – when upgrading to v6, we suggest selecting the advanced installation \(installation guide\) of the application. It allows you to take scheduled snapshots while the application is not running. A dedicated SQL Server database and service account is required.
 * We added a **Large Lists report**. It will show you any lists and libraries that have more than 4000 items.
 
