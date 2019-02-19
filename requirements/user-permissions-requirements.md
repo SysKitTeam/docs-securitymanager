@@ -79,7 +79,7 @@ User running SysKit Security Manager will need to be granted the **db\_datareade
 
 ### Service Account Permissions
 
-**Service Configuration** wizard page requires appropriate [service account](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/service-accounts) details. 
+**Service Configuration** wizard page requires appropriate [service account](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/service-accounts) details.
 
 A service account is a user account that is created explicitly to provide a security context for services running on Windows Server operating systems. The security context determined the service’s ability to access local and network resources. The Windows operating systems rely on services to run various features. These services can be configured through the applications, the Services snap-in, or Task Manager, or by using Windows PowerShell.
 
