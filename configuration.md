@@ -11,7 +11,7 @@ description: >-
 1. On the **Database** wizard page select whether to create a new database or use the existing one. If this is your first time setting up the application choose the **Create new database**. 
 
 {% hint style="warning" %}
-**Please note!**   
+**Please note!**  
 This should be a SysKit Security Manager-dedicated database; please do not provide SharePoint Database here.
 {% endhint %}
 
@@ -25,6 +25,4 @@ After providing the information, click the **Test Connection** button to ensure 
 1. On the **Service Configuration** wizard page type the service account details. The service account needs to have the [following privileges](requirements/user-permissions-requirements.md#service-account-permissions) to be able to run the service, create snapshots and other associated jobs. After typing the account details, click the **Validate Account** button to ensure that account has all requirements.
 2. On the **Security Settings** wizard page you can add user who can access SysKit Security Manager. Install account is by default on the list. All users with access will be able to see all the data in the application.
 3. Click **Next** to complete the Configuration Wizard and apply the changes.
-
-
 

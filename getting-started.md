@@ -19,7 +19,7 @@ To successfully manage SharePoint permissions, Office 365 Groups, Microsoft Team
 * **Site Collection Administrator**
 
 {% hint style="warning" %}
-**Please note!   
+**Please note!  
 You don't have to be an Office 365 Global Administrator** in order to use SysKit Security Manager, but in order for a regular user to use Security Manager, the administrator must first sign in and consent to permission on behalf of the organisation. You need to give [global admin consent](requirements/global-admin-consent.md) to SysKit Security Manager so that users without Global Admin permissions can use it.
 {% endhint %}
 

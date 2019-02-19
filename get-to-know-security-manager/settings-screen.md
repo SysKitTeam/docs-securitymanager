@@ -18,7 +18,7 @@ To customize SysKit Security Manager settings, click the **Settings** button loc
 On the **Settings** screen the available settings and their default values are:
 
 **Enable Verbose Logging**: unchecked – use this option only for diagnostics purposes or when asked by the support team.  
-**Start SysKit Security Manager on Windows start**  unchecked – use this option if you want to start SysKit Security Manager on Windows start. This option is only available in the default type of installation.  
+**Start SysKit Security Manager on Windows start** unchecked – use this option if you want to start SysKit Security Manager on Windows start. This option is only available in the default type of installation.  
 **On close, keep the application running**: checked – SysKit Security Manager will close to the system tray.  
 **Transport Layer Security protocol**: Default – modify the Transport Layer Security protocol option.**SQL command timeout\(s\)**: 300 – modify the command timeout for the SQL command.
 
@@ -50,7 +50,7 @@ The **Credentials List** shows you all connected site collections, Office 365 Gr
 Here you'll see your **product and database version**.
 
 **Advanced** – If you have the [advanced](../installation/) type of installation, here you can see your service account details, database type, server, database name and if the integrated security is enabled.  
-**Participate in Customer Improvement Program** –   Here you can choose to participate in the _Customer_ Experience Improvement Program, or unsubscribe from the program at any time.  
+**Participate in Customer Improvement Program** – Here you can choose to participate in the _Customer_ Experience Improvement Program, or unsubscribe from the program at any time.  
 **License Info** – Here you can figure out how many days are left in trial or subscription, and also [Activate](../activation/) or Deactivate the license.
 
 ## **Reporting**

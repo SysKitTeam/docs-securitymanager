@@ -29,13 +29,11 @@ SysKit Security Manager requires the following delegated permissions:
   * Required for managing SharePoint permissions and assigning site collection administrators
 * Read items in all site collections
   * Required to get the SharePoint site url of Office 365 Groups by using the Graph API
-* Access your data anytime
-  * Allows refresh token usage, prevents unwanted login prompts on application start
 * Read all usage reports
   * Required for reading OneDrive and Office 365 Groups activity
 * Access Azure Service Management as you
   * This is used to retrieve tenants associated with the account using SysKit Security Manager
-* Send mail as you
+* Send mail as a user
   * Required for sending scheduled reports
 
 Granting delegated permissions to an application means that the application may act on behalf of a user. This means that the effective permissions that the user has are still limited by his own permissions. I.e. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so.

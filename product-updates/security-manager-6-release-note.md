@@ -9,7 +9,7 @@ description: >-
 
 # SysKit Security Manager 6.0.0
 
-This major upgrade of SysKit Security Manager brings automation to the table! Scheduled reports and scheduled snapshots are now available. Also, take a detailed look of all the improvements we made.  
+This major upgrade of SysKit Security Manager brings automation to the table! Scheduled reports and scheduled snapshots are now available. Also, take a detailed look of all the improvements we made.
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
@@ -32,7 +32,7 @@ This major upgrade of SysKit Security Manager brings automation to the table! Sc
 * Additional [settings options](../get-to-know-security-manager/settings-screen.md) have been added to SSM, so you can easily find options that you wish to change. The three main categories are General, Reporting and Snapshot. We have also added a back button so you can quickly continue where you have left off.
 * We redesigned the **Take Snapshots dialogue**. The new design enables you to easily pick the type of snapshot and what will be included in the snapshot.
 * We moved the **Snapshots screen button** down on the main navigation – it is now above the Scheduled Reports and Settings buttons. From the Snapshots screen, you can now access the Snapshot Schedule option.
-* On the [OneDrive screen](..get-to-know-security-manager/onedrive-screen.md), hover the mouse over an user and the button to remove access from a single user’s OneDrive will appear.
+* On the [OneDrive screen](https://github.com/SysKitTeam/docs-securitymanager/tree/b27dc2ed5050f6bcf938ebef9822a31b27b6463c/product-updates/..get-to-know-security-manager/onedrive-screen.md), hover the mouse over an user and the button to remove access from a single user’s OneDrive will appear.
 * The **OneDrive Shared Items** report is no longer organized in a SharePoint object hierarchy. Now, it immediately shows all shared objects of each user’s OneDrive.
 * We improved the UX when connecting to and disconnecting from peoples OneDrive’s. If you decide you no longer wish to manage OneDrive \(or when deleting the SSM application\) these permissions can be removed by clicking the Remove Access button on top of the screen of the One Drive tab.
 * You can now **export** details of your snapshots in .xlsx format. On the snapshots tab, select a snapshot and click the Snapshot Details button.
