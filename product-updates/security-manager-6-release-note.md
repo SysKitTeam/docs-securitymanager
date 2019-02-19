@@ -9,10 +9,12 @@ description: >-
 
 # SysKit Security Manager 6.0.0
 
+This major upgrade of SysKit Security Manager brings automation to the table! Scheduled reports and scheduled snapshots are now available. Also, take a detailed look of all the improvements we made.  
+
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 **Product version:** 6.0.0  
-**Build number:** ???  
+**Build number:** 1451  
 **Release date:** February 19, 2018
 
 ## Features
