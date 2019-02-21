@@ -14,7 +14,7 @@ This major upgrade of SysKit Security Manager brings automation to the table! Sc
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 **Product version:** 6.0.0  
-**Build number:** 1451  
+**Build number:** 1467  
 **Release date:** February 19, 2018
 
 ## Features
