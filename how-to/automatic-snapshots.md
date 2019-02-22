@@ -1,6 +1,6 @@
 ---
 description: >-
-This article describes how to efficiently use scheduled snapshots.
+ This article describes how to efficiently use scheduled snapshots.
 author: Lucija Sopić
 date: 21/02/2019
 ---
