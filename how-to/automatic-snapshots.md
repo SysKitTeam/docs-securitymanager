@@ -18,7 +18,8 @@ Enabling snapshot schedule allows you to take scheduled snapshots, but to use Sn
 # Take Scheduled Snapshots
 
 There are two ways to schedule a snapshot:
-1. Go directly to the **Settings** screen and click on **Snapshot Schedule** under the Snapshot category.
+
+1. Go directly to the **Settings** screen and click on **Snapshot Schedule** under the Snapshot category.  
 2. Go to the **Snapshots screen** and click on the **Snapshot Schedule** button on the top right. That will redirect you to the **Settings** screen.
 
 ## Schedule Type
