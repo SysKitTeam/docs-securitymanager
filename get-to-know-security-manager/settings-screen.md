@@ -80,7 +80,7 @@ You can also set up your email settings by choosing one of the options:
 
 ### **Snapshot Schedule**
 
-Here you can enable snapshot schedule, so SysKit Security Manager will automatically take snapshots of your environment at the time and date you specify. Only one schedule can be active at a time.
+Here you can enable snapshot schedule, so SysKit Security Manager will [automatically take snapshots](../how-to/automatic-snapshots.md) of your environment at the time and date you specify. Only one schedule can be active at a time.
 
 You can choose from two types of schedules:
 
