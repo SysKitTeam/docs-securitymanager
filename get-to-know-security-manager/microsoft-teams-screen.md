@@ -23,7 +23,7 @@ Available management actions for Microsoft Teams are contextually related to the
 * **Delete Team** – Delete the selected team from your tenant.
 * **Add Owner** – Add owner to an Office 365 group. User availability in the Teams app depends on Team settings and Microsoft user synchronization between Office 365 and Microsoft Teams; this can take up to 48 hours.
 * **Add Member** – Add member to an Office 365 group. User availability in the Teams app depends on Team settings and Microsoft user synchronization between Office 365 and Microsoft Teams; this can take up to 48 hours.
-* **Remowe Owner** – Remove the selected owner from the team.
+* **Remove Owner** – Remove the selected owner from the team.
 * **Remove Member** – Remove the selected member from the team.
 * **Go to Group** – Open the associated Office 365 group for a given team.
 * **Go to Site Collection** – Open the associated site collection for a given team.
