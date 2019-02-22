@@ -16,5 +16,5 @@ SysKit Security Manager is centralized Office 365 and SharePoint security report
 
 Avoid repetitive tasks and minimize the stress of SharePoint permissions management with SysKit Security Manager.
 
-Download a free trial and give it a try! [https://www.syskit.com/products/security-manager/](https://www.syskit.com/products/security-manager/)
+
 
