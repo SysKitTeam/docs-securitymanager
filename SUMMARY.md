@@ -39,7 +39,7 @@
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
-  * [Take Automatic Snapshots](how-to/automatic-snapshots.md)
+  * [Take Scheduled Snapshots](how-to/automatic-snapshots.md)
   * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
   * [Use Filters, Drill and Column Chooser](how-to/use-filters-drill-and-column-chooser.md)
 * [FAQ](faq.md)
