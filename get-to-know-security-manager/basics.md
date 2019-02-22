@@ -5,7 +5,7 @@ date: 03/12/2018
 description: This article describes the concept of a snapshot.
 ---
 
-# The basics of a Snapshot
+# Snapshot Explained
 
 ## Connecting to an Environment
 
