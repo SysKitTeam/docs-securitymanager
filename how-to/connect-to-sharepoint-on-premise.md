@@ -23,7 +23,15 @@ If you are a **Site Collection Administrator**, you can connect to site collecti
 
 If you are a **Farm Administrator**, all site collections from your farm will be auto-discovered and you’ll be able to select site collections you want to manage.
 
-If you are a **Site Collection Administrator**, connect to on-premise site collection by **entering its URL** or you can **import a text file with site collection URLs**, newline separated. Then, click the **Test Connection** button and **Next** to proceed. If you choose the **Import from file** option, you’ll be able to download the PowerShell script, which will generate a .txt file that you can import. Copy the downloaded script on the SharePoint server, then execute it and then import the file.
+If you are a **Site Collection Administrator** you can:
+
+1. Connect to on-premises site collection by **entering its URL** or
+2. **import a text file with site collection URLs**, newline separated.
+3. Click the **Test Connection** button and **Next** to proceed.
+
+{% hint style="warning" %}
+If you choose the **Import from file** option, you’ll be able to download the PowerShell script, which will generate a .txt file that you can import. Copy the downloaded script on the SharePoint server, execute it and then import the file in the SysKit Security Manager.
+{% endhint %}
 
 ## Summary
 
