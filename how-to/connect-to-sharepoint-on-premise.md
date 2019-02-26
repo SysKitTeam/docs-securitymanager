@@ -10,7 +10,7 @@ Choose SharePoint **On-Premise** to start the connection wizard.
 
 ## Credentials
 
-Enter your login name and password or use **Integrated Security**. Then click the **Test Credentials** button and **Next** to proceed.
+You can choose to login using either the **Integrated Security** or enter the credentials in a format: "Domain\Username". Then click the **Test Credentials** button and **Next** to proceed.
 
 ## Flow Selection
 
