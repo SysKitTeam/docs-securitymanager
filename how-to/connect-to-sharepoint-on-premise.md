@@ -4,7 +4,7 @@ description: >-
   On-Premise site collections from SysKit Security Manager.
 ---
 
-# Connect to SharePoint On-Premise Site Collections
+# Connect to SharePoint On-Premises Site Collections
 
 Choose SharePoint **On-Premise** to start the connection wizard.
 

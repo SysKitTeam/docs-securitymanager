@@ -35,7 +35,7 @@
   * [Settings Screen](get-to-know-security-manager/settings-screen.md)
 * [How To](how-to/README.md)
   * [Connect to Office 365](how-to/connect-to-office-365.md)
-  * [Connect to SharePoint On-Premise Site Collections](how-to/connect-to-sharepoint-on-premise.md)
+  * [Connect to SharePoint On-Premises Site Collections](how-to/connect-to-sharepoint-on-premise.md)
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
