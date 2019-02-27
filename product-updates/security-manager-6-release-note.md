@@ -1,5 +1,5 @@
 ---
-title: SysKit Security Manager 5.0.0 - Release Note
+title: SysKit Security Manager 6.0.0 - Release Note
 author: Tomislav Sirovec
 date: 19/02/2019
 description: >-
@@ -15,7 +15,7 @@ This major upgrade of SysKit Security Manager brings automation to the table! Sc
 
 **Product version:** 6.0.0  
 **Build number:** 1467  
-**Release date:** February 19, 2018
+**Release date:** February 19, 2019
 
 ## Features
 
