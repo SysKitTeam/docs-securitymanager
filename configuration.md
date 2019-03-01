@@ -9,16 +9,10 @@ description: >-
 **SysKit Security Manager Configuration Wizard** will automatically start when you start SysKit Security Manager for the first time. Alternatively, you can start it manually by running it from the installation folder \(default is C:\ProgramFiles\SysKit\SecurityManager\Host\SysKit.SecurityManager. ConfigurationWizard.exe\). Follow these steps to successfully configure the application:
 
 1. On the **Database** wizard page select whether to create a new database or use the existing one. If this is your first time setting up the application choose the **Create new database**. 
-
-{% hint style="warning" %}
-**Please note!**  
-This should be a SysKit Security Manager-dedicated database; please do not provide SharePoint Database here.
-{% endhint %}
-
-1. On the **Database Configuration** wizard page specify the **SQL Server**, **Database Name** and authentication. It is possible to overwrite the existing database under the same name.
-2. if you are using the default instance type “servername”, or “servername.yourdomain.loc”
-3. if you are using a named instance type “servername\instancename”, or “servername. Yourdomain.loc\instancenameˇ 
-4. if your SQL Server is on a non-standard port \(different from 1433\), type “servername,port” or “servername\instance,port”. \(FQDN formats are also supported\)  
+2. On the **Database Configuration** wizard page specify the **SQL Server**, **Database Name** and authentication. It is possible to overwrite the existing database under the same name.
+3. if you are using the default instance type “servername”, or “servername.yourdomain.loc”
+4. if you are using a named instance type “servername\instancename”, or “servername. Yourdomain.loc\instancenameˇ 
+5. if your SQL Server is on a non-standard port \(different from 1433\), type “servername,port” or “servername\instance,port”. \(FQDN formats are also supported\)  
 
 After providing the information, click the **Test Connection** button to ensure that the settings are correct.
 
