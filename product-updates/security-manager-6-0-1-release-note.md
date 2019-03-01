@@ -9,7 +9,7 @@ description: >-
 
 # SysKit Security Manager 6.0.1
 
-In this service release we bring you a small number of bug fixes and quality of life improvements. 
+In this service release we bring you a small number of bug fixes and quality of life improvements.
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
@@ -17,7 +17,8 @@ In this service release we bring you a small number of bug fixes and quality of 
 **Build number:** 1501  
 **Release date:** February 27, 2019
 
-## Improvements 
+## Improvements
 
-- When using the default installation package, we fixed a bug where the application would crash if the snapshot takes too long, or if you take too many consecutive snapshots. 
-- Minor bug fixes and improvements. 
+* When using the default installation package, we fixed a bug where the application would crash if the snapshot takes too long, or if you take too many consecutive snapshots. 
+* Minor bug fixes and improvements. 
+
