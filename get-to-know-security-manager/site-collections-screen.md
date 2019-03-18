@@ -17,7 +17,7 @@ The **Permissions** tab lets the site collection administrator explore SharePoin
 
 All management actions are contextually related to selected objects, which means users can **click on or hover over something to get a contextual menu** that offers actions related to the selected item.
 
-**Securable objects that can be managed are:** 
+**Securable objects that can be managed are:**
 
 1. Users
 2. SP \(SharePoint\) Groups

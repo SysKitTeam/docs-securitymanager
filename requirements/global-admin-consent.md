@@ -36,9 +36,7 @@ SysKit Security Manager requires the following delegated permissions:
 * Send mail as a user
   * Required for sending scheduled reports
 
-{% hint style="warning" %}
 Granting delegated permissions to an application means that the application may act on behalf of a user. This means that the effective permissions that the user has are still limited by his own permissions. I.e. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so.
-{% endhint %}
 
 ## Additional Info
 
