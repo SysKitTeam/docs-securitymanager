@@ -38,7 +38,7 @@ The effective permissions of an app will be the least privileged intersection of
 
 If the account used to connect to the Office 365 tenant is a global administrator, consent can be given directly from SysKit Security Manager.
 
-![Global Administrator Consent ](../.gitbook/assets/global-admin-consent.png)
+![](../.gitbook/assets/admin-contoso.png)
 
 #### Site Collection Administrator Consent Considerations
 
@@ -53,7 +53,6 @@ Global administrators considering giving organization wide consent can learn mor
 ### SharePoint On-Premises Considerations
 
 * Farm administrators have the possibility to **automatically discover** all site collections in a selected farm.
-* To manage all site collections in a SharePoint farm, instead of adding yourself as a **Site Collection Administrator** on each site collection, you can have **Full Control** permissions granted in the Web Application Policy.
 
 ## Installation and Database User Permissions
 
