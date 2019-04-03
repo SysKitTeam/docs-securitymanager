@@ -38,7 +38,7 @@ The effective permissions of an app will be the least privileged intersection of
 
 If the account used to connect to the Office 365 tenant is a global administrator, consent can be given directly from SysKit Security Manager.
 
-![](../.gitbook/assets/admin-contoso.png)
+![Global Administrator Consent](../.gitbook/assets/admin-contoso.png)
 
 #### Site Collection Administrator Consent Considerations
 
