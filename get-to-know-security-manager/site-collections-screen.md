@@ -63,5 +63,5 @@ The **Items with Unique Permissions** lists all the broken inheritance objects i
 
 ## Anonymous Links
 
-Use **Anonymous Links** tab to find out which documents or folders are shared to anonymous users with anonymous guest link and check link types and expiration dates.
+Use **Anonymous Access Links** tab to find out which documents or folders are shared to anonymous users with anonymous guest link and check link types and expiration dates.
 

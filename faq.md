@@ -16,7 +16,7 @@ If you are a **Global Administrator** in an Office 365 tenant or a **Farm Admini
 
 If you are a Global Office 365 tenant administrator, you’ll have an option in the connection wizard to [connect to selected OneDrive accounts.](how-to/connect-to-office-365.md#onedrive)
 
-The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
+The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately, there is currently no other supported way by Microsoft to do so.
 
 {% hint style="warning" %}
 **Please note!**  
@@ -35,29 +35,8 @@ SysKit Security Manager shows all the external users that have accessed your sit
 
 All of the SysKit Security Manager data is stored **per user** in the Application Data **%APPDATA%** directory. SysKit Security Manager uses **Microsoft SQL Server LocalDB** and stores the database files in the **%LOCALAPPDATA%\SysKit\Security Manager\Db** folder. To get a fresh start, you can delete the files in this folder. When started, SysKit Security Manager will then create the database files from scratch. You can also connect to this database by using the following instance name: **\SysKitSecurityManagerInstance**
 
-\*\*\*\*
-
 **When using the "advanced" installation package:**
 
 Alongside the usual **%APPDATA%** directory, some settings concerning the Service are stored in the %**PROGRAMDATA**% directory. LocalDB is no longer used, and all the data we collect is stored in the classic **SQL database.** For more information on using the SQL database see [this article.](requirements/user-permissions-requirements.md#creating-a-new-database)
 
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
-
-\*\*\*\*
 

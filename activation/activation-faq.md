@@ -6,15 +6,11 @@ description: This article outlines activation FAQs.
 
 ## Is the trial version in any kind limited?
 
-The trial is the latest released application version containing all available application features.
-
-## What are the trial limitations?
-
-There are none limitations. Except for the 30 day time limit.
+The trial is the latest released application version containing all available application features. The only limitation is a 30-day time limit.
 
 ## What happens during product activation?
 
-Product activation is a simple step that takes place during registration of your SysKit Security Manager. The users need to enter their product activation data, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
+Product activation is a simple step that takes place during the registration of your SysKit Security Manager. The users need to enter their product activation data, which is authenticated against the SysKit product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
 
 ## Who will be required to activate their products?
 
@@ -30,7 +26,7 @@ If you do not activate your product within the 30-day trial period, it will stop
 
 ## How do I activate my product?
 
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to Internet, please use [offline activation](online-offline-activation.md).
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation information and press activate. You must have a connection to the Internet to activate your product. If you do not have access to the Internet, please use [offline activation](online-offline-activation.md).
 
 ## What does SysKit do with the information sent during the product activation process?
 

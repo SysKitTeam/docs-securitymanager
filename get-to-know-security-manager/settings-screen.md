@@ -19,8 +19,9 @@ On the **Settings** screen the available settings and their default values are:
 
 **Enable Verbose Logging**: unchecked – use this option only for diagnostics purposes or when asked by the support team.  
 **Start SysKit Security Manager on Windows start** unchecked – use this option if you want to start SysKit Security Manager on Windows start. This option is only available in the default type of installation.  
-**On close, keep the application running**: checked – SysKit Security Manager will close to the system tray.  
-**Transport Layer Security protocol**: Default – modify the Transport Layer Security protocol option.**SQL command timeout\(s\)**: 300 – modify the command timeout for the SQL command.
+**On closing, keep the application running**: checked – SysKit Security Manager will close to the system tray.  
+**Transport Layer Security protocol**: Default – modify the Transport Layer Security protocol option.  
+**SQL command timeout\(s\)**: 300 – modify the command timeout for the SQL command.
 
 ### Credentials List
 
@@ -89,6 +90,16 @@ You can choose from two types of schedules:
 
 #### **Date & Time**
 
-By default, the report is scheduled on 8 AM, weekly, recurring on Monday. However you can adjust it to the time you prefer. You can choose how frequent will the snapshot be performed and depending on the frequency you have selected \(weekly or monthly\), you will also be able to choose on which day will the snapshot be recurring.
+By default, the report is scheduled on 8 AM, weekly, recurring on Monday. However, you can adjust it to the time you prefer. You can choose how frequent will the snapshot be performed and depending on the frequency you have selected \(weekly or monthly\), you will also be able to choose on which day will the snapshot be recurring.
 
-## Data Retention
+## **Audit**
+
+### **Audit Logs**
+
+By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. Also, here you can change the location of the folder for collection of audit logs on your computer. If you want to check and edit which activities are going to be collected, click on the link "Select activities to collect".
+
+## **Data Retention**
+
+### **Data retention Policy**
+
+With this option, you can allow Syskit Security Manager to automatically delete an old data from its storage. You can allow the application to remove snapshots that are older than a certain number of days, weeks or months. There is also the same option for removing old audit logs data. For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager will stop collecting data if disk usage reaches a critical limit above 95%.

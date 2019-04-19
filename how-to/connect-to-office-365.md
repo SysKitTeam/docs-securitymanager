@@ -28,13 +28,13 @@ All Office 365 groups and teams from your tenant will be auto-discovered and you
 
 From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will get an option to **Connect to selected OneDrive accounts**.
 
-The user running SysKit Security Manager will be granted site collection administrator rights on personal OneDrive accounts selected in the OneDrive step of the Connection Wizard .
+The user running SysKit Security Manager will be granted site collection administrator rights on personal OneDrive accounts selected in the OneDrive step of the Connection Wizard.
 
 Security Manager keeps track of where you were granted rights so you can easily remove access later. Administrator rights you had before using SysKit Security Manager will not be changed.
 
 Security Manager checks if the current user already has site collection administrator permissions through a SharePoint or a Security Group. When removing access from OneDrive in Security Manager, only directly given permissions are removed.
 
-The only way we can access user data and create OneDrive reports is if admin is granted site collection administrator rights to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so.
+The only way we can access user data and create OneDrive reports is if admin is granted site collection administrator rights to user OneDrive accounts. Unfortunately, there is currently no other supported way by Microsoft to do so.
 
 {% hint style="warning" %}
 Please note! These reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
