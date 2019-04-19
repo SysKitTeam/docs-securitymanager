@@ -91,3 +91,4 @@ You can choose from two types of schedules:
 
 By default, the report is scheduled on 8 AM, weekly, recurring on Monday. However you can adjust it to the time you prefer. You can choose how frequent will the snapshot be performed and depending on the frequency you have selected \(weekly or monthly\), you will also be able to choose on which day will the snapshot be recurring.
 
+## Data Retention
