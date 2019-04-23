@@ -31,7 +31,7 @@ SysKit Security Manager shows all the external users that have accessed your sit
 
 ## Where does SysKit Security Manager store its data?
 
-#### **When using the "default" installation package:**
+### **When using the "default" installation package:**
 
 All of the SysKit Security Manager data is stored **per user** in the Application Data **%APPDATA%** directory. SysKit Security Manager uses **Microsoft SQL Server LocalDB** and stores the database files in the **%LOCALAPPDATA%\SysKit\Security Manager\Db** folder. To get a fresh start, you can delete the files in this folder. When started, SysKit Security Manager will then create the database files from scratch. You can also connect to this database by using the following instance name: **\SysKitSecurityManagerInstance**
 

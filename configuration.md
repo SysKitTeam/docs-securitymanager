@@ -20,7 +20,3 @@ After providing the information, click the **Test Connection** button to ensure 
 2. On the **Security Settings** wizard page you can add user who can access SysKit Security Manager. Install account is by default on the list. All users with access will be able to see all the data in the application. **Please note** that, while you can add any number of users here, there is no point in doing so as **every user will require a separate licence.** 
 3. Click **Next** to complete the Configuration Wizard and apply the changes.
 
-
-
-
-
