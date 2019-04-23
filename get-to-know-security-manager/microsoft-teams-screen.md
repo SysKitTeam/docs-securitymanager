@@ -15,7 +15,7 @@ Available management actions for Microsoft Teams are contextually related to the
 
 ## All Teams report
 ### All Teams Tab
-General overview of the Teams on your tenant. The report will show you the team's Display Name, privacy level, site URL, number of: channels, team members, owners, guests and the date when the team was created. 
+Gives a general overview of the Teams on your tenant. The report will show you the team's Display Name, privacy level, site URL, number of channels, team members, owners and guests, and the date when the team was created.
 
 __Contextual actions:__
 * **Clone Team** – – Create a team using an existing team as a template.
@@ -24,7 +24,7 @@ __Contextual actions:__
 * **Delete** – Delete the selected team from your tenant.
 
 ### Global Settings tab
-On this report, you can see the set values for all the Team settings. They are grouped in 4 sections: Messaging, External Access, Guest Access, Teams Settings
+On this report, you can see the set values for all the Team settings. They are grouped in 4 sections: Messaging, External Access, Guest Access, and Teams Settings.
 ### Audit tab
 to do igor
 
@@ -37,13 +37,13 @@ __Global actions:__
 * **Go to Site Collection** – Open the associated site collection for a given team.
 
 ### Team Members tab
-A detailed overview of a single Microsoft Team, that is, a list of all the team members. The report will show you the users Display name, email, username and role.
+A detailed overview of a single Microsoft Team, that is, a list of all the team members. The report will show you the users' Display name, email, username, and role.
 
 __Contextual actions:__
 * **Remove** – Remove the selected user from the team.
 
 ### Channels tab
-On this report you can see a list of all the channels in one Team. We provide you with the channels Display name, description, URL and email
+On this report, you can see a list of all the channels in one Team. We provide you with the channels Display name, description, URL, and email.
 ### Audit tab
 to do igor
 

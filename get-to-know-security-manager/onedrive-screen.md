@@ -16,7 +16,7 @@ Some actions are globally related to OneDrive's and others are contextually rela
 ## OneDrive Overview report
 ### OneDrive Overview tab
 
-General overview of all the users OneDrive's. On this report you can see a list of users, their corresponding OneDrive URLs, different levels of storage usage, and activity. 
+General overview of all the users OneDrive's. On this report, you can see a list of users, their corresponding OneDrive URLs, different levels of storage usage, and activity. 
 
 __Contextual actions:__
 * **Remove Access** – This action will remove permissions which were granted in the [connection wizard](../how-to/connect-to-office-365.md#onedrive). 

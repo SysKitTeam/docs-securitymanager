@@ -35,7 +35,7 @@ __Contextual actions:__
 
 ## Single group report
 ### Groups Members tab
-A detailed overview of a single Office 365 group. The report will show you the users Display name, email, username and role
+A detailed overview of a single Office 365 group. The report will show you the users' Display name, email, username, and role.
 
 __Contextual actions:__
 * **Remove** – Remove the selected user from the Office 365 Group.
