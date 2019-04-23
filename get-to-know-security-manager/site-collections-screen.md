@@ -15,7 +15,7 @@ Track permissions changes in your environment using the [Compare wizard](../how-
 
 The **Permissions** tab lets the site collection administrator explore SharePoint permissions in real time by simply navigating to the specific securable object. Use the tree on the left-hand side to navigate and expand to the desired SharePoint securable objects and view permissions details in the Permissions tab.
 
-All management actions are contextually related to selected objects, which means users can **click on or hover over something to get a contextual menu** that offers actions related to the selected item.
+All management actions are contextually related to selected objects, which means users can select one or more users/groups to get actions related to the selected items.
 
 **Securable objects that can be managed are:**
 
@@ -38,16 +38,15 @@ All management actions are contextually related to selected objects, which means
 * **Grant Permissions** – Allows you to assign permissions to a user or a group on a selected SharePoint securable object with unique permissions.
 * **Create Group** – Creates a new SharePoint group on the selected SharePoint object with unique permissions.
 * **Go to Group** – Opens associated Office 365 Group for given Office 365 site collection.
-* **Edit Group Settings** – Configures SharePoint group settings: name, owner, membership.
-* **Edit Permissions** – Modifies assigned permission levels for a selected principal.
-* **Remove Permissions** – Removes all previously granted permissions from a selected user. User will still exist on this site collection but will no longer have any assigned permissions on this SharePoint object.
-* **Move to SharePoint Group** – Removes directly assigned permissions from the selected user and adds him to a SharePoint group. Selected user will now inherit permissions through this group membership.
-* **Clone Permissions** – Source principal’s permissions will not be changed in any way. Destination principals will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source principal.
-* **Transfer Permissions** – Source principal’s permissions will lose all previously directly assigned permissions and group memberships. Destination principals will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source principal.
-* **Add to SharePoint Group** – Allows you to directly add selected principal to the existing SharePoint groups.
-* **Remove User from Groups** – Removes the selected user from the selected SharePoint group. User will lose all permissions gained through this group membership.
-* **Delete User** – Deletes the selected principal from the entire site collection. User or Active Directory/ Security group will no longer have any permissions assigned and will be deleted from the entire site collection.
-* **Delete Group** – Deletes the selected SharePoint group from the entire site collection. This SharePoint group will no longer have any permissions assigned and will be deleted from the entire site collection.
+* **Edit Settings** – Configures SharePoint group settings: name, owner, membership.
+* **Edit** – Modifies assigned permission levels for a selected users or groups.
+* **Remove** – Removes all previously granted permissions from a selected users. Users will still exist on this site collection but will no longer have any assigned permissions on this SharePoint object.
+* **Copy** – Copy permissions and group memberships of the currently selected user to a different one. Source user’s permissions will not be changed in any way. Destination users will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source user.
+* **Transfer** – Transfer permissions and group memberships from the currently selected user to a different one. Source user’s permissions will lose all previously directly assigned permissions and group memberships. Destination users will lose all previously assigned permissions and acquire every directly given permission and SharePoint group memberships as the source user.
+* **Move to Group** – Removes directly assigned permissions from the selected users and adds them to a SharePoint group. Selected users will now inherit permissions through this group membership.
+* **Copy to Group** – Allows you to directly add selected principals to the existing SharePoint groups.
+* **Remove from Group** – Removes the selected users from the selected SharePoint group. Users will lose all permissions gained through this group membership.
+* **Delete** – Deletes the selected users or groups from the entire site collection. Users or Active Directory/ Security group will no longer have any permissions assigned and will be deleted from the entire site collection.
 
 ## External Users on Site Collection
 
@@ -59,7 +58,9 @@ The **Access Requests** tab allows SharePoint site collection administrators to 
 
 ## Items with Unique Permissions
 
-The **Items with Unique Permissions** lists all the broken inheritance objects in SharePoint. You can drill to the permissions report of the selected item to review its permissions.
+The **Items with Unique Permissions** lists all the objects with broken inheritance for the selected document library, list or folder.
+* You can drill to the permissions report of the selected item to review its permissions.
+* You can select one or more items and **Restore Inheritance** for all selected items at once.
 
 ## Anonymous Links
 
