@@ -31,6 +31,7 @@
   * [Office 365 Groups](get-to-know-security-manager/office-365-groups-screen.md)
   * [Microsoft Teams](get-to-know-security-manager/microsoft-teams-screen.md)
   * [OneDrive](get-to-know-security-manager/onedrive-screen.md)
+  * [Users Screen](users-screen.md)
   * [Snapshots Screen](get-to-know-security-manager/snapshots-screen.md)
   * [Scheduled Reports Screen](get-to-know-security-manager/scheduled-reports-screen.md)
   * [Security Reports Screen](get-to-know-security-manager/permissions-reports-screen.md)
