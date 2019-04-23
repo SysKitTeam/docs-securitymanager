@@ -96,10 +96,20 @@ By default, the report is scheduled on 8 AM, weekly, recurring on Monday. Howeve
 
 ### **Audit Logs**
 
-By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. Also, here you can change the location of the folder for collection of audit logs on your computer. If you want to check and edit which activities are going to be collected, click on the link "Select activities to collect".
+By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. Also, here you can change the location of the folder for collection of audit logs on your computer. 
+
+The information about **Index Size** and the number of events in the belonging index is provided here too.
+
+If you want to check and edit which activities are going to be collected, click on **Select activities to collect**.
 
 ## **Data Retention**
 
 ### **Data retention Policy**
 
-With this option, you can allow Syskit Security Manager to automatically delete an old data from its storage. You can allow the application to remove snapshots that are older than a certain number of days, weeks or months. There is also the same option for removing old audit logs data. For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager will stop collecting data if disk usage reaches a critical limit above 95%.
+With this option, you can allow Syskit Security Manager to automatically delete an old data from its storage. You can allow the application to remove snapshots or audit logs that are older than a certain number of days, weeks or months. 
+
+If you enabled removal of old snapshots, Syskit Security Manager will delete every snapshot from the database that is older than a specified date.
+
+If it's the case of deleting old audit logs, the application will delete required folders in **audit log index**, and also csv files and records from the database.
+
+For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager will stop collecting data if disk usage reaches a critical limit above 95%.

@@ -1,7 +1,7 @@
 ---
 title: Install SysKit Security Manager
 description: >-
-  This section describes the installation process of Syskit Security Manager.
+  This section describes the installation and configuration steps of Syskit Security Manager.
 author: Petra Filipi
 date: 14/03/2018
 ---
