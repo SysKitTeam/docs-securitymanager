@@ -13,7 +13,7 @@ To start exploring features and reports, navigate to the OneDrive screen and sel
 
 Some actions are globally related to all OneDrive accounts and other are contextually related to the selected object\(s\). Which means that users can select items from the grid by clicking the checkboxes on the left, and perform the desired action\(s\) from the **Actions Toolbar**, such as removing access from OneDrive or stop sharing all documents.
 
-## OneDrive Overview report
+## OneDrive Overview
 
 ### OneDrive Overview tab
 
@@ -29,7 +29,12 @@ Gives a general overview of the OneDrive accounts which you've chosen to load. O
 The **Audit** tab on the OneDrive Overview report will show you events related to the **OneDrive creation**, **deletion** and **security changes**, or events which can pose a security issue, e.g. if a global administrator has added and then removed his account from owners on a particular OneDrive, to access data.  
 Here you can easily identify if there are any **synchronization issues** between the computers in your organization's domain and OneDrive for Business and get information on whether a user has successfully established a sync relationship with a site.
 
-## Single User's OneDrive report
+Audited activities include:
++ Site collection created, deleted
++ Added site collection admin, removed
++ Allowed computer to sync files, blocked 
+
+## Single User's OneDrive
 
 ### Single User's OneDrive tab
 
@@ -52,3 +57,8 @@ Audited activities include:
 * Folder created, deleted, copied, restored …
 * Sharing access invitation, blocked, anonymous links …
 
+## OneDrive Reports
+
+* **Orphaned OneDrive** – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory. Supports live and snapshot data.
+* **OneDrive With Guests** – Shows personal OneDrive accounts that have guests or external users with existing permissions.
+* **OneDrive Shared Items** – Shows OneDrive items that have been shared. Report can show shared items across multiple OneDrive storages at the same time. For detailed information about permissions on specific shared files this report has built-in drill functionality to Permissions Matrix report.
