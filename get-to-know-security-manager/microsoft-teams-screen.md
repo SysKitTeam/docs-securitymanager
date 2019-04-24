@@ -13,15 +13,15 @@ To start exploring features and reports, navigate to the Microsoft Teams screen 
 
 Available management actions for Microsoft Teams are contextually related to the selected object, which means users can click on or hover over something to get a contextual menu that offers actions related to the selected item.
 
-## All Teams report
+## All Teams
 
-### All Teams Tab
+### All Teams tab
 
-Gives a general overview of the Teams on your tenant. The report will show you the team's Display Name, privacy level, site URL, number of channels, team members, owners and guests, and the date when the team was created.
+Gives a general overview of the Teams on your tenant. The report will show you the team's display name, privacy level, site URL, number of channels, team members, owners and guests, and the date when the team was created.
 
 **Contextual actions:**
 
-* **Clone Team** – – Create a team using an existing team as a template.
+* **Clone Team** – Create a team using an existing team as a template.
 * **Update  Settings** – Update the properties of the selected team.
 * **Remove** – Remove the selected team from SysKit Security Manager.
 * **Delete** – Delete the selected team from your tenant.
@@ -32,9 +32,10 @@ On this report, you can see the set values for all the Team settings. They are g
 
 ### Audit tab
 
-to do igor
+The **Audit** tab on the All Teams report will show you events related to __global actions__ or other teams events such as, __team creation__, __deletion__, __updates__ and __membership changes__. This includes __team member added__ and __team member removed__ events, the same applies for __modifying the owner__ of a Team.  
+Here you can also explore the Teams’ __organization-wide setting changes__, like adding or changing Meeting, Messaging, Calling or Upgrade policies. 
 
-## Single Team report
+## Single Team
 
 **Global actions:**
 
@@ -57,5 +58,17 @@ On this report, you can see a list of all the channels in one Team. We provide y
 
 ### Audit tab
 
-to do igor
+The **Audit** tab on the Single Team report will show you recent activity for the selected Team. Here you can explore all analytics, security and configuration events which happened.  
+Most organizations want to change the __chat, bots, apps, connector, channel__ and other default Teams settings, based on their needs and configuration.  
+Keep track of __configuration__ and __policy changes__ to see what’s changed and by whom.
 
+Audited activities include:
+* File accessed, shared, modified, deleted, malware detected …
+* Added members to team, removed, changed role of members in team …
+* Sharing access invitation, blocked, anonymous links …
+
+## Microsoft Teams Reports
+
+* **Team Level Settings** – Shows Microsoft Teams settings by Team. Team settings are showed for all Microsoft Teams on a selected tenant.
+* **Teams With Guests** – Shows all Microsoft Teams that have guests or external users as owners or members.
+* **Orphaned Teams** – Shows all Microsoft Teams that don't have any active owners.

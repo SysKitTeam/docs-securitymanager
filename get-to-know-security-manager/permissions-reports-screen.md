@@ -100,16 +100,3 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 
 * **Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
 * **Orphaned Office 365 Groups** – Shows all Office 365 Groups that don't have any active owners.
-
-## Microsoft Teams Reports
-
-* **Team Level Settings** – Shows Microsoft Teams settings by Team. Team settings are showed for all Microsoft Teams on a selected tenant.
-* **Teams With Guests** – Shows all Microsoft Teams that have guests or external users as owners or members.
-* **Orphaned Teams** – Shows all Microsoft Teams that don't have any active owners.
-
-## OneDrive Reports
-
-* **Orphaned OneDrive** – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory. Supports live and snapshot data.
-* **OneDrive With Guests** – Shows personal OneDrive accounts that have guests or external users with existing permissions.
-* **OneDrive Shared Items** – Shows OneDrive items that have been shared. Report can show shared items across multiple OneDrive storages at the same time. For detailed information about permissions on specific shared files this report has built-in drill functionality to Permissions Matrix report.
-
