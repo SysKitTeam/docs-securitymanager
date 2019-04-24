@@ -59,6 +59,7 @@ The **Access Requests** tab allows SharePoint site collection administrators to 
 ## Items with Unique Permissions
 
 The **Items with Unique Permissions** lists all the objects with broken inheritance for the selected document library, list or folder.
+
 * You can drill to the permissions report of the selected item to review its permissions.
 * You can select one or more items and **Restore Inheritance** for all selected items at once.
 

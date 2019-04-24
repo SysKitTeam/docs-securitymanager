@@ -19,13 +19,7 @@ description: >-
 
 ## Features
 
-
-
-
 ## Improvements
 
-
-
-
-
 ## Bug fix
+

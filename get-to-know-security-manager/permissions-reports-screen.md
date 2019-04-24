@@ -59,6 +59,25 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **External Users** – Lists all external users in the tenant. Supports live and snapshot data.
 * **External Sharing Settings** – Lists sharing capabilities for site collections. Supports live and snapshot data.
 
+## Audit Logs
+
+* **Audit Logs Overview** – Lists all collected Audit logs.   
+  
+  The following filters are available to help you find the needed information:
+
+  * **Date Period** - Select between predefined values or click _Custom_ to open the Date and Time picker.
+  * **Tenant** - In case you're connected to multiple tenants, select the one you want to display the audit logs for. By default, the first tenant on the list is selected.
+  * **File, folder or site** - Use when your search is based on the knowledge of URL information. for example, if you want to see all activities on OneDrive sites, you can write _personal_ in this filter, since all such sites contain this word in the URL. Wildcards are also supported, but cannot be used as the first character in the filter.
+  * **Activities** - By default, all the collected activities are displayed. By selecting a specific activities group or a single activity, the results are limited to the selection. To easily find wanted activities, use the **Search field.** To clear the selection, click the **Clear all to show results for all activities** button. To view all activities available for collection, use the **Can't find what you are looking for?** link on the bottom of the filter.
+  * **Users** - By default, audit logs for all users are displayed. 
+
+  The following actions are available:
+
+  * **Generate** - When you change the above-mentioned filters, click the Generate button for them to be applied. 
+  * **Schedule** - Add the Audit Logs Overview report along with filter selection to a new or an existing report set to get it delivered automatically via email, or saved to a SharePoint document library.
+  * **Export** - Export filtered audit logs to an excel file and save it to the desired location on your computer. The file comes with built-in sort and filter capabilities, enabling you to perform additional analysis of exported data.
+  * **Search** - Searches for a string in all rows in the grid. Only rows that contain the input string are displayed, and the string itself is highlighted.
+
 ## Cleanup
 
 * **Groups Without Permissions** – Lists all SharePoint groups that haven’t been assigned any permissions. This includes groups with ”Limited Access” that remained after their permissions on a specific item in the site collection were removed.
