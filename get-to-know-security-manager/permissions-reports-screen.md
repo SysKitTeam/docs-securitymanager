@@ -61,8 +61,8 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 
 ## Audit Logs
 
-* **Audit Logs Overview** – Lists all collected Audit logs.   
-  
+* **Audit Logs Overview** – Lists all collected Audit logs.
+
   The following filters are available to help you find the needed information:
 
   * **Date Period** - Select between predefined values or click _Custom_ to open the Date and Time picker.

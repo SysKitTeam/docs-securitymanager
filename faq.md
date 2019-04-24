@@ -39,4 +39,3 @@ All of the SysKit Security Manager data is stored **per user** in the Applicatio
 
 Alongside the usual **%APPDATA%** directory, some settings concerning the Service are stored in the %**PROGRAMDATA**% directory. LocalDB is no longer used, and all the data we collect is stored in the classic **SQL database.** For more information on using the SQL database see [this article.](requirements/user-permissions-requirements.md#creating-a-new-database)
 
-
