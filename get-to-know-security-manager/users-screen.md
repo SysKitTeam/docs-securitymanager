@@ -1,5 +1,7 @@
+---
 title: Users Screen
-description: Detailed information on Tenant User.
+description: >-
+  Detailed information about the users in a Tenant.
 author: Mia Tomaić
 date: 19/04/2019
 ---
