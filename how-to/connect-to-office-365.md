@@ -61,24 +61,9 @@ Here, you can also **change the Audit Logs location**. This is the location wher
 Audit logs collection is **not available for on-premises site collections.**
 {% endhint %}
 
-To collect Office 365 audit logs, SysKit Security Manager connects to the Office 365 Management Activity API.  
+To collect Office 365 audit logs, SysKit Security Manager needs the **consent of a Global Office 365 tenant administrator**.  
   
-Here, the first step is the creation of an **Azure AD Application** on your tenant that has the permissions needed to access the Management Activity API data - for this to happen, SysKit Security Manager needs the **consent of a Global Office 365 tenant administrator.** If you visit you Azure AD Admin Center you can find **SysKit Security Manager Audit Collector** app created in the described step.
-
-The Office 365 Management Activity API aggregates audit logs into **tenant-specific content blobs**, which are classified by the type and source of the logs they contain. Although additional content types are available, SysKit Security Manager currently collects activity data for the following content types:
-
-* **Audit.AzureActiveDirectory**
-* **Audit.SharePoint**
-* **Audit.General**
-
-To access the content blobs, SysKit Security Manager first needs to create **subscriptions to the content types**. This happens immediately after the Azure AD Application is created.  
-  
-All of the above actions are done before the Summary step is displayed.  
-  
-Once the Audit Logs option is enabled, the **Audit Log Collector job** will poll every 15 minutes to discover new content blobs that are available for download. For the Audit Log Collector job to run, **the SysKit Security Manager Service is necessary**. Downloaded blobs are processed and all needed information is saved to a defined storage location on disk.   
-After they are processed, the blobs themselves are deleted in order to save disk space.
-
-To find more information about the Office 365 Management APIs used by SysKit Security Manager, follow [this link](https://docs.microsoft.com/en-us/office/office-365-management-api/).
+Once the Audit Logs option is enabled, the **Audit Log Collector job** will poll every 15 minutes to discover new audit logs that are available for download. For the Audit Log Collector job to run, **the SysKit Security Manager Service is necessary**. Downloaded audit logs are processed and all needed information is saved to a defined storage location on disk. 
 
 ## Summary
 
