@@ -63,5 +63,3 @@ This major upgrade of SysKit Security Manager brings you **bulk actions and Audi
 
   **Improvements**
 
-### Bug fix
-
