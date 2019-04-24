@@ -1,6 +1,8 @@
 ---
 title: Office 365 Groups Screen
-description: Detailed overview of connected Office 365 Groups.
+description: >-
+  The Office 365 Groups screen gives you a general overview of your connected
+  Office 365 Groups.
 author: Petra Filipi
 date: 05/04/2018
 ---
@@ -18,11 +20,11 @@ You will notice an All Groups overview and Single Group reports. Each report has
 * **Add Member** – Add members to a given Office 365 Group.
 * **Go To Site Collection** – Open associated site collection for given Office 365 Group.
 
-## All Groups report
+## All Groups
 
 ### All groups tab
 
-General overview of connected Office 365 Groups. The report will show you the Display Name of all the groups, as well as their date of creation, number of members, owners, guests, activity, privacy and so on.
+General overview of connected Office 365 Groups. The report will show you the display name of all the groups, as well as their date of creation, number of members, owners, guests, activity, privacy and so on.
 
 **Contextual actions:**
 
@@ -31,9 +33,10 @@ General overview of connected Office 365 Groups. The report will show you the Di
 
 ### Audit tab
 
-to do igor
+The **Audit** tab on the All groups report will show you events related to 
+the **Office 365 group creation**, **updates**, **deletion** and **security changes** which can pose a security issue. This includes membership change actions such as, **group member added**, **group member removed**, the same applies for **modifying the owner** of a Group.
 
-## Single group report
+## Single group
 
 ### Groups Members tab
 
@@ -43,7 +46,19 @@ A detailed overview of a single Office 365 group. The report will show you the u
 
 * **Remove** – Remove the selected user from the Office 365 Group.
 
-  **Audit tab**
+### Audit tab
 
-  to do igor
+The **Audit** tab on the Single Group report will show you recent activity for the selected Group. Here you can explore all analytics, security and configuration events which happened.  
+Most organizations want the self-service group creation enabled for certain pool of users, because it makes collaboration process flexible and efficient.
+Maintain your Office 365 manageable and monitor __creation, updates__ and __deletion__ of the Office 365 groups. 
+Keep track of all the recent activities and actions performed by the users. Check if sensitive content has been shared outside the organization, when and by whom.
 
+Audited activities include:
+* File accessed, shared, modified, deleted, malware detected …
+* Added members to group, removed …
+* Sharing access invitation, blocked, anonymous links …
+
+## Office 365 Groups Reports
+
+* **Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
+* **Orphaned Office 365 Groups** – Shows all Office 365 Groups that don't have any active owners.

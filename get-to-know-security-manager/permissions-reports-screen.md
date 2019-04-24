@@ -95,8 +95,3 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Lists with Uniquely Secured Items** – Shows lists and libraries that contain list items with broken permissions inheritance.
 * **Uniquely Secured List Items** – Shows all list items with broken permissions inheritance.
 * **Large Lists** – Shows any lists and libraries that have more than 4000 items.
-
-## Office 365 Groups Reports
-
-* **Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
-* **Orphaned Office 365 Groups** – Shows all Office 365 Groups that don't have any active owners.
