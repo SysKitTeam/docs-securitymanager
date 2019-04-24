@@ -74,7 +74,7 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
   The following actions are available:
 
   * **Generate** - When you change the above-mentioned filters, click the Generate button for them to be applied. 
-  * **Schedule** - Add the Audit Logs Overview report along with filter selection to a new or an existing report set to get it delivered automatically via email, or saved to a SharePoint document library.
+  * **Schedule** - Add the Audit Logs Overview report along with the filter selection to a new or an existing report set to get it delivered automatically via email, or saved to a SharePoint document library.
   * **Export** - Export filtered audit logs to an excel file and save it to the desired location on your computer. The file comes with built-in sort and filter capabilities, enabling you to perform additional analysis of exported data.
   * **Search** - Searches for a string in all rows in the grid. Only rows that contain the input string are displayed, and the string itself is highlighted.
 
