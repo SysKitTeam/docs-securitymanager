@@ -52,6 +52,8 @@ From SysKit Security Manager version 7, if you are a Global Office 365 tenant ad
 **The SysKit Security Manager Service** needs to be up and running to collect Office 365 audit logs. To configure the Service, run the SysKit Security Manager's Configuration Wizard and select the **Advanced mode**. 
 
 **Only the Global Office 365 tenant administrator** has the option to enable the collection of Office 365 audit logs.
+
+Audit logs collection is **not available** for **on-premises site collections.**
 {% endhint %}
 
 
