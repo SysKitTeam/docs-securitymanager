@@ -96,27 +96,33 @@ By default, the report is scheduled on 8 AM, weekly, recurring on Monday. Howeve
 
 ### **Audit Logs**
 
-By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. Also, here you can change the location of the folder for collection of audit logs on your computer.
+By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. 
 
-The information about **Index Size** and the number of events in the belonging index is provided here too.
+{% hint style="warning" %}
+**Please note!**  
+By enabling Audit Logs in Settings, you enable the collection of Office 365 audit logs for **all connected tenants**.   
+In case you want to **enable the audit log collection for a specific tenant only**, enable the Audit Logs option in the Connect Wizard.
+{% endhint %}
 
-If you want to check and edit which activities are going to be collected, click on **Select activities to collect**.
+The information about **Index Size** and the **number of events** in the belonging index is provided here too.
+
+Also, here you can **change the location** where all collected audit logs from your tenant will be stored.
+
+If you want to check and edit which activities are going to be collected, click on the **Select activities to collect** link.
 
 ## **Data Retention**
 
 ### **Data retention Policy**
 
-With this option, you can allow Syskit Security Manager to automatically delete an old data from its storage. You can allow the application to remove snapshots or audit logs that are older than a certain number of days, weeks or months.
+With this option, you can **allow Syskit Security Manager to automatically delete old data** from its storage. You can allow the application to remove snapshots and/or audit logs that are older than a certain number of days, weeks or months.
 
-Data retention job will occur every day at 4:00 AM.
+By default, SysKit Security Manager service will execute the Data Retention job every day at a random time between 4:00 AM and 5:00 AM.
 
-If you enabled data retention for snapshots, Syskit Security Manager will delete every snapshot from the database that is older than a specified date.
+If you enable data retention for **Snapshots**, Syskit Security Manager will delete every snapshot from the database that is **older than a specified date**, along with the snapshots you deleted manually in the app.
 
-If it's the case of deleting old audit logs, the **audit collector job** will delete required folders in **audit log index**; while **audit data retention job** will delete CSV files and BLOBs from the database.
+In case you enable the **Audit Logs** data retention option, audit logs folders **older than a specified date will be deleted**.
 
-For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager notices a certain amount of disk usage.
-
-A warning email will be sent in the situation when disk usage for the index is over 85%.
-
-You will also be alerted via email when Syskit Security Manager stops collecting data if disk usage reaches a critical limit above 95%.
+For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager notices a certain percentage of disk usage. **A** **warning email will be sent** in case the disk usage is over 85%.   
+  
+You will also **be alerted via email when Syskit Security Manager stops collecting data** if the disk usage reaches a critical limit of 95%.
 

@@ -1,8 +1,8 @@
 ---
 title: OneDrive Screen
-description:  >-
-  The OneDrive screen gives you a general overview of your connected
-  OneDrive accounts.
+description: >-
+  The OneDrive screen gives you a general overview of your connected OneDrive
+  accounts.
 author: Tomislav Sirovec
 date: 23/04/2019
 ---
@@ -11,7 +11,7 @@ date: 23/04/2019
 
 To start exploring features and reports, navigate to the OneDrive screen and select your tenant.
 
-Some actions are globally related to all OneDrive accounts and other are contextually related to the selected object(s). Which means that users can select items from the grid by clicking the checkboxes on the left, and perform the desired action(s) from the __Actions Toolbar__, such as removing access from OneDrive or stop sharing all documents.
+Some actions are globally related to all OneDrive accounts and other are contextually related to the selected object\(s\). Which means that users can select items from the grid by clicking the checkboxes on the left, and perform the desired action\(s\) from the **Actions Toolbar**, such as removing access from OneDrive or stop sharing all documents.
 
 ## OneDrive Overview report
 
@@ -26,8 +26,8 @@ Gives a general overview of the OneDrive accounts which you've chosen to load. O
 
 ### Audit tab
 
-The __Audit__ tab on the OneDrive Overview report will show you events related to the __OneDrive creation__, __deletion__ and __security changes__, or events which can pose a security issue, e.g. if a global administrator has added and then removed his account from owners on a particular OneDrive, to access data.  
-Here you can easily identify if there are any __synchronization issues__ between the computers in your organization's domain and OneDrive for Business and get information on whether a user has successfully established a sync relationship with a site.
+The **Audit** tab on the OneDrive Overview report will show you events related to the **OneDrive creation**, **deletion** and **security changes**, or events which can pose a security issue, e.g. if a global administrator has added and then removed his account from owners on a particular OneDrive, to access data.  
+Here you can easily identify if there are any **synchronization issues** between the computers in your organization's domain and OneDrive for Business and get information on whether a user has successfully established a sync relationship with a site.
 
 ## Single User's OneDrive report
 
@@ -42,11 +42,13 @@ On the Single User's OneDrive report, you will find a list of all the items in s
 
 ### Audit tab
 
-The __Audit__ tab on the Single User’s OneDrive report will show you recent activity for the selected OneDrive. The report will show you all the details such as, __file accesses__, __edits__ and __modifications__, __sharing activities__ (both external and internal) for documents or folders in the selected date range.  
+The **Audit** tab on the Single User’s OneDrive report will show you recent activity for the selected OneDrive. The report will show you all the details such as, **file accesses**, **edits** and **modifications**, **sharing activities** \(both external and internal\) for documents or folders in the selected date range.  
 Here you can check whether a user has shared files with external users and all the important details like when, with whom, and which file was shared.  
 If your users are having issues with the OneDrive sync client, here you can easily check if there has been a successful upload or download of any changes to files within the selected date range.
 
-Audited activities include: 
-+ File accessed, shared, modified, deleted, malware detected …
-+ Folder created, deleted, copied, restored …
-+ Sharing access invitation, blocked, anonymous links …
+Audited activities include:
+
+* File accessed, shared, modified, deleted, malware detected …
+* Folder created, deleted, copied, restored …
+* Sharing access invitation, blocked, anonymous links …
+

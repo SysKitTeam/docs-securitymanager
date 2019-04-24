@@ -27,7 +27,7 @@ Before you can view the report data you will need to configure the report filter
 ## Drill Functionality
 
 Most of the reports are interconnected between each other and with the rest of the application. You can drill from one to the other by using the drill functionality.  
-The drill functionality is available when you select a row in a snapshot report. Depending on the report different options to drill will be available. Different rows may also have different drill options and lead to different parts of the application. 
+The drill functionality is available when you select a row in a snapshot report. Depending on the report different options to drill will be available. Different rows may also have different drill options and lead to different parts of the application.
 
 For example the **Permissions Matrix** report allows the following:
 
