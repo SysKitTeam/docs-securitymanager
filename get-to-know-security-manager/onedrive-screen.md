@@ -1,6 +1,8 @@
 ---
 title: OneDrive Screen
-description: Detailed overview of connected OneDrive accounts.
+description:  >-
+  The OneDrive screen gives you a general overview of your connected
+  OneDrive accounts.
 author: Tomislav Sirovec
 date: 23/04/2019
 ---
@@ -9,40 +11,42 @@ date: 23/04/2019
 
 To start exploring features and reports, navigate to the OneDrive screen and select your tenant.
 
-Some actions are globally related to OneDrive's and others are contextually related to the selected object/s. Which means users can click on a checkbox to fill Actions Toolbar with actions related to the selected item/s.
-
-## Available actions
+Some actions are globally related to all OneDrive accounts and other are contextually related to the selected object(s). Which means that users can select items from the grid by clicking the checkboxes on the left, and perform the desired action(s) from the __Actions Toolbar__, such as removing access from OneDrive or stop sharing all documents.
 
 ## OneDrive Overview report
 
 ### OneDrive Overview tab
 
-General overview of all the users OneDrive's. On this report, you can see a list of users, their corresponding OneDrive URLs, different levels of storage usage, and activity.
+Gives a general overview of the OneDrive accounts which you've chosen to load. On this report, you can see a list of users, their corresponding OneDrive URLs, different levels of storage usage, as well as check if there was any activity in the last three months.
 
 **Contextual actions:**
 
 * **Remove Access** – This action will remove permissions which were granted in the [connection wizard](../how-to/connect-to-office-365.md#onedrive). 
-* **Stop Sharing** – Remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
+* **Stop Sharing** – This action will remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
 
-  **Audit tab**
+### Audit tab
 
-  to do igor
+The __Audit__ tab on the OneDrive Overview report will show you events related to the __OneDrive creation__, __deletion__ and __security changes__, or events which can pose a security issue, e.g. if a global administrator has added and then removed his account from owners on a particular OneDrive, to access data.  
+Here you can easily identify if there are any __synchronization issues__ between the computers in your organization's domain and OneDrive for Business and get information on whether a user has successfully established a sync relationship with a site.
 
 ## Single User's OneDrive report
 
 ### Single User's OneDrive tab
 
-On Single User's OneDrive report, you will find a list of all the items in someones OneDrive. You can see who created the item and when, who modified it and when, its file size, and of course whether the item is shared with someone or is it private.
+On the Single User's OneDrive report, you will find a list of all the items in someones OneDrive. You can see who created the item and when, who modified it and when, its file size, and of course whether the item is shared with someone or is it private.
 
 **Global actions:**
 
 * **Remove Access** – This action will remove permissions which were granted in the [connection wizard](../how-to/connect-to-office-365.md#onedrive). 
-* **Stop Sharing** – Remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
+* **Stop Sharing** – This action will remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
 
 ### Audit tab
 
-to do igor
+The __Audit__ tab on the Single User’s OneDrive report will show you recent activity for the selected OneDrive. The report will show you all the details such as, __file accesses__, __edits__ and __modifications__, __sharing activities__ (both external and internal) for documents or folders in the selected date range.  
+Here you can check whether a user has shared files with external users and all the important details like when, with whom, and which file was shared.  
+If your users are having issues with the OneDrive sync client, here you can easily check if there has been a successful upload or download of any changes to files within the selected date range.
 
-* **Remove Access** – This action will remove permissions which were granted in the [connection wizard](../how-to/connect-to-office-365.md#onedrive). 
-* **Stop Sharing** – Remove all unique permissions from the selected OneDrive. This will disable all anonymous links as well.
-
+Audited activities include: 
++ File accessed, shared, modified, deleted, malware detected …
++ Folder created, deleted, copied, restored …
++ Sharing access invitation, blocked, anonymous links …
