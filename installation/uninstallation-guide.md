@@ -13,7 +13,7 @@ We are sorry to hear you are leaving the SysKit family, but here are the steps h
 2. Find **SysKit Security Manager** and click the **Uninstall** button. 
 3. Select **Uninstall** option from the wizard. 
 4. Click **Next** and wait for the wizard to remove **Security Manager**. 
-5. Your **SysKit SysKit Security Manager** application has been successfully removed! 
+5. Your **SysKit Security Manager** application has been successfully removed! 
 
 {% hint style="warning" %}
 **Please note!**  

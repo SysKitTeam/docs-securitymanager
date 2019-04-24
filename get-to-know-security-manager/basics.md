@@ -9,8 +9,8 @@ description: This article describes the concept of a snapshot.
 
 ## Connecting to an Environment
 
-The application can only be used once connected to an environment. After the first startup you will be asked to connect to either an[ Office 365](../how-to/connect-to-office-365.md) or your [SharePoint On-Premise](../how-to/connect-to-sharepoint-on-premise.md) environments. In the **Connection Wizard** depending on the permissions of the current user you will be able to choose the site collections, Office 365 Groups & Teams and OneDrive accounts that you want to connect to. Ordinary site collection administrators will not be able to select from a list of site collections but will need to input them manually.  
-There are special considerations to be taken into account when working with a non global administrator account. Learn more in the [user permission requirements](../requirements/user-permissions-requirements.md) article.
+The application can only be used once connected to an environment. After the first startup, you will be asked to connect to either an[ Office 365](../how-to/connect-to-office-365.md) or your [SharePoint On-Premise](../how-to/connect-to-sharepoint-on-premise.md) environments. In the **Connection Wizard** depending on the permissions of the current user, you will be able to choose the site collections, Office 365 Groups & Teams and OneDrive accounts that you want to connect to. Ordinary site collection administrators will not be able to select from a list of site collections but will need to input them manually.  
+There are special considerations to be taken into account when working with a non-global administrator account. Learn more in the [user permission requirements](../requirements/user-permissions-requirements.md) article.
 
 Once connected additional environments can be added by using the Connect button. Connecting to the same environment is also supported when wishing to add additional connected objects. Just select the name of the tenant or On-Premises web application from the Connect button dropdown.
 

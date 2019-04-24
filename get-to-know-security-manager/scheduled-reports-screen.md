@@ -9,9 +9,9 @@ date: 11/02/2019
 
 # Scheduled Reports Screen
 
-This screen shows all scheduled **Reports Sets** that you created. Data that is shown for each report set is: name, destination, last run time, frequency and scheduling date.
+This screen shows all scheduled **Reports Sets** that you created. Data that is shown for each report set is the name, destination, last run time, frequency and scheduling date.
 
-Column **Last Run Time** shows when was the Report set last sent, column **Frequency** shows how often will report be sent and column **Scheduling date** shows exact date and time it will be sent.
+Column **Last Run Time** shows when was the Report set last sent, column **Frequency** shows how often will report be sent and column **Scheduling date** shows the exact date and time it will be sent.
 
 Available actions on Scheduled Report screen are:
 

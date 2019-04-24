@@ -8,7 +8,7 @@ date: 21/02/2019
 
 Scheduled Snapshots are a great way to refresh the data you have in your environment as you can [schedule snapshots](../get-to-know-security-manager/settings-screen.md) to be performed at any date and time you want. For instance, you can schedule a snapshot to be taken before you start working so you have your snapshot ready for use when you need it.
 
-Enabling snapshot schedule allows you to take automatic snapshots at the desired time and frequency, but to use this functionality to its fullest potential some requirements has to be met:
+Enabling snapshot schedule allows you to take automatic snapshots at the desired time and frequency, but to use this functionality to its fullest potential some requirements have to be met:
 
 1. Default type installation
    * SysKit Security Manager needs to be running. 
