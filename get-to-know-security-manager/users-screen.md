@@ -9,7 +9,7 @@ date: 19/04/2019
 
 To start exploring features and reports, navigate to Users > Single User and select snapshot, your tenant and user.
 
-Available management actions for Single User report are contextually related to the selected objects, which means user can **select one or multiple report rows and available actions will appear on the top of the grid**. Available actions are related to the user selected in the user filter, on top of the page.
+Available management actions for Single User report are contextually related to the selected objects, which means the user can **select one or multiple report rows and available actions will appear on the top of the grid**. Available actions are related to the user selected in the user filter, on top of the page.
 
 
 ## All Users report
@@ -25,9 +25,11 @@ On Sites tab of the Single Users report, you will find a list of all the sites w
 
 __Contextual actions:__ 
 * **Copy Permissions** - Copy permissions and group memberships of the currently selected user to a different one on the selected site collection(s).
-Before performing an action, user has two checkbox options available:
+Before performing an action, a user has two checkbox options available:
     * Copy Site Administrator role - if the source principal is the site collection administrator of the selected site(s), the target user will be added as the site administrator as well. 
     * Keep existing destination principal(s) permissions and group membership - destination principal(s) will acquire all permissions and group membership(s) from the source principal. 
+
+    Please note that the following will not be copied: sharing links, OneDrive access, and Security Groups membership.
 
 
 * **Remove User** - Remove the selected user from the selected site collection(s).
