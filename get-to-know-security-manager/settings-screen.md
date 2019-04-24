@@ -108,8 +108,15 @@ If you want to check and edit which activities are going to be collected, click 
 
 With this option, you can allow Syskit Security Manager to automatically delete an old data from its storage. You can allow the application to remove snapshots or audit logs that are older than a certain number of days, weeks or months. 
 
-If you enabled removal of old snapshots, Syskit Security Manager will delete every snapshot from the database that is older than a specified date.
+Data retention job will occur every day at 4:00 AM.
 
-If it's the case of deleting old audit logs, the application will delete required folders in **audit log index**, and also csv files and records from the database.
+If you enabled data retention for snapshots, Syskit Security Manager will delete every snapshot from the database that is older than a specified date.
 
-For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager will stop collecting data if disk usage reaches a critical limit above 95%.
+If it's the case of deleting old audit logs, the **audit collector job** will delete required folders in **audit log index**; while **audit data retention job** will delete CSV files and BLOBs from the database.
+
+For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager notices a certain amount of disk usage.
+
+A warning email will be sent in the situation when disk usage for the index is over 85%.
+
+You will also be alerted via email when Syskit Security Manager stops collecting data if disk usage reaches a critical limit above 95%.
+
