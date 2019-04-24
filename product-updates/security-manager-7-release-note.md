@@ -9,7 +9,7 @@ description: >-
 
 # SysKit Security Manager 7.0.0
 
-This major upgrade of SysKit Security Manager brings you bulk actions and __Audit__
+This major upgrade of SysKit Security Manager brings you __bulk actions and Audit.__ Now, it is easier than ever to remove (or grant) access to as many users as you wish, and at the same time, the audit feature keeps track of everything that is done in the Tenant. There is no more sneaky access granting and hoping no one will notice! 
 
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
