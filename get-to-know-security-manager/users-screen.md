@@ -42,7 +42,7 @@ On Sites tab of the Single Users report, you will find a list of all the sites w
 Please note!
 
 * The following will not be copied: sharing links, OneDrive access, and Security Groups membership.
-* In order to successfully grant or remove access from a certain site collection, the user running the application needs to be a site collection administrator.
+* In order to successfully manage permissions on a certain site collection, the user running the application needs to be a site collection administrator.
 {% endhint %}
 
 he following will not be copied: sharing links, OneDrive access, and Security Groups membership.
