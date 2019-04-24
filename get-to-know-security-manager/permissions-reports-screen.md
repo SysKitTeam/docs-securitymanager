@@ -27,7 +27,7 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 
 * **Permission Level Usage** – Displays all the site collections where the selected permission level exists and if it is being used \(assigned to any principal\).
 * **Unique Permissions** – Shows SharePoint objects \(sites, lists, items\) with unique permissions, e.g. objects with broken permission inheritance.
-* **Access Requests** - Lists  all access requests across your subsites. 
+* **Access Requests** - Lists all access requests across your subsites. 
 
 ## User Reports
 
@@ -38,12 +38,12 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Multi-Factor Authentication for Admins** – This report shows which site collection admins have multi-factor authentication enabled. It is recommended that all users with privileged access have Multi-Factor Authentication enabled. [Possible MFA states are](https://social.msdn.microsoft.com/Forums/azure/en-US/46d1e71e-f98a-4e97-94f8-11621c3385d8/mfa-status-enabled-enforced?forum=windowsazureactiveauthentication):
   * **Disabled** - This is the default state for a new user not enrolled in multi-factor authentication.
   * **Enabled** - The user has been enrolled in multi-factor authentication, but has not completed the registration process. They will be prompted to complete the process the next time they sign in.
-  * **Enforced** - The user may or may not have completed registration. If they have completed the registration process then they are using multi-factor authentication. Otherwise, the user will be prompted to completer the process at next sign-in. In non-browser apps \(such as Outlook etc.\) will not work until app passwords are created and entered into the non-browser apps.
+  * **Enforced** - The user may or may not have completed registration. If they have completed the registration process then they are using multi-factor authentication. Otherwise, the user will be prompted to complete the process at next sign-in. In non-browser apps \(such as Outlook etc.\) will not work until app passwords are created and entered into the non-browser apps.
 
     In order to use this report the following prerequisites need to be satisfied:
 
-  * Powershell version 3.0. or newer
-  * Latest MSOnline powershell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
+  * PowerShell version 3.0. or newer
+  * Latest MSOnline PowerShell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
 
 ## Group Reports
 
@@ -85,7 +85,7 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Groups Without Users** – Lists all SharePoint groups without any members. Supports live and snapshot data.
 * **Orphaned Users** – Lists all tenant users that still have access to the tenant and are listed as site collection users, but have been disabled or deleted in Active Directory. Supports live and snapshot data.
 * **Users Without Permissions** – Lists all users that no longer have any permissions assigned, neither directly nor through any SharePoint groups. This also includes users with ”Limited Access” that have remained after their permissions on a specific item in the site collection were removed.
-* **Site Collections With Disabled Adminis** – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory. Supports live and snapshot data.
+* **Site Collections With Disabled Admins** – Crawls the selected site collections and lists those in which the primary or secondary administrator was disabled or deleted from Active Directory. Supports live and snapshot data.
 * **Customized Default Permission Levels** – A list of default permission levels that are modified on specific site collections. Supports live and snapshot data.
 * **Identical SP Groups** – SharePoint groups with identical users. Supports live and snapshot data.
 
@@ -94,15 +94,18 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Directly Assigned Permissions** – Shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
 * **Lists with Uniquely Secured Items** – Shows lists and libraries that contain list items with broken permissions inheritance.
 * **Uniquely Secured List Items** – Shows all list items with broken permissions inheritance.
+* **Large Lists** – Shows any lists and libraries that have more than 4000 items.
 
 ## Office 365 Groups Reports
 
-**Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
+* **Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
+* **Orphaned Office 365 Groups** – Shows all Office 365 Groups that don't have any active owners.
 
 ## Microsoft Teams Reports
 
 * **Team Level Settings** – Shows Microsoft Teams settings by Team. Team settings are showed for all Microsoft Teams on a selected tenant.
 * **Teams With Guests** – Shows all Microsoft Teams that have guests or external users as owners or members.
+* **Orphaned Teams** – Shows all Microsoft Teams that don't have any active owners.
 
 ## OneDrive Reports
 

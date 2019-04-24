@@ -13,7 +13,7 @@ date: 09/04/2018
 
 To achieve its functionality, SysKit Security Manager is registered as an Azure Active Directory Application. Azure Active Directory Applications can use other resources from Azure. To use these resources the user running the application must consent to the permissions that the application requires.
 
-When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown. But, when the same action is performed with a non admin user the action will fail unless administrative consent has been given to the application on the organization level. This is because the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
+When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown. But, when the same action is performed with a non-admin user the action will fail unless administrative consent has been given to the application on the organization level. This is because of the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
 
 ## What permissions does SysKit Security Manager require?
 
