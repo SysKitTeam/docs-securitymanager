@@ -67,3 +67,7 @@ The **Items with Unique Permissions** lists all the objects with broken inherita
 
 Use **Anonymous Access Links** tab to find out which documents or folders are shared to anonymous users with anonymous guest link and check link types and expiration dates.
 
+## Audit
+
+The **Audit tab** is available on all content levels, giving you the possibility to view, filter and export wanted audit logs. On a tenant level, you can view the most important high-level activities, such as **Crated Site Collection** or **Added site collection admin**. Lover levels give you the option to easily filter **Analytics, Configuration** and **Security** activities and the option to **show/hide child activities**.
+
