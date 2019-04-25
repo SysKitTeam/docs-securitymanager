@@ -14,7 +14,7 @@ This major upgrade of SysKit Security Manager brings you **bulk actions and Audi
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 **Product version:** 7.0.0  
-**Build number:** ????  
+**Build number:** 1799  
 **Release date:** April 25, 2019
 
 ### Features
@@ -31,14 +31,8 @@ This major upgrade of SysKit Security Manager brings you **bulk actions and Audi
   * Copy Memberships – Which will copy Office 365 Group Memberships of the currently selected user to a destination user\(s\). 
   * Remove User – Remove the currently selected user from the Office 365 Groups & Teams. 
 
-* **Audit** - The **new Audit Logs Overview report** lists **all activities** in your Office 365 environment related to Azure Active Directory, SharePoint, Microsoft Teams, Office 365 Groups and OneDrive. Use the advanced search capabilities to quickly find specific activities, **export the report to an excel file** with added sort and filter options, or **add the report to a schedule** and get it **automatically delivered via email.**
-* The **new Audit tabs** available throughout the application give you a **custom view of activities related to the current context.** For example, if you are currently looking into a specific Single Team, the available Audit tab will only display activities performed in the selected Team - e.g. Team Created, Added members to the team, etc. **Audit tabs are available on all objects in SysKit Security Manager** - SharePoint objects, Office 365 Groups, Microsoft Teams, OneDrive, and Users.
-
-  To find out how to start collecting audit logs with SysKit Security Manager, follow this link.
-
-  For a better understanding of Microsoft's audit logs, please read our Audit blog post.
-
-* **Data Retention** - Free up your disk and database space by enabling **data retention for Snapshots and Audit Logs.** Once you define how long you want to keep your data,SysKit Security Manager will take care of the rest and remove old data **automatically.** To make sure you collect all of your audit logs, SysKit Security Manager monitors the disk usage and sends you an **email alert, once the disk gets close to being full.** For more information about all data retention settings, navigate to this article.
+* **Audit** - The **new Audit Logs Overview report** lists **all activities** in your Office 365 environment related to Azure Active Directory, SharePoint, Microsoft Teams, Office 365 Groups and OneDrive. Use the advanced search capabilities to quickly find specific activities, **export the report to an excel file** with added sort and filter options, or **add the report to a schedule** and get it **automatically delivered via email.** The **new Audit tabs** available throughout the application give you a **custom view of activities related to the current context.** For example, if you are currently looking into a specific Single Team, the available Audit tab will only display activities performed in the selected Team - e.g. Team Created, Added members to the team, etc. **Audit tabs are available on all objects in SysKit Security Manager** - SharePoint objects, Office 365 Groups, Microsoft Teams, OneDrive, and Users. To find out how to start collecting audit logs with SysKit Security Manager, follow [this link](../how-to/connect-to-office-365.md#audit-logs).
+* **Data Retention** - Free up your disk and database space by enabling **data retention for Snapshots and Audit Logs.** Once you define how long you want to keep your data,SysKit Security Manager will take care of the rest and remove old data **automatically.** To make sure you collect all of your audit logs, SysKit Security Manager monitors the disk usage and sends you an **email alert, once the disk gets close to being full.** For more information about all data retention settings, navigate to [this article](../get-to-know-security-manager/settings-screen.md#data-retention-policy).
 
 ### Improvements
 

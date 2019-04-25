@@ -94,3 +94,4 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Directly Assigned Permissions** – Shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
 * **Lists with Uniquely Secured Items** – Shows lists and libraries that contain list items with broken permissions inheritance.
 * **Uniquely Secured List Items** – Shows all list items with broken permissions inheritance.
+
