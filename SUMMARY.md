@@ -45,5 +45,6 @@
   * [Take Scheduled Snapshots](how-to/scheduled-snapshots.md)
   * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
   * [Use Filters, Drill and Column Chooser](how-to/use-filters-drill-and-column-chooser.md)
+  * [Move LocalDB database to new SQL server](how-to/move-localdb-to-new-server.md)
 * [FAQ](faq.md)
 
