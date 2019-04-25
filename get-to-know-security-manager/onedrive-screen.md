@@ -50,7 +50,7 @@ On the Single User's OneDrive report, you will find a list of all the items in s
 
 The **Audit** tab on the Single User’s OneDrive report will show you recent activity for the selected OneDrive. The report will show you all the details such as, **file accesses**, **edits** and **modifications**, **sharing activities** \(both external and internal\) for documents or folders in the selected date range.  
 Here you can check whether a user has shared files with external users and all the important details like when, with whom, and which file was shared.  
-If your users are having issues with the OneDrive sync client, here you can easily check if there has been a successful upload or download of any changes to files within the selected date range.
+If your users are having issues with the OneDrive sync client, here you can easily check if there has been a **successful upload** or **download** of any changes to files within the selected date range.
 
 Audited activities include:
 

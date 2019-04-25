@@ -33,8 +33,9 @@ General overview of connected Office 365 Groups. The report will show you the di
 
 ### Audit tab
 
-The **Audit** tab on the All groups report will show you events related to 
-the **Office 365 group creation**, **updates**, **deletion** and **security changes** which can pose a security issue. This includes membership change actions such as, **group member added**, **group member removed**, the same applies for **modifying the owner** of a Group.
+The **Audit** tab on the All Groups report will show you recent events related to the Office 365 groups in your environment.  
+Most organizations want the self-service group creation enabled for certain pool of users, because it makes collaboration process flexible and efficient. Maintain your Office 365 manageable and monitor __creation, updates__ and __deletion__ of the Office 365 groups.   
+Easily identify **security changes** which can pose a security issue, this includes membership change actions such as, **group member added**, **group member removed**, the same applies for **modifying the owner** of a Group.
 
 ## Single group
 
@@ -50,7 +51,7 @@ A detailed overview of a single Office 365 group. The report will show you the u
 
 The **Audit** tab on the Single Group report will show you recent activity for the selected Group. Here you can explore all analytics, security and configuration events which happened.  
 Most organizations want the self-service group creation enabled for certain pool of users, because it makes collaboration process flexible and efficient.
-Maintain your Office 365 manageable and monitor __creation, updates__ and __deletion__ of the Office 365 groups. 
+Maintain your Office 365 manageable and check when a specific group was  **created** or **updated**.
 Keep track of all the recent activities and actions performed by the users. Check if sensitive content has been shared outside the organization, when and by whom.
 
 Audited activities include:
