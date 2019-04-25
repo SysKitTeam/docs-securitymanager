@@ -96,11 +96,11 @@ By default, the report is scheduled on 8 AM, weekly, recurring on Monday. Howeve
 
 ### **Audit Logs**
 
-By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization. 
+By enabling the collection of Office 365 audit logs, you can find out about the activities of admins and users within your organization.
 
 {% hint style="warning" %}
 **Please note!**  
-By enabling Audit Logs in Settings, you enable the collection of Office 365 audit logs for **all connected tenants**.   
+By enabling Audit Logs in Settings, you enable the collection of Office 365 audit logs for **all connected tenants**.  
 In case you want to **enable the audit log collection for a specific tenant only**, enable the Audit Logs option in the Connect Wizard.
 {% endhint %}
 
@@ -122,7 +122,7 @@ If you enable data retention for **Snapshots**, Syskit Security Manager will del
 
 In case you enable the **Audit Logs** data retention option, audit logs folders **older than a specified date will be deleted**.
 
-For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager notices a certain percentage of disk usage. **A** **warning email will be sent** in case the disk usage is over 85%.   
-  
+For audit logs, you must enter your email address in order to be alerted when Syskit Security Manager notices a certain percentage of disk usage. **A** **warning email will be sent** in case the disk usage is over 85%.
+
 You will also **be alerted via email when Syskit Security Manager stops collecting data** if the disk usage reaches a critical limit of 95%.
 

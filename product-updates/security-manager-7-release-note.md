@@ -55,5 +55,3 @@ This major upgrade of SysKit Security Manager brings you **bulk actions and Audi
 * When inputting credentials, that is, the login name, we fixed a bug where the pointer would freely jump to the end. 
 * **We fixed a bug when using the SQL Authentication to connect to the database.**
 
-  **Improvements**
-
