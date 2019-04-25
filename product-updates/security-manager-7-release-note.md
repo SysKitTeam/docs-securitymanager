@@ -19,7 +19,8 @@ This major upgrade of SysKit Security Manager brings you **bulk actions and Audi
 
 ### Features
 
-* **Bulk actions** – The live permission explorer reports now support multiselect. What does that mean? Depending on the selected object/user certain actions are possible. E.g. You can now select as many users as you want and remove their permissions on a Site. Available actions are located on the action bar. For more information on all the available actions please see this article.  
+* **Bulk actions** – The live permission explorer reports now support multiselect. What does that mean? Depending on the selected object/user certain actions are possible. E.g. You can now select as many users as you want and remove their permissions on a Site. Available actions are located on the action bar. For more information on all the available actions please see [this article](../get-to-know-security-manager/site-collections-screen.md#available-actions)
+
 * **Users section** – Version 7 of SSM is now more than ever, focused on the user. We implemented a new Single User report. There are two main tabs which will be of interest:  
   **1. Sites** – Here you can find actions:
 
