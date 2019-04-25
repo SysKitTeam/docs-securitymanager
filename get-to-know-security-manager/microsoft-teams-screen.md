@@ -73,4 +73,3 @@ Audited activities include:
 * **Team Level Settings** – Shows Microsoft Teams settings by Team. Team settings are showed for all Microsoft Teams on a selected tenant.
 * **Teams With Guests** – Shows all Microsoft Teams that have guests or external users as owners or members.
 * **Orphaned Teams** – Shows all Microsoft Teams that don't have any active owners.
-
