@@ -58,9 +58,9 @@ On this report, you can see a list of all the channels in one Team. We provide y
 
 ### Audit tab
 
-The **Audit** tab on the Single Team report will show you recent activity for the selected Team. Here you can explore all analytics, security and configuration events which happened.  
+The **Audit** tab on the Single Team report will show you recent activity for the selected Team. Here you can explore all analytics, security and configuration events that happened.  
 Most organizations want to change the **chat, bots, apps, connector, channel** and other default Teams settings, based on their needs and configuration.  
-Keep track of **configuration** and **policy changes** to see what’s changed and by whom.
+Keep track of **configuration** and **policy changes** to see what has changed and by whom.
 
 Audited activities include:
 

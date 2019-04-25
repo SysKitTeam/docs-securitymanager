@@ -49,7 +49,7 @@ A detailed overview of a single Office 365 group. The report will show you the u
 
 ### Audit tab
 
-The **Audit** tab on the Single Group report will show you recent activity for the selected Group. Here you can explore all analytics, security and configuration events which happened.  
+The **Audit** tab on the Single Group report will show you recent activity for the selected Group. Here you can explore all analytics, security and configuration events that happened.  
 Most organizations want the self-service group creation enabled for certain pool of users, because it makes collaboration process flexible and efficient. Maintain your Office 365 manageable and check when a specific group was **created** or **updated**. Keep track of all the recent activities and actions performed by the users. Check if sensitive content has been shared outside the organization, when and by whom.
 
 Audited activities include:

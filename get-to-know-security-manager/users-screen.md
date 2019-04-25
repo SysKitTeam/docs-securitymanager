@@ -54,7 +54,7 @@ On this report, you will find a list of Office 365 Groups & Teams where the sele
 
 ### Audit tab
 
-The **Audit** tab on the Single User report will show you all activities and actions performed by a particular user. This can be useful if you want to track the behavior of your external users, e.g. track their every click and what they’ve looked and modified.  
+The **Audit** tab on the Single User report will show you all activities and actions performed by a particular user. This can be useful if you want to track the behavior of your external users, e.g. track their every click and what they have looked and modified.  
 Here you can easily track Azure AD user administration activities such as, **user license changes** and other configuration settings related to **managing passwords**, **logins**, **devices**, etc.
 
 Audited activities include:
