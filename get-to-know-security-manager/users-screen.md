@@ -20,7 +20,7 @@ A list of all users on the tenant. On this report, you can see a list of users, 
 ### Audit tab
 
 The **Audit** tab on the All Users report will show you recent configuration activities related to **adding, updating** or **deleting** users, which are performed by the global administrators.  
-Here you can easily track user administration activities such as, **user license changes** and other configuration settings related to **managing passwords**, **logins**, **devices**, etc. 
+Here you can easily track user administration activities such as, **user license changes** and other configuration settings related to **managing passwords**, **logins**, **devices**, etc.
 
 ## Single User
 
@@ -38,11 +38,11 @@ On Sites tab of the Single Users report, you will find a list of all the sites w
 * **Remove User** - Remove the selected user from the selected site collection\(s\).
 
 {% hint style="warning" %}
+
 Please note!
 
 * The following will not be copied: sharing links, OneDrive access, and Security Groups membership.
 * In order to successfully manage permissions on a certain site collection, the user running the application needs to be a site collection administrator.
-{% endhint %}
 
 he following will not be copied: sharing links, OneDrive access, and Security Groups membership.
 
@@ -67,3 +67,4 @@ Audited activities include:
 * Site collection created, Office 365 group created, Team created …
 * Membership changes related to Sites, Office 365 groups, Teams …
 * Administrative changes performed on the Office 365 tenant …
+
