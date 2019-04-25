@@ -66,3 +66,17 @@ Audited activities include:
 * Membership changes related to Sites, Office 365 groups, Teams …
 * Administrative changes performed on the Office 365 tenant …
 
+## User Reports
+
+* **User Permissions Overview** – A summary of principals' permissions on the tenant. Shows site collections in which users have permissions, permissions that the users have as an individual, and the permissions that were given through a group. 
+* **User Permissions Details** – Shows all permissions on all subsites inside a selected site collection for a specific user. The report shows permissions that a certain user has on each item within the particular site collection, along with the permissions that were given through a group. This report can show every object in your environment to which a specified user or users have access to. This includes all SharePoint objects, Groups and Teams objects and OneDrive files.  
+* **Users with Privileged Access** – Shows all users with privileged access on the tenant or farm, such as farm and site administrators, or primary and secondary administrators, Users with Full Control / Full Read Web Application Policy, etc. Supports live and snapshot data.
+* **Multi-Factor Authentication for Admins** – This report shows which site collection admins have multi-factor authentication enabled. It is recommended that all users with privileged access have Multi-Factor Authentication enabled. [Possible MFA states are](https://social.msdn.microsoft.com/Forums/azure/en-US/46d1e71e-f98a-4e97-94f8-11621c3385d8/mfa-status-enabled-enforced?forum=windowsazureactiveauthentication):
+  * **Disabled** - This is the default state for a new user not enrolled in multi-factor authentication.
+  * **Enabled** - The user has been enrolled in multi-factor authentication, but has not completed the registration process. They will be prompted to complete the process the next time they sign in.
+  * **Enforced** - The user may or may not have completed registration. If they have completed the registration process then they are using multi-factor authentication. Otherwise, the user will be prompted to complete the process at next sign-in. In non-browser apps \(such as Outlook etc.\) will not work until app passwords are created and entered into the non-browser apps.
+
+    In order to use this report the following prerequisites need to be satisfied:
+
+  * PowerShell version 3.0. or newer
+  * Latest MSOnline PowerShell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
