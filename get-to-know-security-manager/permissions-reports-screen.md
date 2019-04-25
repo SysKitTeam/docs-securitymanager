@@ -94,4 +94,14 @@ For detailed instructions on how to use Drill functionality and Filters, [see th
 * **Directly Assigned Permissions** – Shows users who have directly assigned permissions to securable objects within the selected site collections. Avoid granting permissions directly to individuals and work with groups instead.
 * **Lists with Uniquely Secured Items** – Shows lists and libraries that contain list items with broken permissions inheritance.
 * **Uniquely Secured List Items** – Shows all list items with broken permissions inheritance.
+<<<<<<< HEAD
 * **Large Lists** – Shows any lists and libraries that have more than 4000 items.
+=======
+* **Large Lists** – Shows any lists and libraries that have more than 4000 items.
+
+## Office 365 Groups Reports
+
+* **Office 365 Groups With Guests** – Shows all Office 365 Groups that have guests or external users as owners or members.
+* **Orphaned Office 365 Groups** – Shows all Office 365 Groups that don't have any active owners.
+
+>>>>>>> 02344f7d12acba0c9cce4a9d95ed71e79562fd5f

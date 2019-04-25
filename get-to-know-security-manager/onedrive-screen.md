@@ -30,9 +30,10 @@ The **Audit** tab on the OneDrive Overview report will show you events related t
 Here you can easily identify if there are any **synchronization issues** between the computers in your organization's domain and OneDrive for Business and get information on whether a user has successfully established a sync relationship with a site.
 
 Audited activities include:
-+ Site collection created, deleted
-+ Added site collection admin, removed
-+ Allowed computer to sync files, blocked 
+
+* Site collection created, deleted
+* Added site collection admin, removed
+* Allowed computer to sync files, blocked 
 
 ## Single User's OneDrive
 
@@ -62,3 +63,4 @@ Audited activities include:
 * **Orphaned OneDrive** – Shows a list of OneDrive accounts whose owner is disabled or deleted from the Azure Active Directory. Supports live and snapshot data.
 * **OneDrive With Guests** – Shows personal OneDrive accounts that have guests or external users with existing permissions.
 * **OneDrive Shared Items** – Shows OneDrive items that have been shared. Report can show shared items across multiple OneDrive storages at the same time. For detailed information about permissions on specific shared files this report has built-in drill functionality to Permissions Matrix report.
+
