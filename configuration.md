@@ -13,8 +13,7 @@ Follow these steps to successfully configure the application:
 
 1. On the **Welcome** wizard page choose the preferred **setup type**.
 
-   {% hint style="info" %}
-With the **Default** installation type no additional configuration is required and it's suitable for most users. If you want to take scheduled snapshots and reports while the application is not running you should choose the **Advanced** type of installation which requires a dedicated SQL Server database and a service account.
+   {% hint style="info" %} With the **Default** installation type no additional configuration is required and it's suitable for most users. If you want to take scheduled snapshots and reports while the application is not running you should choose the **Advanced** type of installation which requires a dedicated SQL Server database and a service account.
 {% endhint %}
 
    **Default Installation**
