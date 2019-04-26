@@ -14,16 +14,17 @@ Follow these steps to successfully configure the application:
 {% hint style="info" %} With the **Default** installation type no additional configuration is required and it's suitable for most users. If you want to take scheduled snapshots and reports while the application is not running you should choose the **Advanced** type of installation which requires a dedicated SQL Server database and a service account.
 {% endhint %}
 
-1. On the **Welcome** wizard page choose the preferred **setup type**.
+1. On the **Welcome** wizard page choose the preferred **setup type**:
 
-   **Default Installation**
+  + **Default Installation**
 
-   The default installation mode is suitable for most users. Use this option to quickly connect to and manage your site collections and use the basic features. No additional configuration is required.   
+    The default installation mode is suitable for most users. Use this option to quickly connect to and manage your site collections and use the basic features. No additional configuration is required.   
    On close, SysKit Security Manager will minimize to the system tray, so you can still use snapshot schedule and schedule reports features while the application is running. Also, you can choose to start SysKit Security Manager on Windows start. You can change this behavior in the[ settings](../get-to-know-security-manager/settings-screen.md#general-settings).
 
-   **Advanced Installation**
+   
+  + **Advanced Installation**
 
-   The advanced installation mode is recommended for advanced users. Use this option if you want to collect Office 365 audit logs, take automatic snapshots and receive subscriptions. It will install the **SysKit Security Manager Service** which allows performing background operations and data collection while the application is not running. Requires a **dedicated SQL Server database** and a [Service Account](../requirements/user-permissions-requirements.md#service-account-permissions).
+    The advanced installation mode is recommended for advanced users. Use this option if you want to collect Office 365 audit logs, take automatic snapshots and receive subscriptions. It will install the **SysKit Security Manager Service** which allows performing background operations and data collection while the application is not running. Requires a **dedicated SQL Server database** and a [Service Account](../requirements/user-permissions-requirements.md#service-account-permissions).
 
 2. On the **Database** wizard page select whether to create a new database or use the existing one. If this is your first time setting up the application choose the **Create new database**. 
 3. On the **Database Configuration** wizard page specify the **SQL Server**, **Database Name** and authentication. It is possible to overwrite the existing database under the same name.
