@@ -18,10 +18,9 @@ Follow these steps to successfully configure the application:
 
   + **Default Installation**
 
-    The default installation mode is suitable for most users. Use this option to quickly connect to and manage your site collections and use the basic features. No additional configuration is required.   
-   On close, SysKit Security Manager will minimize to the system tray, so you can still use snapshot schedule and schedule reports features while the application is running. Also, you can choose to start SysKit Security Manager on Windows start. You can change this behavior in the[ settings](../get-to-know-security-manager/settings-screen.md#general-settings).
+    The default installation mode is suitable for most users. Use this option to quickly connect to and manage your site collections and use the basic features. No additional configuration is required.    
+    On close, SysKit Security Manager will minimize to the system tray, so you can still use snapshot schedule and schedule reports features while the application is running. Also, you can choose to start SysKit Security Manager on Windows start. You can change this behavior in the[ settings](../get-to-know-security-manager/settings-screen.md#general-settings).
 
-   
   + **Advanced Installation**
 
     The advanced installation mode is recommended for advanced users. Use this option if you want to collect Office 365 audit logs, take automatic snapshots and receive subscriptions. It will install the **SysKit Security Manager Service** which allows performing background operations and data collection while the application is not running. Requires a **dedicated SQL Server database** and a [Service Account](../requirements/user-permissions-requirements.md#service-account-permissions).
