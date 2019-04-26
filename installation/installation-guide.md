@@ -19,6 +19,7 @@ date: 14/03/2018
 6. The installation wizard will unpack your files and you will be able to run the application from: **Start** &gt; **All Programs** &gt; **SysKit Security Manager**. 
 
 **SysKit Security Manager Configuration Wizard** will automatically start when you start SysKit Security Manager for the first time. Alternatively, you can start it manually by running it from the installation folder. The default location is:   
-'C:\ProgramFiles\SysKit\Security Manager\Host\SysKit.SecurityManager.ConfigurationWizard.exe'.   
+'C:\ProgramFiles\SysKit\Security Manager\Host\SysKit.SecurityManager.ConfigurationWizard.exe'.
+
 Follow the steps [here ](../configuration.md)to successfully configure the application.
 

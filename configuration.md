@@ -7,22 +7,23 @@ description: >-
 # Configuration
 
 **SysKit Security Manager Configuration Wizard** will automatically start when you start SysKit Security Manager for the first time. Alternatively, you can start it manually by running it from the installation folder. The default location is:  
-'C:\ProgramFiles\SysKit\Security Manager\Host\SysKit.SecurityManager.ConfigurationWizard.exe'.   
+'C:\ProgramFiles\SysKit\Security Manager\Host\SysKit.SecurityManager.ConfigurationWizard.exe'.
+
 Follow these steps to successfully configure the application:
 
 1. On the **Welcome** wizard page choose the preferred **setup type**.
 
-{% hint style="info" %}
+   {% hint style="info" %}
 With the **Default** installation type no additional configuration is required and it's suitable for most users. If you want to take scheduled snapshots and reports while the application is not running you should choose the **Advanced** type of installation which requires a dedicated SQL Server database and a service account.
 {% endhint %}
 
-#### Default Installation
+   **Default Installation**
 
-Default installation mode, suitable for most users. No additional configuration is required. On close, SysKit Security Manager will minimize to the system tray, so you can still use snapshot schedule and schedule reports features while the application is running. Also, you can choose to start SysKit Security Manager on Windows start. You can change this behavior in the[ settings](../get-to-know-security-manager/settings-screen.md#general-settings).
+   Default installation mode, suitable for most users. No additional configuration is required. On close, SysKit Security Manager will minimize to the system tray, so you can still use snapshot schedule and schedule reports features while the application is running. Also, you can choose to start SysKit Security Manager on Windows start. You can change this behavior in the[ settings](../get-to-know-security-manager/settings-screen.md#general-settings).
 
-#### Advanced Installation
+   **Advanced Installation**
 
-This is the advanced installation mode, recommended for advanced users. Installs the **SysKit Security Manager Service** which allows you to take scheduled snapshots while the application is not running. Requires a **dedicated SQL Server database** and a [Service Account](../requirements/user-permissions-requirements.md#service-account-permissions).
+   This is the advanced installation mode, recommended for advanced users. Installs the **SysKit Security Manager Service** which allows you to take scheduled snapshots while the application is not running. Requires a **dedicated SQL Server database** and a [Service Account](../requirements/user-permissions-requirements.md#service-account-permissions).
 
 2. On the **Database** wizard page select whether to create a new database or use the existing one. If this is your first time setting up the application choose the **Create new database**. 
 3. On the **Database Configuration** wizard page specify the **SQL Server**, **Database Name** and authentication. It is possible to overwrite the existing database under the same name.
