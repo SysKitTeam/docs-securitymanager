@@ -21,3 +21,8 @@ date: 14/03/2018
 * 1366x768 or higher resolution video card
 * 150MB of available hard disk space
 
+## Database System
+
+In order to run the SysKit Security Manager, you need a database. The SysKit Security Manager supports **SQL Server databases only**. You can use the following **SQL Server** versions: **SQL Server 2012 – 2017**, all editions. We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application. If you are moving your existing LocalDB database to a new SQL server, please follow the instructions in [this article](../how-to/move-localdb-to-new-server.md).
+
+If you **do not have an SQL Server instance** installed in your environment, the SysKit Security Manager will install the **SQL Server Express 2012 LocalDB** \(free license\) which you can select to use.
