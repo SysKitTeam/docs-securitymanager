@@ -79,3 +79,4 @@ Audited activities include:
 
   * PowerShell version 3.0. or newer
   * Latest MSOnline PowerShell module installed - can be installed by running the following powershell commandlet: Install-Module MSOnline
+
