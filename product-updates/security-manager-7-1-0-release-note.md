@@ -28,10 +28,10 @@ Try the latest version and [tell us what you think.](https://www.syskit.com/comp
 ## Bug Fixes
 
 * There was a problem with report filters being reset to a default setting once a new snapshot was started. Now, starting a new snapshot will not interfere with the filter settings of the currently generated report.  
-* Resolved an issue where the following error was thrown: “Execution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding. The backup or restore was aborted.”. This happened when upgrading SysKit Security Manager to a newer version.  
-* Fixed an issue where the following error would appear when trying to generate an Audit report for a Single Team: "System.Exception: Unknown team page url.".  
-* Resolved issues when taking a snapshot for SharePoint 2010, which resulted in the following error: “Microsoft.SharePoint.Client.ServerException: Field or property "WebTemplate" does not exist.”.   
-* Resolved an issue which happened while loading permissions from a subsite, in the case when a SharePoint group was missing an owner. The following exception was thrown: “System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK\_LoadedGroupSettings\_OwnerPrincipals”.  
+* Resolved an issue where the following error was thrown: `Execution Timeout Expired. The timeout period elapsed prior to completion of the operation or the server is not responding. The backup or restore was aborted.`This happened when upgrading SysKit Security Manager to a newer version.  
+* Fixed an issue where the following error would appear when trying to generate an Audit report for a Single Team: `System.Exception: Unknown team page url.`  
+* Resolved issues when taking a snapshot for SharePoint 2010, which resulted in the following error: `Microsoft.SharePoint.Client.ServerException: Field or property "WebTemplate" does not exist.`   
+* Resolved an issue which happened while loading permissions from a subsite, in the case when a SharePoint group was missing an owner. The following exception was thrown: `System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_LoadedGroupSettings_OwnerPrincipals.`  
 * Fixed an issue with the default export location being erroneously set to the Audit Logs location, in the case when a custom Audit Logs location was set.  The export action now opens the user’s home folder, for example, C:\Users\John. 
 * Fixed an issue where a group was automatically preselected when running the Add Owner or Add Member actions, in the case when the Office 365 Group was previously selected on the Single Group report.  
 * Fixed a bug where the number of OneDrive sites was wrongly calculated and displayed in the Snapshot status bar in the case when the Discover & Load Everything option was selected.  
