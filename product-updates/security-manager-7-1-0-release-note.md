@@ -20,9 +20,9 @@ Try the latest version and [tell us what you think.](https://www.syskit.com/comp
 
 * We’ve **upgraded the Audit Log status bar**. You can see it in the lower right corner when SysKit Security Manager starts with the collection of Audit Log data. It gives you a detailed overview of how much data is currently being gathered from your tenant, from which workload, and how much data has been processed so far.  
 * We’ve added two new status bar tabs: the **Audit Log Data Retention tab and Snapshot Data Retention tab**. They help you track the progress of Data Retention jobs being executed and the old audit log and snapshot data being deleted. You will notice them in the lower right corner when SysKit Security Manager runs the data retention jobs.  
-* Added more understandable guidelines on how to turn on and use Audit Logs reporting in SysKit Security Manager. You will find more information when you go through the Connect Wizard as well as in the Settings page. Please keep in mind that Audit Logs reporting is supported for Office 365 environments only.  
+* Added more understandable **guidelines on how to turn on and use Audit Logs** reporting in SysKit Security Manager. You will find more information when you go through the Connect Wizard as well as in the Settings page. Please keep in mind that Audit Logs reporting is supported for Office 365 environments only.  
 * **Email alerts** that are sent by SysKit Security Manager when the disk is running out of space have received some **styling improvements**.  
-* Improved the Activities filter look and feel on the Audit Logs Overview report.  
+* Improved the **Activities filter** look and feel on the Audit Logs Overview report.  
 * Various UX/UI, objects naming and entry validation improvements. 
 
 ## Bug Fixes
