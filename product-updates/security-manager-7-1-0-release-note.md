@@ -6,15 +6,15 @@ description: >-
 
 # SysKit Security Manager 7.1.0
 
-This minor upgrade of SysKit Security Manager brings a variety of improvements in the Audit Log feature, a refreshed status bar, enhanced error handling, as well as numerous tweaks in the UX/UI. You'll also be happy to hear that we fixed some bugs. Read on for more information!  
+This minor upgrade of SysKit Security Manager brings a variety of improvements in the Audit Log feature, a refreshed status bar, enhanced error handling, as well as numerous tweaks in the UX/UI. You'll also be happy to hear that we fixed some bugs. Read on for more information!
 
-Try the latest version and [tell us what you think.](https://www.syskit.com/company/contact-us/) 
+Try the latest version and [tell us what you think.](https://www.syskit.com/company/contact-us/)
 
-[Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/) 
+[Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
-**Product version:** 7.1.0  ****  
+**Product version:** 7.1.0   
 **Build number:** 1884    
-**Release date:** May 24, 2019 ****
+**Release date:** May 24, 2019
 
 ## Improvements
 
