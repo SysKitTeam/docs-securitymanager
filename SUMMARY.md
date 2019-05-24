@@ -2,6 +2,7 @@
 
 * [SysKit Security Manager](README.md)
 * [Product Updates](product-updates/README.md)
+  * [SysKit Security Manager 7.1.0](product-updates/security-manager-7-1-0-release-note.md)
   * [SysKit Security Manager 7.0.0](product-updates/security-manager-7-release-note.md)
   * [SysKit Security Manager 6.0.1](product-updates/security-manager-6-0-1-release-note.md)
   * [SysKit Security Manager 6.0.0](product-updates/security-manager-6-release-note.md)
