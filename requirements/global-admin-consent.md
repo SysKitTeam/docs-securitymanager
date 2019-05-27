@@ -13,7 +13,7 @@ date: 09/04/2018
 
 To achieve its functionality, SysKit Security Manager is registered as an Azure Active Directory Application. Azure Active Directory Applications can use other resources from Azure. To use these resources the user running the application must consent to the permissions that the application requires.
 
-When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown. But, when the same action is performed with a non admin user the action will fail unless administrative consent has been given to the application on the organization level. This is because the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
+When a global administrator uses SysKit Security Manager he will go through the normal consent flow where a popup with the Microsoft consent page is shown. But, when the same action is performed with a non-admin user the action will fail unless administrative consent has been given to the application on the organization level. This is because of the permissions that SysKit Security Manager requires fall in the scope of delegated permissions that need global administrator consent.
 
 ## What permissions does SysKit Security Manager require?
 
@@ -29,14 +29,16 @@ SysKit Security Manager requires the following delegated permissions:
   * Required for managing SharePoint permissions and assigning site collection administrators
 * Read items in all site collections
   * Required to get the SharePoint site url of Office 365 Groups by using the Graph API
-* Access your data anytime
-  * Allows refresh token usage, prevents unwanted login prompts on application start
 * Read all usage reports
   * Required for reading OneDrive and Office 365 Groups activity
 * Access Azure Service Management as you
   * This is used to retrieve tenants associated with the account using SysKit Security Manager
+* Send mail as a user
+  * Required for sending scheduled reports
 
+{% hint style="warning" %}
 Granting delegated permissions to an application means that the application may act on behalf of a user. This means that the effective permissions that the user has are still limited by his own permissions. I.e. a user running SysKit Security Manager will not be able to add group owners if he does not have permissions to do so.
+{% endhint %}
 
 ## Additional Info
 

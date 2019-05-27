@@ -14,15 +14,16 @@ If you are a **Global Administrator** in an Office 365 tenant or a **Farm Admini
 
 ## Can I see OneDrive reports without making myself an administrator on user OneDrive accounts?
 
-If you are a Global Office 365 tenant administrator, you’ll have an option in the connection wizard to [connect to all OneDrive accounts.](how-to/connect-to-office-365.md#onedrive)
+If you are a Global Office 365 tenant administrator, you’ll have an option in the connection wizard to [connect to selected OneDrive accounts.](how-to/connect-to-office-365.md#onedrive)
 
-The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. 
+The only way we can access user data and create OneDrive reports is if admin is site collection administrator on user OneDrive accounts. Unfortunately, there is currently no other supported way by Microsoft to do so.
 
-{% hint style="info" %}
-Please note that these reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
+{% hint style="warning" %}
+**Please note!**  
+These reports are optional, and if you do not wish to explore them just skip the step in the Connection Wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
-At any time, you can disconnect all OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the [Disconnect OneDrive action](get-to-know-security-manager/onedrive-screen.md).
+At any time, you can remove administrator rights for all OneDrive accounts on the selected tenant using the [Remove Access action](get-to-know-security-manager/onedrive-screen.md). This action will remove permissions which were granted in the [connection wizard](how-to/connect-to-office-365.md#onedrive).
 
 ## Why am I seeing all the external users on my root site collection?
 
@@ -30,5 +31,11 @@ SysKit Security Manager shows all the external users that have accessed your sit
 
 ## Where does SysKit Security Manager store its data?
 
+### **When using the "default" installation package:**
+
 All of the SysKit Security Manager data is stored **per user** in the Application Data **%APPDATA%** directory. SysKit Security Manager uses **Microsoft SQL Server LocalDB** and stores the database files in the **%LOCALAPPDATA%\SysKit\Security Manager\Db** folder. To get a fresh start, you can delete the files in this folder. When started, SysKit Security Manager will then create the database files from scratch. You can also connect to this database by using the following instance name: **\SysKitSecurityManagerInstance**
+
+### **When using the "advanced" installation package:**
+
+Alongside the usual **%APPDATA%** directory, some settings concerning the Service are stored in the %**PROGRAMDATA**% directory. LocalDB is no longer used, and all the data we collect is stored in the classic **SQL database.** For more information on using the SQL database see [this article.](requirements/user-permissions-requirements.md#creating-a-new-database)
 

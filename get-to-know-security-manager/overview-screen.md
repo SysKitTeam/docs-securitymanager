@@ -1,7 +1,7 @@
 ---
 title: Overview Screen
 description: >-
-  In the Overview screen you can see at a glance if there are any potential
+  In the Overview screen, you can see at a glance if there are any potential 
   issues in your environment.
 author: Domagoj Hrestak
 date: 04/12/2018
@@ -20,7 +20,7 @@ The **Overview** screen is the starting screen of the SysKit Security Manager. I
 
 Environment health and potential issues are displayed via a health score tile based on the size of your environment. A low score means your environment is healthy and well-maintained.
 
-Activities which are considered detrimental to environment health are highlighted and are included in the final health score. Hovering over the score tile will highlight in blue all the values which are taken in consideration when calculating the final score.
+Activities which are considered detrimental to environment health are highlighted and are included in the final health score. Hovering over the score tile will highlight in blue all the values which are taken into consideration when calculating the final score.
 
 ## Analyze Results
 
@@ -28,7 +28,7 @@ Every collected metric will display a tooltip with more information when hovered
 
 ## Overview Tiles in Detail
 
-Here you can find a list of all the tile categories and what kind of information they represent. For detailed information about the reports they describe head over to the [**Security Reports**](permissions-reports-screen.md) section.
+Here you can find a list of all the tile categories and what kind of information they represent. For detailed information about the reports they describe head over to the [Security Reports](permissions-reports-screen.md) section.
 
 Underneath the score tile you can find a list of general environment information. When a tile value is displayed as a fraction, the first number represents how many objects of the described type are connected in the Security Manager and the second number is the total number of objects in your environment. This information is only present in the live overview.
 

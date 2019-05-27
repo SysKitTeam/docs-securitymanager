@@ -9,36 +9,63 @@ description: >-
 
 Choose **Office 365** \(Online\) to start the connection wizard:
 
-### Credentials
+## Credentials
 
 You’ll be redirected to the Microsoft login page and asked to **Sign in** to your account.
 
-### Site Collections
+## Site Collections
 
 If you are a **Global Office 365 Tenant Administrator**, all site collections from your tenant will be auto-discovered and you’ll be able to select site collections to which you want to add connections.
 
 If you are a **Site Collection Administrator**, you can connect to a site collection by **entering its URL** or you can **import a text file with the site collection URLs**, newline separated.  
 Then click the **Test Connection** button and **Next** to proceed.
 
-### Office 365 Groups and Teams
+## Office 365 Groups and Teams
 
 All Office 365 groups and teams from your tenant will be auto-discovered and you’ll be able to **select the Office 365 groups** you want to manage.
 
-### OneDrive
+## OneDrive
 
-If you are a Global Office 365 tenant administrator, you’ll have an option to **Connect to all OneDrive accounts**. The user running SysKit Security Manager will be granted site collection administrator privileges on all detected personal OneDrive accounts.
+From SysKit Security Manager version 6, if you are a Global Office 365 tenant administrator or a SharePoint administrator, you will get an option to **Connect to selected OneDrive accounts**.
 
-* Granting administrator rights to OneDrive in the connection wizard using the option Connect to all OneDrive accounts checks if the current user already has site collection administrator permissions through a SharePoint or a Security Group. When disconnecting OneDrive from Security Manager and choosing to remove all site collection administrator rights, only directly given permissions are removed
+The user running SysKit Security Manager will be granted site collection administrator rights on personal OneDrive accounts selected in the OneDrive step of the Connection Wizard.
 
-The only way we can access user data and create OneDrive reports is if admin is site collection administrator to user OneDrive accounts. Unfortunately , there is currently no other supported way by Microsoft to do so. 
+Security Manager keeps track of where you were granted rights so you can easily remove access later. Administrator rights you had before using SysKit Security Manager will not be changed.
 
-{% hint style="info" %}
-Please note that these reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
+Security Manager checks if the current user already has site collection administrator permissions through a SharePoint or a Security Group. When removing access from OneDrive in Security Manager, only directly given permissions are removed.
+
+The only way we can access user data and create OneDrive reports is if admin is granted site collection administrator rights to user OneDrive accounts. Unfortunately, there is currently no other supported way by Microsoft to do so.
+
+{% hint style="warning" %}
+**Please note!** These reports are optional, and if you do not wish to explore them just skip the step in the wizard. No permissions will be granted to you when it comes to OneDrive sites.
 {% endhint %}
 
-At any time, you can disconnect all OneDrive accounts and remove administrator rights for all OneDrive accounts on the selected tenant using the Disconnect OneDrive action.
+At any time, you can remove access from all connected OneDrive accounts which will also remove administrator rights for all connected OneDrive accounts on the selected tenant using the **Remove Access** action. This action will only remove owner permissions which were granted in the Connection Wizard. You can also remove access to OneDrive accounts one by one.
 
-### Summary
+## Audit Logs
+
+From SysKit Security Manager version 7, if you are a Global Office 365 tenant administrator, you have the option to **enable the collection of Office 365 audit logs**.
+
+When connecting to a new Office 365 tenant, **the audit logs collection will by default be enabled**.  
+You can disable it by changing the state of the Audit Logs toggle.
+
+Here, you can also **change the Audit Logs location**. This is the location where SysKit Security Manager will **store all collected Office 365 audit logs**, so **make sure you have enough disk space** when choosing this location.
+
+{% hint style="warning" %}
+**Please note!**
+
+**The SysKit Security Manager Service** needs to be up and running to collect Office 365 audit logs. To configure the Service, run the SysKit Security Manager's Configuration Wizard and select the **Advanced mode**.
+
+**Only the Global Office 365 tenant administrator** has the option to enable the collection of Office 365 audit logs.
+
+Audit logs collection is **not available for on-premises site collections.**
+{% endhint %}
+
+To collect Office 365 audit logs, SysKit Security Manager needs the **consent of a Global Office 365 tenant administrator**.
+
+Once the Audit Logs option is enabled, the **Audit Log Collector job** will poll every 15 minutes to discover new audit logs that are available for download. For the Audit Log Collector job to run, **the SysKit Security Manager Service is necessary**. Downloaded audit logs are processed and all needed information is saved to a defined storage location on disk.
+
+## Summary
 
 Here is an overview of all the site collections for Office 365 groups and teams and personal OneDrive accounts that will be added. You can always edit these from the main navigation.
 

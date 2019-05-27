@@ -20,6 +20,8 @@ You’ll be able to see the number of loaded SharePoint sites, Office 365 groups
 The following actions are available:
 
 * **Take Snapshot** – Take a manual snapshot of your environment.
+* **Snapshot Schedule** - Take a snapshot automatically, at the time you specified.
 * **Open Snapshot** – Open the currently selected snapshot.
+* **Snapshot Details** – Get detailed information about what was loaded in the selected snapshot.
 * **Delete Snapshot** – Delete the currently selected snapshot.
 
