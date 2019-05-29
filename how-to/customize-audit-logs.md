@@ -18,14 +18,12 @@ To see all available activities and manage which of them are collected by SysKit
 **Can't find an activity** in the audit reports? Chances are, it is not collected by default. Review your settings and turn on the collection of wanted activities.
 {% endhint %}
 
-Here, you can find a list of all audit log activities available in SysKit Security Manager, grouped by activity categories**.** You can select from **more than 200 activities** currently available, with **\*\*the list being** regularly updated\*\* with new activities. For each of the activities, you can find the following information:
+Here, you can find a list of all audit log activities available in SysKit Security Manager, grouped by activity categories**.** You can select from **more than 200 activities** currently available, with **the list being regularly updated** with new activities. For each of the activities, you can find the following information:
 
 * **Display Name** - activity name visible in SysKit Security Manager
 * **Original Name** - original activity name created by Microsoft visible in Audit logs search
 * **Description** - short description of every activity
 * **Collected** - column showing if the activity is collected by default 
-
-
 
 ## Sharing and access request activities
 
@@ -196,7 +194,7 @@ Here, you can find a list of all audit log activities available in SysKit Securi
 | Scheduled site geo move | SiteGeoMoveScheduled | A SharePoint or global administrator successfully scheduled a SharePoint or OneDrive site geo move. | ![](../.gitbook/assets/checked.png) |
 | Renamed site | SiteRenamed | Site administrator or owner renamed a site . | ![](../.gitbook/assets/checked.png) |
 
-### DeviceAccessPolicyChanged
+### Device Access Policy Changed
 
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
@@ -226,7 +224,7 @@ Here, you can find a list of all audit log activities available in SysKit Securi
 | User signed in to Teams | TeamsSessionStarted | A user signed in to a Microsoft Teams client. | ![](../.gitbook/assets/unchecked.png) |
 | Changed organization setting | TeamsTenantSettingChanged | A global admin changed organization-wide Microsoft Teams settings. | ![](../.gitbook/assets/checked.png) |
 
-### TeamsTenantSettingChanged
+### Teams Tenant Setting Changed
 
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
