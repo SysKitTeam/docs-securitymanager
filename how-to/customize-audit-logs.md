@@ -27,36 +27,270 @@ Here, you can find a list of all audit log activities available in SysKit Securi
 
 ## Sharing and access request activities
 
-| Display Name | Original Name | Description | Collected |
-| :--- | :--- | :--- | :---: |
-| Accepted access request | AccessRequestAccepted | An access request to a site, folder, or document was accepted and the requesting user has been granted access. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Approved access request | AccessRequestApproved | An access request to a site, folder, or document was approved. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Created access request | AccessRequestCreated | User requested access to a site, folder, or document they don't have permissions to access. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Denied access request | AccessRequestDenied | An access request to a site, folder, or document was denied. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Denied access request | AccessRequestRejected | An access request to a site, folder, or document was denied. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Updated access request | AccessRequestUpdated | An access request to an item was updated. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| User added to secure link | AddedToSecureLink | A user was added to the list of entities who can use a secure sharing link. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Created an anonymous link | AnonymousLinkCreated | A user created an anonymous link to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Removed an anonymous link | AnonymousLinkRemoved | User removed an anonymous link to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Updated an anonymous link | AnonymousLinkUpdated | User updated an anonymous link to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Used an anonymous link | AnonymousLinkUsed | An anonymous user accessed a resource by using an anonymous link. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Created a company shareable link | CompanyLinkCreated | User created a company-wide link to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Removed a company shareable link | CompanyLinkRemoved | User removed a company-wide link to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Used a company shareable link | CompanyLinkUsed | User accessed a resource by using a company-wide link. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Added permission level to site collection | PermissionLevelAdded | A permission level was added to a site collection. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| User removed from secure link | RemovedFromSecureLink | A user was removed from the list of entities who can use a secure sharing link. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Created secure link | SecureLinkCreated | A secure sharing link was created to an item. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Deleted secure link | SecureLinkDeleted | A secure sharing link was deleted. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Used secure link | SecureLinkUsed | A user used a secure link. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Accepted sharing invitation | SharingInvitationAccepted | User \(member or guest\) accepted a sharing invitation and was granted access to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Blocked sharing invitation | SharingInvitationBlocked | A sharing invitation sent by a user in the organization was blocked. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Created sharing invitation | SharingInvitationCreated | A user shared a resource in SharePoint Online or OneDrive for Business with a user who isn't in the organization's directory. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Withdrew sharing invitation | SharingInvitationRevoked | User withdrew a sharing invitation to a resource. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Updated sharing invitation | SharingInvitationUpdated | An external sharing invitation was updated. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Unshared file, folder, or site | SharingRevoked | User \(member or guest\) unshared a file, folder, or site that was previously shared with another user. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-| Shared file, folder, or site | SharingSet | User \(member or guest\) shared a file, folder, or site in SharePoint or OneDrive for Business with a user in the organization's directory. | ![](https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png) |
-
-## Application administration activities
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Display Name</th>
+      <th style="text-align:left">Original Name</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:center">Collected</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Accepted access request</td>
+      <td style="text-align:left">AccessRequestAccepted</td>
+      <td style="text-align:left">An access request to a site, folder, or document was accepted and the
+        requesting user has been granted access.</td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/checked.png" alt="fgdsg" />
+        </p>
+        <p>
+          <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+          alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Approved access request</td>
+      <td style="text-align:left">AccessRequestApproved</td>
+      <td style="text-align:left">An access request to a site, folder, or document was approved.</td>
+      <td
+      style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Created access request</td>
+      <td style="text-align:left">AccessRequestCreated</td>
+      <td style="text-align:left">User requested access to a site, folder, or document they don&apos;t have
+        permissions to access.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Denied access request</td>
+      <td style="text-align:left">AccessRequestDenied</td>
+      <td style="text-align:left">An access request to a site, folder, or document was denied.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Denied access request</td>
+      <td style="text-align:left">AccessRequestRejected</td>
+      <td style="text-align:left">An access request to a site, folder, or document was denied.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Updated access request</td>
+      <td style="text-align:left">AccessRequestUpdated</td>
+      <td style="text-align:left">An access request to an item was updated.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">User added to secure link</td>
+      <td style="text-align:left">AddedToSecureLink</td>
+      <td style="text-align:left">A user was added to the list of entities who can use a secure sharing
+        link.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Created an anonymous link</td>
+      <td style="text-align:left">AnonymousLinkCreated</td>
+      <td style="text-align:left">A user created an anonymous link to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Removed an anonymous link</td>
+      <td style="text-align:left">AnonymousLinkRemoved</td>
+      <td style="text-align:left">User removed an anonymous link to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Updated an anonymous link</td>
+      <td style="text-align:left">AnonymousLinkUpdated</td>
+      <td style="text-align:left">User updated an anonymous link to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Used an anonymous link</td>
+      <td style="text-align:left">AnonymousLinkUsed</td>
+      <td style="text-align:left">An anonymous user accessed a resource by using an anonymous link.</td>
+      <td
+      style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Created a company shareable link</td>
+      <td style="text-align:left">CompanyLinkCreated</td>
+      <td style="text-align:left">User created a company-wide link to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Removed a company shareable link</td>
+      <td style="text-align:left">CompanyLinkRemoved</td>
+      <td style="text-align:left">User removed a company-wide link to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Used a company shareable link</td>
+      <td style="text-align:left">CompanyLinkUsed</td>
+      <td style="text-align:left">User accessed a resource by using a company-wide link.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Added permission level to site collection</td>
+      <td style="text-align:left">PermissionLevelAdded</td>
+      <td style="text-align:left">A permission level was added to a site collection.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">User removed from secure link</td>
+      <td style="text-align:left">RemovedFromSecureLink</td>
+      <td style="text-align:left">A user was removed from the list of entities who can use a secure sharing
+        link.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Created secure link</td>
+      <td style="text-align:left">SecureLinkCreated</td>
+      <td style="text-align:left">A secure sharing link was created to an item.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Deleted secure link</td>
+      <td style="text-align:left">SecureLinkDeleted</td>
+      <td style="text-align:left">A secure sharing link was deleted.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Used secure link</td>
+      <td style="text-align:left">SecureLinkUsed</td>
+      <td style="text-align:left">A user used a secure link.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Accepted sharing invitation</td>
+      <td style="text-align:left">SharingInvitationAccepted</td>
+      <td style="text-align:left">User (member or guest) accepted a sharing invitation and was granted access
+        to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Blocked sharing invitation</td>
+      <td style="text-align:left">SharingInvitationBlocked</td>
+      <td style="text-align:left">A sharing invitation sent by a user in the organization was blocked.</td>
+      <td
+      style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Created sharing invitation</td>
+      <td style="text-align:left">SharingInvitationCreated</td>
+      <td style="text-align:left">A user shared a resource in SharePoint Online or OneDrive for Business
+        with a user who isn&apos;t in the organization&apos;s directory.</td>
+      <td
+      style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Withdrew sharing invitation</td>
+      <td style="text-align:left">SharingInvitationRevoked</td>
+      <td style="text-align:left">User withdrew a sharing invitation to a resource.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Updated sharing invitation</td>
+      <td style="text-align:left">SharingInvitationUpdated</td>
+      <td style="text-align:left">An external sharing invitation was updated.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Unshared file, folder, or site</td>
+      <td style="text-align:left">SharingRevoked</td>
+      <td style="text-align:left">User (member or guest) unshared a file, folder, or site that was previously
+        shared with another user.</td>
+      <td style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Shared file, folder, or site</td>
+      <td style="text-align:left">SharingSet</td>
+      <td style="text-align:left">User (member or guest) shared a file, folder, or site in SharePoint or
+        OneDrive for Business with a user in the organization&apos;s directory.</td>
+      <td
+      style="text-align:center">
+        <img src="https://github.com/SysKitTeam/docs-securitymanager/tree/e9daa8942681c16e534975fcac7c570b13b0d260/.gitbook/assets/checked.png"
+        alt/>
+        </td>
+    </tr>
+  </tbody>
+</table>## Application administration activities
 
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
