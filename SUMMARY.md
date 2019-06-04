@@ -47,6 +47,6 @@
   * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
   * [Use Filters, Drill and Column Chooser](how-to/use-filters-drill-and-column-chooser.md)
   * [Move LocalDB database to new SQL server](how-to/move-localdb-to-new-server.md)
-  * [Customize Audit Logs Collection](how-to/customize-audit-logs-collection.md)
+  * [Customize Audit Logs Collection](how-to/customize-audit-logs.md)
 * [FAQ](faq.md)
 
