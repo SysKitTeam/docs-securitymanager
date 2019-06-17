@@ -13,8 +13,8 @@ Try the latest version and [tell us what you think.](https://www.syskit.com/comp
 [Try SysKit Security Manager Free](https://www.syskit.com/products/security-manager/download/)
 
 **Product version:** 7.1.0   
-**Build number:** 1897    
-**Release date:** May 24, 2019
+**Build number:** 1966   
+**Release date:** Jun 17, 2019
 
 ## Improvements
 
