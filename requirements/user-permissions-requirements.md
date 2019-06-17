@@ -15,15 +15,32 @@ To install SysKit Security Manager, you need to have **Local Administrator** pri
 
 Once installed SysKit Security Manager can be used with a non privileged user account.
 
-To successfully manage SharePoint permissions, Office 365 Groups, and more, you need to have one of the following privileges on the desired Office 365 or SharePoint On-Premises environment:
+To successfully manage SharePoint permissions, Office 365 Groups, and more, you need to have the following privileges: 
 
+## **Office 365 Permission Requirements**
+
+**SharePoint Online Permissions**
 * **Office 365 Global Administrator**
-* **Farm Administrator**
+
+  Needed to retrieve Office 365 Audit Logs (**optional**).
 * **Site Collection Administrator**
+
+  On each site collection you wish to manage.
+
+* **Group Owner**
+  
+  On each group site you wish to manage.
+
+* **OneDrive Site Collection Administrator**
+
+  On each OneDrive you wish to manage.
+* **Azure Active Directory Application Registration**
+
+  Delegated permissions (see below).
 
 ### Office 365 Considerations
 
-To achieve its functionality, SysKit Security Manager is registered as an Azure Active Directory Application. The permissions model is based on OAuth and OpenID Connect flows. This enables us to consume all of the APIs provided by Microsoft in a standard and well defined way. It also enables us to use modern authentication including Multi-Factor Authentication.  
+To achieve its functionality, SysKit Security Manager is registered as an **Azure Active Directory Application**. The permissions model is based on OAuth and OpenID Connect flows. This enables us to consume all of the APIs provided by Microsoft in a standard and well defined way. It also enables us to use modern authentication including Multi-Factor Authentication.  
 Because of this, when first connecting to an Office 365 tenant the user will be prompted to consent to a set of permissions that SysKit Security Manager requires to function properly. Additional prompts may show up in the future when installing a newer version of SysKit Security Manager because of new functionality and in consequence potentially new required permissions.
 
 For more details on how permissions and consent work in Office 365 you can read the following [article](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent). Be warned, it gets a bit technical.
@@ -41,6 +58,8 @@ If the account used to connect to the Office 365 tenant is a global administrato
 
 ![Global Administrator Consent](../.gitbook/assets/admin-contoso.png)
 
+Have questions about global admin consent? [**Contact us!**](https://www.syskit.com/contact-us/)
+
 #### Site Collection Administrator Consent Considerations
 
 The procedure for using SysKit Security Manager with a normal user account is a bit more involved and will require the global administrator to intervene and [give consent ](global-admin-consent.md)on behalf of the users in the organization. While there are permissions that the user itself can consent to, SysKit Security Manager requires some for which only a global administrator can consent.
@@ -51,7 +70,17 @@ Once established that the account is a non-global administrator account a window
 
 Global administrators considering giving organization wide consent can learn more [here](global-admin-consent.md).
 
-### SharePoint On-Premises Considerations
+## **SharePoint On-Premises Permission Requirements**
+
+* **Farm Administrator**
+
+  For automatic site collection discovery (**optional**).
+
+* **Site Collection Administrator**
+
+  On each site collection you wish to manage.
+
+## SharePoint On-Premises Considerations
 
 * Farm administrators have the possibility to **automatically discover** all site collections in a selected farm.
 
