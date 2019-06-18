@@ -1,10 +1,6 @@
 # Sharing and Access Request Activities
 
-![](../.gitbook/assets/checked.png)
-![](../.gitbook/assets/checked.png)
-![](../.gitbook/assets/checked.png)
-![](../.gitbook/assets/checked.png)
-![](../.gitbook/assets/checked.png)
+![](../../.gitbook/assets/checked.png)
 
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
