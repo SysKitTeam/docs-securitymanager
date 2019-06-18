@@ -27,7 +27,12 @@ There are two ways of installing SysKit Security Manager in regard to the databa
 
 #### Creating a new database
 
-To be able to create a new SysKit Security Manager dedicated database, the user account running the installation and configuration wizard \(i.e. install account\) should be granted both the **dbcreator** and **securityadmin** roles on the preferred SQL Server. This allows the account to create a new database and to assign proper privileges after creation. The install account will be automatically given **db\_owner** privileges on the newly created database, if possible. Otherwise, it is advised that the account is given that privilege manually, as it is needed for upgrading the database.
+To be able to create a new SysKit Security Manager dedicated database, the **user account running the installation and configuration wizard should have the following rights** on the preferred SQL server:
+
+* **dbcreator**
+* **securityadmin**
+
+This allows the account to create a new database and to assign proper privileges after database creation. The install account will be automatically given **db\_owner** privileges on the newly created database, if possible. Otherwise, it is advised that the account is given that privilege manually, as it is needed for upgrading the database.
 
 #### Using the existing database
 
@@ -39,7 +44,7 @@ User running SysKit Security Manager will need to be granted the **db\_datareade
 
 A service account is a user account that is created explicitly to provide a security context for services running on Windows Server operating systems. The security context determined the service’s ability to access local and network resources. The Windows operating systems rely on services to run various features. These services can be configured through the applications, the Services snap-in, or Task Manager, or by using Windows PowerShell.
 
-The service account needs to have the following privileges to be able to run the service, create snapshots and other associated jobs:
+**The service account needs to have the following privileges** to be able to run the service, create snapshots and other associated jobs:
 
 * **local administrator** privileges on this computer with UAC control disabled so we can verify your credentials
 * **db\_owner** privileges on the created SysKit Security Manager dedicated database
@@ -55,11 +60,11 @@ To successfully manage SharePoint permissions, Office 365 Groups, and more, you 
 
 ### SharePoint Online Permissions
 
-* **Office 365 Global Administrator** Needed to retrieve Office 365 Audit Logs \(**optional**\).
+* **Office 365 Global Administrator** Needed to retrieve [Office 365 Audit Logs](../how-to/connect-to-office-365.md#audit-logs) \(**optional**\).
 * **Site Collection Administrator** On each site collection you wish to manage.
 * **Group Owner** On each group site you wish to manage.
 * **OneDrive Site Collection Administrator** On each OneDrive you wish to manage.
-* **Azure Active Directory Application Registration** Delegated permissions \(see below\).
+* **Azure Active Directory Application Registration** Delegated permissions \([see below](user-permissions-requirements.md#azure-active-directory-application-registration)\).
 
 ### Azure Active Directory Application Registration
 
