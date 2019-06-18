@@ -25,3 +25,7 @@ Below, you can find a **complete list of audit log activity categories available
 * **Description** - short description of every activity
 * **Collected** - column showing if the activity is collected by default 
 
+## Activity Categories
+
+
+
