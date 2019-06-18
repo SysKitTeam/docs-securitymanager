@@ -19,7 +19,7 @@ date: 14/03/2018
 * An Intel or AMD 64-bit CPU that's SSE2 capable
 * 512MB of RAM \(1GB recommended\)
 * 1366x768 or higher resolution video card
-* 150MB of available hard disk space
+* 300MB of available hard disk space
 
 ## Database
 
