@@ -1,5 +1,11 @@
 # Sharing and Access Request Activities
 
+![](../.gitbook/assets/checked.png)
+![](../.gitbook/assets/checked.png)
+![](../.gitbook/assets/checked.png)
+![](../.gitbook/assets/checked.png)
+![](../.gitbook/assets/checked.png)
+
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
 | Accepted access request | AccessRequestAccepted | An access request to a site, folder, or document was accepted and the requesting user has been granted access. | ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LVxG3Y9flBQV5WuDNmq%2F-Lg1_nx95bdLDB1GcLqX%2F-Lg1dxNvSSUJDaTDDZMp%2Fchecked.png?alt=media&token=8dd3fbc5-29bb-418d-bef6-0649cb8c5244)​ |
