@@ -7,18 +7,22 @@ author: Petra Filipi
 date: 14/03/2018
 ---
 
+# User Permissions Requirements
+
 ## Installation
 
-To install SysKit Security Manager, you need to have **Local Administrator** privileges on the target installation computer. Once installed, SysKit Security Manager can be used with a non-privileged user account. 
+To install SysKit Security Manager, you need to have **Local Administrator** privileges on the target installation computer. Once installed, SysKit Security Manager can be used with a non-privileged user account.
 
 There are two ways of installing SysKit Security Manager in regard to the database install location and the required user account permissions.
 
 ### Default Installation
 
-  * SysKit Security Manager Setup will install and configure a new instance of **SQL Server 2012 Express LocalDB** named SysKitSecurityManagerInstance.
-  * LocalDB instance can be located in the following directory:
-    _%LOCALAPPDATA%\SysKit\Security Manager\Db_
-  * By default, access to the instance of LocalDB is limited to its owner.
+* SysKit Security Manager Setup will install and configure a new instance of **SQL Server 2012 Express LocalDB** named SysKitSecurityManagerInstance.
+* LocalDB instance can be located in the following directory:
+
+  _%LOCALAPPDATA%\SysKit\Security Manager\Db_
+
+* By default, access to the instance of LocalDB is limited to its owner.
 
 ### Advanced Installation
 
@@ -46,26 +50,17 @@ The service account needs to have the following privileges to be able to run the
 If the service account is outside your domain the account name must be typed in the down-level logon name format: _**domain\accountname**_
 {% endhint %}
 
-
 ## Office 365 Permission Requirements
 
-To successfully manage SharePoint permissions, Office 365 Groups, and more, you need to have the following privileges: 
+To successfully manage SharePoint permissions, Office 365 Groups, and more, you need to have the following privileges:
 
 ### SharePoint Online Permissions
-* **Office 365 Global Administrator**
-  Needed to retrieve Office 365 Audit Logs (**optional**).
 
-* **Site Collection Administrator**
-  On each site collection you wish to manage.
-
-* **Group Owner**  
-  On each group site you wish to manage.
-
-* **OneDrive Site Collection Administrator**
-  On each OneDrive you wish to manage.
-
-* **Azure Active Directory Application Registration**
-  Delegated permissions (see below).
+* **Office 365 Global Administrator** Needed to retrieve Office 365 Audit Logs \(**optional**\).
+* **Site Collection Administrator** On each site collection you wish to manage.
+* **Group Owner** On each group site you wish to manage.
+* **OneDrive Site Collection Administrator** On each OneDrive you wish to manage.
+* **Azure Active Directory Application Registration** Delegated permissions \(see below\).
 
 ### Azure Active Directory Application Registration
 
@@ -101,12 +96,6 @@ Global administrators considering giving organization wide consent can learn mor
 
 ## SharePoint On-Premises Permission Requirements
 
-* **Farm Administrator**
-  For automatic site collection discovery (**optional**).
-
-* **Site Collection Administrator**
-  On each site collection you wish to manage.
-
-
-
+* **Farm Administrator** For automatic site collection discovery \(**optional**\).
+* **Site Collection Administrator** On each site collection you wish to manage.
 
