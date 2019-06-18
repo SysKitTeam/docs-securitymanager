@@ -16,3 +16,4 @@
 | Updated domain | Update domain | Updated the settings of a domain in an Office 365 organization. | ![](../../.gitbook/assets/checked.png) |
 | Verified domain | Verify domain | Verified that an organization is the owner of a domain. | ![](../../.gitbook/assets/checked.png) |
 | Verified email verified domain | Verify email verified domain | Used email verification to verify that an organization is the owner of a domain. | ![](../../.gitbook/assets/checked.png) |
+

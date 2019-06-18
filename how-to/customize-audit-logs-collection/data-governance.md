@@ -14,3 +14,4 @@
 | Site content type created | SiteContentTypeCreated | A content type was created in a SharePoint site. | ![](../../.gitbook/assets/checked.png) |
 | Site content type deleted | SiteContentTypeDeleted | A content type was deleted from a SharePoint site. | ![](../../.gitbook/assets/checked.png) |
 | Site content type updated | SiteContentTypeUpdated | A content type was updated in a SharePoint site. | ![](../../.gitbook/assets/checked.png) |
+

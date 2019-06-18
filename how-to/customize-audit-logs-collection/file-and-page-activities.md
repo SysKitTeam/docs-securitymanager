@@ -26,3 +26,4 @@
 | Viewed page | PageViewed | A user viewed a page on a site. | ![](../../.gitbook/assets/checked.png) |
 | Viewed page extended | PageViewedExtended | A user viewed a page on a site. | ![](../../.gitbook/assets/checked.png) |
 | Search query performed | SearchQueryPerformed | User performed a search query on a SharePoint or OneDrive for Business site. | ![](../../.gitbook/assets/checked.png) |
+

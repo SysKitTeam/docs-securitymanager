@@ -22,3 +22,4 @@
 | Updated device | Update device | A device was enabled/disabled in Azure AD. | ![](../../.gitbook/assets/checked.png) |
 | Updated external secrets | Update external secrets | Secrets for external-facing services were updated. | ![](../../.gitbook/assets/checked.png) |
 | Updated user | Update user | Administrator changed one or more properties of a user account. | ![](../../.gitbook/assets/checked.png) |
+

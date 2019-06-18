@@ -9,3 +9,4 @@
 | Recycled list item | ListItemRecycled | A user moved a list item to the recycle bin of a site. | ![](../../.gitbook/assets/checked.png) |
 | Updated list item | ListItemUpdated | A user updated a list item on a SharePoint site. | ![](../../.gitbook/assets/checked.png) |
 | Updated list | ListUpdated | A user updated a list on a SharePoint site. | ![](../../.gitbook/assets/checked.png) |
+

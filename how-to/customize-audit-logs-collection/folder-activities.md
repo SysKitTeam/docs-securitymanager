@@ -11,3 +11,4 @@
 | Moved folder | FolderMoved | A user moved a folder to a different location on a site. | ![](../../.gitbook/assets/checked.png) |
 | Renamed folder | FolderRenamed | User renamed a folder on a site. | ![](../../.gitbook/assets/checked.png) |
 | Restored folder | FolderRestored | User restored a deleted folder from the recycle bin on a site. | ![](../../.gitbook/assets/checked.png) |
+

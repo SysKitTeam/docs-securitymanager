@@ -26,3 +26,4 @@
 | Display Name | Original Name | Description | Collected |
 | :--- | :--- | :--- | :---: |
 | Removed unified group | Remove-UnifiedGroup | An Office 365 group was removed from a tenant. | ![](../../.gitbook/assets/checked.png) |
+

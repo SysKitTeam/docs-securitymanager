@@ -8,3 +8,4 @@
 | Uploaded file changes to document library | FileSyncUploadedPartial | User successfully uploaded changes to files on a document library. | ![](../../.gitbook/assets/checked.png) |
 | Allowed computer to sync files | ManagedSyncClientAllowed | User successfully established a sync relationship with a site. | ![](../../.gitbook/assets/checked.png) |
 | Blocked computer from syncing files | UnmanagedSyncClientBlocked | User's computer was blocked from syncing, downloading, or uploading files on a document library. | ![](../../.gitbook/assets/checked.png) |
+

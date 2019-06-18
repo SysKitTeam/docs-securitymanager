@@ -28,3 +28,4 @@
 | Updated sharing invitation | SharingInvitationUpdated | An external sharing invitation was updated. | ![](../../.gitbook/assets/checked.png) |
 | Unshared file, folder, or site | SharingRevoked | User \(member or guest\) unshared a file, folder, or site that was previously shared with another user. | ![](../../.gitbook/assets/checked.png) |
 | Shared file, folder, or site | SharingSet | User \(member or guest\) shared a file, folder, or site in SharePoint or OneDrive for Business with a user in the organization's directory. | ![](../../.gitbook/assets/checked.png) |
+

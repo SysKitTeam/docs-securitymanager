@@ -42,3 +42,4 @@
 | Changed Messaging Policy | Set-CsTeamsMessagingPolicy | An administrator updated a Teams messaging policy. | ![](../../.gitbook/assets/checked.png) |
 | Changed Upgrade Configuration | Set-CsTeamsUpgradeConfiguration | An administrator changed the Teams upgrade configuration. | ![](../../.gitbook/assets/checked.png) |
 | Changed Federation Configuration | Set-CsTenantFederationConfiguration | An administrator changed federation configuration settings for a Skype for Business Online tenant. | ![](../../.gitbook/assets/checked.png) |
+

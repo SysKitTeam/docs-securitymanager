@@ -23,3 +23,4 @@
 | Updated application | Update application | Configuration options of an application were changed in Azure AD. | ![](../../.gitbook/assets/checked.png) |
 | Updated service principal | Update service principal | Properties of a service principal were updated. | ![](../../.gitbook/assets/checked.png) |
 | Updated StsRefreshTokenValidFrom Timestamp | Update StsRefreshTokenValidFrom Timestamp | Updated StsRefreshTokenValidFrom Timestamp. | ![](../../.gitbook/assets/checked.png) |
+

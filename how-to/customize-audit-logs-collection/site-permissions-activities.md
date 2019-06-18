@@ -19,3 +19,4 @@
 | Modified site permissions | SitePermissionsModified | Site administrator or owner \(or system account\) changed the permission level that is assigned to a group on a site. | ![](../../.gitbook/assets/checked.png) |
 | Modified 'Members Can Share' setting | WebMembersCanShareModified | The 'Members Can Share' setting was modified on a site. | ![](../../.gitbook/assets/checked.png) |
 | Modified access request setting | WebRequestAccessModified | The access request settings were modified on a site. | ![](../../.gitbook/assets/checked.png) |
+

@@ -10,3 +10,4 @@
 | Removed member from group | Remove member from group | A member was removed from a group. | ![](../../.gitbook/assets/checked.png) |
 | Removed owner from group | Remove owner from group | An owner was removed from a group. | ![](../../.gitbook/assets/checked.png) |
 | Updated group | Update group | A property of a group was changed. | ![](../../.gitbook/assets/checked.png) |
+
