@@ -18,7 +18,7 @@ To see all available activities and manage which of them are collected by SysKit
 **Can't find an activity** in the audit reports? Chances are, it is not collected by default. Review your settings and turn on the collection of wanted activities.
 {% endhint %}
 
-Here, you can find a list of all audit log activity categories available in SysKit Security Manager**.** You can select from **more than 200 activities** currently available, with **the list being regularly updated** with new activities. By clicking on the activity category link, you can find the following information for each activity:
+Below, you can find a **complete list of audit log activity categories available in SysKit Security Manager.** You can select from **more than 200 activities** currently available, with **the list being regularly updated** with new activities. By clicking on the activity category link, you can find the following information for each activity in the selected category:
 
 * **Display Name** - activity name visible in SysKit Security Manager
 * **Original Name** - original activity name created by Microsoft visible in Audit logs search
