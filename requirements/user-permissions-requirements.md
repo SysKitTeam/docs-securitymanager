@@ -18,11 +18,10 @@ There are two ways of installing SysKit Security Manager in regard to the databa
 ### Default Installation
 
 * SysKit Security Manager Setup will install and configure a new instance of **SQL Server 2012 Express LocalDB** named SysKitSecurityManagerInstance.
+* **By default, access to the instance of LocalDB is limited to its owner.**
 * LocalDB instance can be located in the following directory:
 
   _%LOCALAPPDATA%\SysKit\Security Manager\Db_
-
-* By default, access to the instance of LocalDB is limited to its owner.
 
 ### Advanced Installation
 
