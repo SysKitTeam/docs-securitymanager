@@ -63,6 +63,8 @@ Audit logs collection is **not available for on-premises site collections.**
 
 To collect Office 365 audit logs, SysKit Security Manager needs the **consent of a Global Office 365 tenant administrator**.
 
+![Global Administrator audit consent](../.gitbook/assets/global-admin-audit-consent.png)
+
 Once the Audit Logs option is enabled, the **Audit Log Collector job** will poll every 15 minutes to discover new audit logs that are available for download. For the Audit Log Collector job to run, **the SysKit Security Manager Service is necessary**. Downloaded audit logs are processed and all needed information is saved to a defined storage location on disk.
 
 ## Summary
