@@ -42,6 +42,7 @@
   * [Connect to SharePoint On-Premises Site Collections](how-to/connect-to-sharepoint-on-premise.md)
   * [Manage Access Requests](how-to/accept-decline-access-requests.md)
   * [Compare Permissions and Track Changes](how-to/compare-permissions.md)
+  * [Copy user permissions from one user to another](how-to/copy-user-permissions-from-one-user-to-another.md)
   * [Take Manual Snapshots](how-to/manual-snapshots.md)
   * [Take Scheduled Snapshots](how-to/scheduled-snapshots.md)
   * [Send Scheduled Reports](how-to/send-scheduled-reports.md)
