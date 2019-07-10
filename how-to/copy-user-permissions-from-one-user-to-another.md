@@ -36,7 +36,11 @@ Available actions are:
 
 _**Copy Site Administrator role**_ - if the source principal is the site collection administrator of the selected site\(s\), the target user will be added as the site administrator as well.  
 
-_**Keep existing destination principal\(s\) permissions and group membership**_ - destination principal\(s\) will acquire all permissions and group membership\(s\) from the source principal. Please note that the following will not be copied: sharing links, OneDrive access, and Security Groups membership. 
+_**Keep existing destination principal\(s\) permissions and group membership**_ - destination principal\(s\) will acquire all permissions and group membership\(s\) from the source principal. 
+
+{% hint style="warning" %}
+**Please note!** The following will not be copied: sharing links, OneDrive access, and Security Groups membership. 
+{% endhint %}
 
 * **Remove User** - Remove the selected user from the selected site collection\(s\).
 
