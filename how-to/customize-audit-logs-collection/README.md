@@ -27,19 +27,19 @@ Below, you can find a **complete list of audit log activity categories available
 
 ## Activity Categories
 
-* \*\*\*\*[**Sharing and Access Request Activities**](sharing-and-access-request-activities.md)\*\*\*\*
-* \*\*\*\*[**Application Administration Activities**](application-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**User Administration Activities**](user-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**Directory Administration Activities**](directory-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**Azure AD Group Administration Activities**](azure-ad-group-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**Role Administration Activities**](role-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**Site Permissions Activities**](site-permissions-activities.md)\*\*\*\*
-* \*\*\*\*[**Site Administration Activities**](site-administration-activities.md)\*\*\*\*
-* \*\*\*\*[**Microsoft Teams Activities**](microsoft-teams-activities.md)\*\*\*\*
-* \*\*\*\*[**File and Page Activities**](file-and-page-activities.md)\*\*\*\*
-* \*\*\*\*[**Synchronization Activities**](synchronization-activities.md)\*\*\*\*
-* \*\*\*\*[**Folder Activities**](folder-activities.md)\*\*\*\*
-* \*\*\*\*[**Data Governance**](data-governance.md)\*\*\*\*
-* \*\*\*\*[**SharePoint List Events**](sharepoint-list-events.md)\*\*\*\*
-* \*\*\*\*[**User Activities**](user-activities.md)\*\*\*\*
+* [**Sharing and Access Request Activities**](sharing-and-access-request-activities.md)
+* [**Application Administration Activities**](application-administration-activities.md)
+* [**User Administration Activities**](user-administration-activities.md)
+* [**Directory Administration Activities**](directory-administration-activities.md)
+* [**Azure AD Group Administration Activities**](azure-ad-group-administration-activities.md)
+* [**Role Administration Activities**](role-administration-activities.md)
+* [**Site Permissions Activities**](site-permissions-activities.md)
+* [**Site Administration Activities**](site-administration-activities.md)
+* [**Microsoft Teams Activities**](microsoft-teams-activities.md)
+* [**File and Page Activities**](file-and-page-activities.md)
+* [**Synchronization Activities**](synchronization-activities.md)
+* [**Folder Activities**](folder-activities.md)
+* [**Data Governance**](data-governance.md)
+* [**SharePoint List Events**](sharepoint-list-events.md)
+* [**User Activities**](user-activities.md)
 
