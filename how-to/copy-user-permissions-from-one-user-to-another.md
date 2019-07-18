@@ -39,8 +39,8 @@ Once you choose, for example the **/sites/cw,** site collection, two available a
 
 * **Remove User** - Remove the selected user from all of the selected site collection\(s\).
 * **Copy Permissions** - Copy permissions and group memberships of the currently selected user to a different one on the selected site\(s\). Before performing an action, a user has two additional options available:
-  * _**Copy Site Administrator role**_ - if the source principal is the site collection administrator of the selected site\(s\), the target user will be added as the site administrator as well. 
-  * _**Keep existing destination principal\(s\) permissions and group membership**_ - the destination principals\(s\) will acquire all permissions and group membership\(s\) from the source principal without loosing the ones he had before this action.
+  * **Copy Site Administrator role** - if the source principal is the site collection administrator of the selected site\(s\), the target user will be added as the site administrator as well. 
+  * **Keep existing destination principal\(s\) permissions and group membership** - the destination principals\(s\) will acquire all permissions and group membership\(s\) from the source principal without loosing the ones he had before this action.
 
 {% hint style="warning" %}
 **Please note!** The following limitations may apply: sharing links, OneDrive access, and Security Groups membership will not be copied.
